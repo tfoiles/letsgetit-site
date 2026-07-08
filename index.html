@@ -1,0 +1,206 @@
+<!-- index.html — Let's Get It placeholder site. Self-contained: inline CSS, no JS, no build step. -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Let's Get It</title>
+<meta name="description" content="Let's Get It — pop/rock/R&B band from Dayton, Ohio (2008–2012) on Fearless Records. EP Digital Spaces (2009) and album Masters of the Universe (2011)." />
+
+<!-- Open Graph -->
+<meta property="og:title" content="Let's Get It" />
+<meta property="og:description" content="Pop/rock/R&B band from Dayton, Ohio (2008–2012) on Fearless Records." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://letsgetitband.com" />
+<meta property="og:image" content="https://letsgetitband.com/og.png" />
+
+<!-- Twitter card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Let's Get It" />
+<meta name="twitter:description" content="Pop/rock/R&B band from Dayton, Ohio (2008–2012) on Fearless Records." />
+<meta name="twitter:image" content="https://letsgetitband.com/og.png" />
+
+<!-- Inline SVG favicon -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230a0a0c'/%3E%3Ctext x='16' y='23' font-family='Georgia,serif' font-size='20' font-weight='700' text-anchor='middle' fill='%23ff3d7f'%3EL%3C/text%3E%3C/svg%3E" />
+
+<style>
+  :root {
+    --bg: #0a0a0c;
+    --surface: #141418;
+    --text: #f4f4f6;
+    --muted: #a5a5b0;
+    --accent: #ff3d7f;
+    --accent-ink: #12060b;
+    --border: #26262e;
+    --focus: #ffd84d;
+  }
+
+  * { box-sizing: border-box; }
+
+  html { -webkit-text-size-adjust: 100%; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    /* subtle glow so the near-black isn't flat */
+    background-image: radial-gradient(1000px 600px at 50% -10%, rgba(255, 61, 127, 0.14), transparent 70%);
+    background-repeat: no-repeat;
+  }
+
+  main {
+    flex: 1;
+    width: 100%;
+    max-width: 640px;
+    margin: 0 auto;
+    padding: clamp(3rem, 12vh, 7rem) 1.5rem 2rem;
+  }
+
+  .era {
+    margin: 0 0 0.75rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 600;
+  }
+
+  h1 {
+    margin: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 700;
+    font-size: clamp(3rem, 15vw, 6rem);
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+
+  .blurb {
+    margin: 1.75rem 0 0;
+    max-width: 46ch;
+    color: var(--muted);
+    font-size: 1.05rem;
+  }
+
+  .blurb em { color: var(--text); font-style: italic; }
+
+  h2 {
+    margin: 2.5rem 0 0.9rem;
+    font-size: 0.75rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-weight: 600;
+  }
+
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  /* Primary listen buttons */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.7rem 1.25rem;
+    border-radius: 999px;
+    background: var(--accent);
+    color: var(--accent-ink);
+    font-weight: 700;
+    text-decoration: none;
+    border: 1px solid transparent;
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+  }
+
+  .btn:hover {
+    background: #ff5c93;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(255, 61, 127, 0.3);
+  }
+
+  /* Secondary text links */
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.4rem;
+  }
+
+  .links a {
+    color: var(--text);
+    text-decoration: none;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 2px;
+    transition: color 0.18s ease, border-color 0.18s ease;
+  }
+
+  .links a:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+  }
+
+  .social a[href="#"] {
+    color: var(--muted);
+  }
+
+  /* Visible focus states for keyboard users */
+  a:focus-visible {
+    outline: 3px solid var(--focus);
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+
+  footer {
+    max-width: 640px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 2rem 1.5rem;
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+    .btn:hover { transform: none; }
+  }
+</style>
+
+<main>
+  <p class="era">Dayton, Ohio · 2008–2012 · Fearless Records</p>
+  <h1>Let's Get It</h1>
+
+  <p class="blurb">
+    A pop/rock/R&amp;B band from Dayton, Ohio, signed to Fearless Records.
+    Home of the EP <em>Digital Spaces</em> (2009) and the album <em>Masters of the Universe</em> (2011).
+  </p>
+
+  <h2>Listen</h2>
+  <div class="row">
+    <a class="btn" href="https://open.spotify.com/artist/6PvtObzrQDw6LT6XoUALpf">Spotify</a>
+    <a class="btn" href="https://music.apple.com/us/artist/lets-get-it/289801706">Apple Music</a>
+  </div>
+
+  <h2>More</h2>
+  <nav class="links" aria-label="More links">
+    <a href="https://fearlessrecords.com/artists/lets-get-it/">Fearless Records</a>
+    <a href="https://www.discogs.com/artist/2406277-Lets-Get-It">Discogs</a>
+    <a href="https://fearless.merchnow.com/catalogs/lets-get-it">Merch</a>
+  </nav>
+
+  <h2>Follow</h2>
+  <nav class="links social" aria-label="Social links">
+    <!-- TODO: replace href="#" with the real profile URLs when available -->
+    <a href="#">Instagram</a>
+    <!-- TODO: replace href="#" with the real profile URLs when available -->
+    <a href="#">YouTube</a>
+    <!-- TODO: replace href="#" with the real profile URLs when available -->
+    <a href="#">TikTok</a>
+  </nav>
+</main>
+
+<footer>
+  <p>© Let's Get It</p>
+</footer>
