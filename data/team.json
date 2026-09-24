@@ -121,5 +121,54 @@
   ],
   "status": "A&R role per band owner; a public profile snippet describes a marketing and promotions role at Fearless, so the title is unresolved",
   "notes": "The band's planning notes (S42) say video files went to 'Nate' at Fearless for the label's YouTube channel, and a band-channel video is titled 'Our A&R Nate' (S29). The surname is not given in either; a public profile snippet gives marketing and promotions (S28). He may have handled both."
+ },
+ {
+  "name": "Joey Sturgis",
+  "role": "Producer of the Digital Spaces EP",
+  "org": null,
+  "era": "2009 (EP released August 4, 2009)",
+  "confidence": "HIGH",
+  "source_ids": [
+   "S1",
+   "S6"
+  ],
+  "status": null,
+  "notes": "Named as producer in the Fearless bio (S1); Discogs also lists a 'Maps (Joey Sturgis Remix)' by Let's Get It on Take Action Volume 9 (S6)."
+ },
+ {
+  "name": "Ian Kirkpatrick",
+  "role": "Producer announced for the debut album",
+  "org": null,
+  "era": "July 2010 press release: recording in Hollywood, CA from late August 2010",
+  "confidence": "MEDIUM",
+  "source_ids": [
+   "S15"
+  ],
+  "status": "Announcement only; final production credits not yet confirmed",
+  "notes": null
+ },
+ {
+  "name": "Mike Green",
+  "role": "Producer announced for the debut album",
+  "org": null,
+  "era": "July 2010 press release: recording in Hollywood, CA from late August 2010",
+  "confidence": "MEDIUM",
+  "source_ids": [
+   "S15"
+  ],
+  "status": "Announcement only; final production credits not yet confirmed",
+  "notes": null
+ },
+ {
+  "name": "Marco Patini Furtado",
+  "role": "Illustrator of the Masters of the Universe cover (elephant)",
+  "org": null,
+  "era": "2010",
+  "confidence": "MEDIUM",
+  "source_ids": [
+   "S41"
+  ],
+  "status": "Per the band's artwork notes",
+  "notes": null
  }
 ]

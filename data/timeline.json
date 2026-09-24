@@ -110,6 +110,15 @@
   "confidence": "MEDIUM"
  },
  {
+  "date": "2009-06-25",
+  "event": "'Ciroc and Roll' video published on YouTube (Fearless channel).",
+  "source_ids": [
+   "S30",
+   "S29"
+  ],
+  "confidence": "HIGH"
+ },
+ {
   "date": "2009-07-24",
   "event": "Digital Spaces EP Party at The Attic Club, Kettering, Ohio (flyer; year inferred from the weekday).",
   "source_ids": [
@@ -182,6 +191,15 @@
    "S18"
   ],
   "confidence": "LOW-MEDIUM"
+ },
+ {
+  "date": "2010-03-02",
+  "event": "'Duck Duck Grey Goose' official music video published (Fearless channel); about 465,000 views by 2026.",
+  "source_ids": [
+   "S30",
+   "S29"
+  ],
+  "confidence": "HIGH"
  },
  {
   "date": "2010-03-25",

@@ -64,10 +64,10 @@
   "url": "https://open.spotify.com/artist/6PvtObzrQDw6LT6XoUALpf",
   "archive_url": null,
   "source_type": "DATABASE",
-  "reliability": "not assessed",
-  "related_content": "listening link",
-  "notes": "Link carried over from the original placeholder site; not read by researcher.",
-  "access_date": null
+  "reliability": "HIGH that the page shows this listener figure (read by page fetch)",
+  "related_content": "monthly listeners: 6.8K (2026-09-24)",
+  "notes": "Artist page read on the access date; only the monthly-listener figure is used. Per-track stream counts are not on the public page (see NEEDS_FROM_YOU).",
+  "access_date": "2026-09-24"
  },
  {
   "id": "S6",
@@ -402,7 +402,7 @@
   "source_type": "VIDEO",
   "reliability": "HIGH that these videos exist and carry these titles and dates; the channel appears to be the band's own (titles such as 'Our A&R Nate' and 'Joe and Taylor LA update'); ownership to be confirmed by the band owner",
   "related_content": "29 videos: song videos, tour and behind-the-scenes clips, live clips; corroborates Bamboozle 2010, the Atticus tour, a March 2009 tour, a 2010-07-18 Hot Topic set and a Springfield, Ohio show",
-  "notes": "Titles and dates read through YouTube's oEmbed and RSS feed (the feed shows only the 15 newest videos, so 14 older videos have no date here). Individual video links are in the Music & Video section.",
+  "notes": "Titles and dates read through YouTube's oEmbed and RSS feed (the feed shows only the 15 newest videos, so 14 older videos have no date here). Individual video links are in the Music & Video section. View counts and publish dates were read from each video's public page on the access date.",
   "access_date": "2026-09-24"
  },
  {
@@ -613,6 +613,20 @@
   "reliability": "HIGH",
   "related_content": "'2,411 total fans' on March 25, 2010",
   "notes": "Small file in the band archive.",
+  "access_date": "2026-09-24"
+ },
+ {
+  "id": "S45",
+  "title": "Let's Get It — Last.fm artist page",
+  "publisher": "Last.fm",
+  "author": null,
+  "date": null,
+  "url": "https://www.last.fm/music/Let's+Get+It",
+  "archive_url": null,
+  "source_type": "DATABASE",
+  "reliability": "MEDIUM (figures read through a page summarizer; verify on the page)",
+  "related_content": "listeners 58.8K; scrobbles (plays) 667.4K",
+  "notes": "Numbers as shown on the access date.",
   "access_date": "2026-09-24"
  }
 ]

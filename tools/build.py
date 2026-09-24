@@ -57,7 +57,7 @@ def release_html(r):
             f'<a href="{e(l["url"])}">Listen — {e(l["label"])}</a>' for l in r["links"]
         ) + "</div>"
     fmt = f'<p class="srcnote">Formats: {e("; ".join(r["formats"]))}</p>' if r.get("formats") else ""
-    credits = f'<p class="srcnote">Credits: {e("; ".join(r["credits"]))}</p>' if r["credits"] else ""
+    credits = f'<p class="srcnote"><strong>Credits:</strong> {e("; ".join(r["credits"]))}</p>' if r["credits"] else ""
     return (
         f'<div class="release">\n<p class="rt">{e(r["title"])} <span class="src">— {kind}</span></p>\n'
         f'<p class="rmeta">{head} {cites(r["source_ids"])} {conf_tag(r["confidence"])}</p>\n'
@@ -203,7 +203,8 @@ def gen_media():
         pub = f' <span class="src">{e(v["published"])}</span>' if v.get("published") else ""
         kind = f' <span class="src">· {e(v["kind"])}</span>' if v.get("kind") else ""
         who = f' <span class="src">· {e(v["channel"])}</span>' if v.get("channel") else ""
-        return f'<li><a href="{e(v["url"])}">{e(v["title"])}</a>{pub}{kind}{who} {src}</li>'
+        views = f' <span class="src">· {v["views"]:,} views</span>' if v.get("views") else ""
+        return f'<li><a href="{e(v["url"])}">{e(v["title"])}</a>{pub}{kind}{who}{views} {src}</li>'
 
     off = "".join(vrow(v, cites(v["source_ids"])) for v in m["official_videos"])
     bc = m["band_channel"]
@@ -290,6 +291,20 @@ def gen_songs():
     return f'<h3>Demos, mixes and outtakes (from the band\'s files)</h3><p class="srcnote">{e(d["note"])}</p><ul class="plain notes">{items}</ul>'
 
 
+def gen_numbers():
+    d = load("numbers")
+    rows = "".join(
+        f'<tr><td>{e(n["metric"])}</td><td class="d">{e(n["value"])}</td><td class="d">{e(n["as_of"])}</td>'
+        f'<td>{e(n["notes"])} {cites(n["source_ids"])} {conf_tag(n["confidence"])}</td></tr>'
+        for n in d["items"]
+    )
+    return (
+        '<h3>By the numbers</h3><div class="tablewrap"><table class="shows"><thead><tr><th>Measure</th><th>Figure</th><th>As of</th><th>Notes</th></tr></thead>'
+        f"<tbody>{rows}</tbody></table></div>"
+        f'<div class="needed"><span class="label">ENTRY NEEDED</span>{e(d["missing"])}</div>'
+    )
+
+
 def gen_press():
     items = []
     for p in load("press"):
@@ -351,6 +366,7 @@ BLOCKS = {
     "team": gen_team,
     "tours": gen_tours,
     "media": gen_media,
+    "numbers": gen_numbers,
     "photos": gen_photos,
     "ephemera": gen_ephemera,
     "press": gen_press,
