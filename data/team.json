@@ -1,0 +1,107 @@
+[
+ {
+  "name": "David Marsh",
+  "role": "Manager",
+  "org": null,
+  "era": "Listed as management on the band's MySpace in January 2009; other eras not yet documented",
+  "confidence": "MEDIUM",
+  "source_ids": [
+   "S10",
+   "S22"
+  ],
+  "status": "Role per band owner; the 2009 listing corroborates the earlier era only",
+  "notes": "Third-party contact details on the archived page are deliberately not reproduced."
+ },
+ {
+  "name": "Dave Shapiro",
+  "role": "Booking agent",
+  "org": "The Agency Group",
+  "era": "Listed as booking on the band's MySpace in January 2009",
+  "confidence": "HIGH",
+  "source_ids": [
+   "S10",
+   "S22",
+   "S23",
+   "S24"
+  ],
+  "status": "Deceased: died May 22, 2025",
+  "notes": "Shapiro later co-founded Sound Talent Group in 2018 (per AP). The 2025 report describes him as widely respected in the heavy-music scene."
+ },
+ {
+  "name": "Bryan K. Christner",
+  "role": "Entertainment attorney",
+  "org": "BKChristner, PC",
+  "era": "Listed as the band's attorney on its MySpace in January 2009",
+  "confidence": "HIGH",
+  "source_ids": [
+   "S10",
+   "S22",
+   "S26"
+  ],
+  "status": null,
+  "notes": "Firm site states a practice in Entertainment & New Media Law."
+ },
+ {
+  "name": "Chris Allen",
+  "role": "Management (The Collective)",
+  "org": "The Collective Music Group (thecollective-la.com)",
+  "era": "Joined The Collective as a Partner in July 2008 (company site, archived 2010)",
+  "confidence": "MEDIUM",
+  "source_ids": [
+   "S22",
+   "S25"
+  ],
+  "status": "Role and era at Let's Get It per band owner; the company site confirms Allen's position but does not mention the band",
+  "notes": "The company site says Allen 'discovered and managed' The All-American Rejects and Plain White T's; that is the site's own claim."
+ },
+ {
+  "name": "Matt Feldman",
+  "role": "Management (Fanagement LLC)",
+  "org": "Fanagement LLC",
+  "era": null,
+  "confidence": "LOW",
+  "source_ids": [
+   "S22",
+   "S27"
+  ],
+  "status": "Per band owner only; no public source found",
+  "notes": "Searches did not link a Matt Feldman to a company named Fanagement. An archived fanagement.com is a music-business blog; the connection is unconfirmed."
+ },
+ {
+  "name": "Jamie Irvine",
+  "role": "Tour manager",
+  "org": null,
+  "era": null,
+  "confidence": "LOW",
+  "source_ids": [
+   "S22"
+  ],
+  "status": "Per band owner only; no public source found",
+  "notes": "Searches for this name returned unrelated people; none is identified as this tour manager."
+ },
+ {
+  "name": "Billy Adams",
+  "role": "Touring merchandise",
+  "org": null,
+  "era": null,
+  "confidence": "LOW",
+  "source_ids": [
+   "S22"
+  ],
+  "status": "Per band owner only; no public source found",
+  "notes": null
+ },
+ {
+  "name": "Nate Matzelle",
+  "role": "Fearless Records A&R",
+  "org": "Fearless Records",
+  "era": null,
+  "confidence": "LOW-MEDIUM",
+  "source_ids": [
+   "S22",
+   "S28"
+  ],
+  "status": "A&R role per band owner; a public profile snippet describes a marketing and promotions role at Fearless, so the title is unresolved",
+  "notes": "May reflect different periods."
+ }
+]

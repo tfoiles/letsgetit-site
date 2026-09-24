@@ -76,58 +76,94 @@ def gen_members():
     conflict = next(c for c in load("conflicts") if c["id"] == "C1")
     return (
         f'<ul class="plain">{items}</ul>\n'
-        f'<p class="srcnote"><strong>Lineup source:</strong> a 2010 press release repost (S15), agreeing with a community wiki (S17). '
-        f'Membership dates and touring/former members are not yet documented.</p>\n'
-        f'<div class="conflict"><span class="label">CONFLICT</span>{e(conflict["summary"])} {cites(conflict["source_ids"])}</div>\n'
+        f'<p class="srcnote"><strong>Lineup source:</strong> a 2010 press release repost (S15) and a community wiki (S17); '
+        f'Tyler Smyth and Taylor Foiles are confirmed by a band member (S22). Membership dates and touring/former members are not yet documented.</p>\n'
+        f'<div class="conflict"><span class="label">NOTE — CORRECTED BY A BAND MEMBER</span>{e(conflict["summary"])} {cites(conflict["source_ids"])}</div>\n'
         '<div class="needed"><span class="label">ENTRY NEEDED</span>'
-        'Years each member was in the band, any touring or former members, and confirmation of the lineup above.</div>'
+        'Years each member was in the band, and any touring or former members.</div>'
+    )
+
+def gen_team():
+    items = []
+    for t in load("team"):
+        org = f' <span class="src">· {e(t["org"])}</span>' if t.get("org") else ""
+        era = f'<br><span class="srcnote">{e(t["era"])}</span>' if t.get("era") else ""
+        status = f'<br><span class="srcnote"><strong>{e(t["status"])}</strong></span>' if t.get("status") else ""
+        notes = f'<br><span class="srcnote">{e(t["notes"])}</span>' if t.get("notes") else ""
+        items.append(
+            f'<li>{e(t["name"])} <span class="role">{e(t["role"])}{org} {cites(t["source_ids"])} {conf_tag(t["confidence"])}'
+            f"{era}{status}{notes}</span></li>"
+        )
+    return (
+        '<p>The people around the band. Roles come from the band owner (S22) and are checked against public sources where any exist; '
+        'the label beside each name says how well the sources support it. Contact details are deliberately not published.</p>\n'
+        f'<ul class="plain">{"".join(items)}</ul>\n'
+        '<div class="needed"><span class="label">ENTRY NEEDED</span>'
+        'Years each person worked with the band, and the companies for David Marsh, Jamie Irvine and Billy Adams.</div>'
     )
 
 
 def show_row(ev):
-    bill = ", ".join(ev["supporting_artists_or_bill"])
-    headline = f'{ev["headliner"]}' if ev.get("headliner") else ""
+    headline = ev.get("headliner") or ""
+    skip = {"tba", "more", "+more", "more tba", "many more!!!", "and many more!!!"}
+    bill = ", ".join(x for x in ev["supporting_artists_or_bill"] if x.lower() not in skip and x != headline)
     bill_txt = "; ".join(x for x in [("headliner: " + headline) if headline else "", ("with " + bill) if bill else ""] if x)
     loc = ", ".join(x for x in [ev["city"], ev["state_country"]] if x)
     fest = f' <span class="src">({e(ev["festival"])})</span>' if ev.get("festival") else ""
     status_cls = ev["status"].split()[0].lower()
+    link = "".join(f' <a class="ext" href="{e(u)}" title="Concert Archives entry">↗</a>' for u in ev.get("source_urls", [])[:1])
+    note = "CONFLICT" in (ev.get("notes") or "")
+    flag = ' <span class="tag st-unverified" title="Sources disagree; see Archive notes">check</span>' if note else ""
     return (
         f'<tr><td class="d">{e(ev["date"])}</td>'
         f'<td>{e(ev["venue"])}{fest}</td><td>{e(loc)}</td><td>{e(bill_txt)}</td>'
-        f'<td><span class="tag st-{status_cls}" title="{e(ev["basis"])}">{e(ev["status"])}</span> {cites(ev["source_ids"])}</td></tr>'
+        f'<td><span class="tag st-{status_cls}" title="{e(ev["basis"])}">{e(ev["status"])}</span>{flag} {cites(ev["source_ids"])}{link}</td></tr>'
     )
-
 
 def gen_tours():
     events = load("tours")
-    counts = OrderedDict()
-    for ev in events:
-        counts[ev["status"]] = counts.get(ev["status"], 0) + 1
-    summary = ", ".join(f"{n} {s.lower()}" for s, n in counts.items())
-    by_year = OrderedDict()
-    for ev in events:
-        by_year.setdefault(ev["date"][:4], []).append(ev)
-    parts = [
-        '<p>The Fearless bio (S1) mentions a nationwide summer tour with Jeffree Star, Artist Vs Poet and Watch Out! There\'s Ghosts; '
-        'the archived MySpace schedule (S11) places it in <strong>2009</strong>, from late July to late August.</p>',
-        f'<p class="srcnote">{len(events)} entries: {e(summary)}. '
-        '<strong>VERIFIED</strong> = a contemporary source says the show happened. '
-        '<strong>POSSIBLE</strong> = the date was announced or listed (archived band page, press release, fan database) but no source yet confirms it was played. '
-        '<strong>UNVERIFIED CLAIM</strong> = listed, but doubtful. Hover a status for the basis. Where sources disagree, the disagreement is kept.</p>',
-    ]
+    order = ["VERIFIED", "CORROBORATED", "POSSIBLE", "UNVERIFIED CLAIM"]
+    counts = {k: sum(1 for x in events if x["status"] == k) for k in order}
+    summary = ", ".join(f"{n} {k.lower()}" for k, n in counts.items() if n)
+    years = sorted({x["date"][:4] for x in events})
+    by_year = OrderedDict((y, [x for x in events if x["date"][:4] == y]) for y in years)
+    tours = OrderedDict()
+    for x in events:
+        if x.get("tour"):
+            t = tours.setdefault(x["tour"], [0, x["date"], x["date"]])
+            t[0] += 1
+            t[1] = min(t[1], x["date"])
+            t[2] = max(t[2], x["date"][:10])
+    tour_rows = "".join(
+        f'<li><strong>{e(name)}</strong> <span class="src">{n} {"date" if n == 1 else "dates"}, {e(a)} to {e(b)}</span></li>'
+        for name, (n, a, b) in sorted(tours.items(), key=lambda kv: kv[1][1])
+    )
+    year_blocks = []
     for year, evs in by_year.items():
         rows = "".join(show_row(x) for x in evs)
-        parts.append(
-            f'<details class="year"><summary><span class="yr">{e(year)}</span> <span class="src">{len(evs)} {"entry" if len(evs)==1 else "entries"}</span></summary>'
+        year_blocks.append(
+            f'<details class="year"><summary><span class="yr">{e(year)}</span> '
+            f'<span class="src">{len(evs)} {"listing" if len(evs) == 1 else "listings"}</span></summary>'
             f'<div class="tablewrap"><table class="shows"><thead><tr><th>Date</th><th>Venue</th><th>City</th><th>Bill</th><th>Status</th></tr></thead>'
             f"<tbody>{rows}</tbody></table></div></details>"
         )
-    parts.append(
-        '<div class="needed"><span class="label">ENTRY NEEDED</span>Corrections and confirmations from band members: which dates were actually played, '
-        'plus 2011 and 2012 shows. Concert Archives lists 192 entries; only the first page was readable.</div>'
-    )
-    return "\n".join(parts)
-
+    return "\n".join([
+        '<p>Every show found so far, 2008 to 2011. The band\'s own archived schedule (S8, S9, S11), press (S15, S16, S19) and the fan-built '
+        'Concert Archives list (S18) were merged; where they agree on date and city the entries are combined. The Fearless bio (S1) mentions a '
+        'summer tour with Jeffree Star, Artist Vs Poet and Watch Out! There\'s Ghosts, which the schedules place in <strong>2009</strong>.</p>',
+        f'<p class="srcnote">{len(events)} entries: {e(summary)}. '
+        '<strong>VERIFIED</strong> = a contemporary source says the show happened. '
+        '<strong>CORROBORATED</strong> = two independent listings agree on date and city, with no eyewitness account. '
+        '<strong>POSSIBLE</strong> = a single announcement or fan listing. '
+        '<strong>UNVERIFIED CLAIM</strong> = listed, but doubtful. Hover a status for its basis; “check” marks dates where sources disagree. '
+        'Band members can promote a status by confirming a date (see Archive notes).</p>',
+        f'<details class="archive" open><summary><span class="yr">Tour archive</span> <span class="src">all {len(events)} listings, open a year to see the shows</span></summary>',
+        f'<h3>Tours and runs</h3><ul class="plain notes">{tour_rows}</ul>',
+        "\n".join(year_blocks),
+        "</details>",
+        '<div class="needed"><span class="label">ENTRY NEEDED</span>Corrections and confirmations from band members: which dates were played, cancelled or wrong; '
+        'plus 2011 and 2012 shows and anything missing.</div>',
+    ])
 
 def gen_press():
     items = []
@@ -183,11 +219,11 @@ def gen_notes():
         f'<ul class="plain notes">{unverified}</ul>'
     )
 
-
 BLOCKS = {
     "timeline": gen_timeline,
     "discography": gen_discography,
     "members": gen_members,
+    "team": gen_team,
     "tours": gen_tours,
     "press": gen_press,
     "sources": gen_sources,

@@ -48,11 +48,20 @@
   ]
  },
  {
-  "claim": "Which of the 192 Concert Archives entries are real shows",
-  "basis": "Only page 1 of 10 was readable (S18).",
-  "action": "See NEEDS_FROM_YOU A3.",
+  "claim": "Which Concert Archives listings are real shows",
+  "basis": "All 10 pages were read (222 fan submissions, merged into the tour archive). Entries seen only there are marked POSSIBLE; several conflict with the band's own schedule or the 2010 press release (see Conflicting information).",
+  "action": "Band members confirm played, cancelled or wrong dates (NEEDS_FROM_YOU B3).",
   "source_ids": [
    "S18"
+  ]
+ },
+ {
+  "claim": "Team roles for Matt Feldman (Fanagement LLC), Jamie Irvine (tour manager) and Billy Adams (touring merch)",
+  "basis": "Given by the band owner (S22); no public source found.",
+  "action": "See NEEDS_FROM_YOU F5 to F7.",
+  "source_ids": [
+   "S22",
+   "S27"
   ]
  }
 ]

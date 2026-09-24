@@ -1,13 +1,15 @@
 [
  {
   "id": "C1",
-  "topic": "Guitarist's name",
-  "summary": "The Fearless bio (S1) credits a quote to 'guitarist Tyler Foiles'. The 2010 press release (S15) and Last.fm wiki (S17) list Tyler Smyth (guitar) and Taylor Foiles (bass) as two different people. The bio's name may be a mix-up; unresolved until confirmed by a band member.",
+  "topic": "Guitarist's name in the Fearless bio (resolved)",
+  "summary": "The Fearless bio (S1) prints 'guitarist Tyler Foiles'. A band member confirms that is a typo: the lineup is Tyler Smyth (guitar) and Taylor Foiles (bass) (S22), matching S15 and S17. The bio quote is attributed here to Tyler Smyth because the bio calls its speaker 'guitarist'; that attribution is inferred and awaits confirmation.",
   "source_ids": [
    "S1",
    "S15",
-   "S17"
-  ]
+   "S17",
+   "S22"
+  ],
+  "resolved": true
  },
  {
   "id": "C2",
@@ -37,7 +39,7 @@
  {
   "id": "C5",
   "topic": "2015-01-01 listing",
-  "summary": "Concert Archives (S18) lists a multi-band event dated 2015-01-01 including Let's Get It although the band is recorded as ended in 2012. Treated as unverified.",
+  "summary": "Concert Archives (S18) lists a multi-band event dated 2015-01-01 that includes Let's Get It, although the band is recorded as ended in 2012. Treated as unverified.",
   "source_ids": [
    "S18",
    "S2"
@@ -51,6 +53,42 @@
    "S1",
    "S9",
    "S10"
+  ]
+ },
+ {
+  "id": "C7",
+  "topic": "Steel City Music Festival date",
+  "summary": "Concert Archives (S18) lists the festival on both 2009-07-29 and 2009-08-29 at the same Pittsburgh venue; the band's own schedule (S11) says 2009-08-29. The July date looks like a mis-dated duplicate.",
+  "source_ids": [
+   "S11",
+   "S18"
+  ]
+ },
+ {
+  "id": "C8",
+  "topic": "August 2010 dates",
+  "summary": "The 2010 press release (S15) and Concert Archives (S18) disagree on several dates: Aug 6-7 appear in S18 as Transmission Festival / Scream It Like You Mean It bills; Aug 10 (S15: Trocadero Upstairs, Philadelphia; S18: The Balcony); Aug 14 (S15: Evansville; S18: Indianapolis); Aug 15 (S15: La Crosse; S18: Madison); Aug 17 (S18: La Crosse). Both readings are kept in the tour archive.",
+  "source_ids": [
+   "S15",
+   "S18"
+  ]
+ },
+ {
+  "id": "C9",
+  "topic": "2009-08-07 show",
+  "summary": "Concert Archives (S18) lists both The Met, Pawtucket and Club Hell, Providence on 2009-08-07; the band's own schedule (S11) says Club Hell, Providence.",
+  "source_ids": [
+   "S11",
+   "S18"
+  ]
+ },
+ {
+  "id": "C10",
+  "topic": "Nate Matzelle's title",
+  "summary": "The band owner gives A&R (S22); a public profile snippet describes marketing and promotions at Fearless (S28). Unresolved; possibly different periods.",
+  "source_ids": [
+   "S22",
+   "S28"
   ]
  }
 ]

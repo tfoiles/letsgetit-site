@@ -19,7 +19,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "The Door // ALL AGES // w/ Handshakes and Highfives"
+  "notes": "The Door // ALL AGES // w/ Handshakes and Highfives",
+  "source_urls": []
  },
  {
   "date": "2008-08-09",
@@ -41,7 +42,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "The Otherside // w/ Handshakes and Highfives // NEVERSHOUTNEVER!"
+  "notes": "The Otherside // w/ Handshakes and Highfives // NEVERSHOUTNEVER!",
+  "source_urls": []
  },
  {
   "date": "2008-08-10",
@@ -63,7 +65,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "Cactus Jacks: Quest Event Center // ALL AGES // w/ Handshakes and Highfives"
+  "notes": "Cactus Jacks: Quest Event Center // ALL AGES // w/ Handshakes and Highfives",
+  "source_urls": []
  },
  {
   "date": "2008-08-12",
@@ -85,7 +88,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "Fall Creek House // ALL AGES // w/ Handshakes and Highfives"
+  "notes": "Fall Creek House // ALL AGES // w/ Handshakes and Highfives",
+  "source_urls": []
  },
  {
   "date": "2008-08-13",
@@ -107,7 +111,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "Sparrows // w/ Handshakes and Highfives"
+  "notes": "Sparrows // w/ Handshakes and Highfives",
+  "source_urls": []
  },
  {
   "date": "2008-08-14",
@@ -129,7 +134,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "Bulldog Cafe // ALL AGES // w/ Handshakes and Highfives"
+  "notes": "Bulldog Cafe // ALL AGES // w/ Handshakes and Highfives",
+  "source_urls": []
  },
  {
   "date": "2008-08-15",
@@ -151,7 +157,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "The Boiler Room  // ALL AGES // w/ Handshakes and Highfives"
+  "notes": "The Boiler Room  // ALL AGES // w/ Handshakes and Highfives",
+  "source_urls": []
  },
  {
   "date": "2008-08-16",
@@ -173,7 +180,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "The Sidney Elks // ALL AGES // w/ Handshakes and Highfives"
+  "notes": "The Sidney Elks // ALL AGES // w/ Handshakes and Highfives",
+  "source_urls": []
  },
  {
   "date": "2008-08-22",
@@ -195,7 +203,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "Mesker 3 // All Ages // w/ TBA"
+  "notes": "Mesker 3 // All Ages // w/ TBA",
+  "source_urls": []
  },
  {
   "date": "2008-08-30",
@@ -220,7 +229,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "MEDIUM",
-  "notes": "THE AFTER // ALL AGES // w/ CALLAHAN, GO RADIO, MARILYN AVENUE and MANY MORE!!!"
+  "notes": "THE AFTER // ALL AGES // w/ CALLAHAN, GO RADIO, MARILYN AVENUE and MANY MORE!!!",
+  "source_urls": []
  },
  {
   "date": "2008-09-02",
@@ -243,7 +253,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "MEDIUM",
-  "notes": "The Griffyn / / All Ages / / w/ School Boy Humor"
+  "notes": "The Griffyn / / All Ages / / w/ School Boy Humor",
+  "source_urls": []
  },
  {
   "date": "2008-09-03",
@@ -267,7 +278,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "Lifequest Church // ALL AGES // w/ nevershoutnever!, School Boy Humor +more"
+  "notes": "Lifequest Church // ALL AGES // w/ nevershoutnever!, School Boy Humor +more",
+  "source_urls": []
  },
  {
   "date": "2008-09-04",
@@ -282,16 +294,20 @@
   ],
   "headliner": "Brokencyde",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
    "S9",
-   "S8"
+   "S8",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
   "confidence": "MEDIUM",
-  "notes": "The GET MONEY Tour // Marquis Theater // All Ages // w/ Brokencyde, Vogue In The Movement"
+  "notes": "The GET MONEY Tour // Marquis Theater // All Ages // w/ Brokencyde, Vogue In The Movement | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/brokencyde-let-s-get-it-vogue-in-the-movement-the-chain-gang-of-1974"
+  ]
  },
  {
   "date": "2008-09-05",
@@ -307,16 +323,20 @@
   ],
   "headliner": "Brokencyde",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
    "S9",
-   "S8"
+   "S8",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
   "confidence": "MEDIUM",
-  "notes": "The GET MONEY Tour // Avalon // All Ages // w/ Brokencyde, School Boy Humor, Vogue In The Movement"
+  "notes": "The GET MONEY Tour // Avalon // All Ages // w/ Brokencyde, School Boy Humor, Vogue In The Movement | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/brokencycle-school-boy-humor-let-s-get-it-vogue-in-the-movement-lexi-sayok"
+  ]
  },
  {
   "date": "2008-09-06",
@@ -332,16 +352,20 @@
   ],
   "headliner": "Brokencyde",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
    "S9",
-   "S8"
+   "S8",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
   "confidence": "MEDIUM",
-  "notes": "The GET MONEY Tour // Karma // All Ages // w/ Brokencyde, School Boy Humor, Vogue In The Movement"
+  "notes": "The GET MONEY Tour // Karma // All Ages // w/ Brokencyde, School Boy Humor, Vogue In The Movement | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/brokencyde-let-s-get-it-vogue-in-the-movement"
+  ]
  },
  {
   "date": "2008-09-07",
@@ -366,7 +390,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "MEDIUM",
-  "notes": "The GET MONEY Tour // Chaser’s // All Ages // w/ Brokencyde, School Boy Humor, Vogue In The Movement"
+  "notes": "The GET MONEY Tour // Chaser’s // All Ages // w/ Brokencyde, School Boy Humor, Vogue In The Movement",
+  "source_urls": []
  },
  {
   "date": "2008-09-08",
@@ -389,7 +414,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "The War Legion // ALL AGES // w/ School Boy Humor + More"
+  "notes": "The War Legion // ALL AGES // w/ School Boy Humor + More",
+  "source_urls": []
  },
  {
   "date": "2008-09-09",
@@ -413,7 +439,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "MEDIUM",
-  "notes": "The GET MONEY Tour // The Door // All Ages // w/ Brokencyde, Vogue In The Movement"
+  "notes": "The GET MONEY Tour // The Door // All Ages // w/ Brokencyde, Vogue In The Movement",
+  "source_urls": []
  },
  {
   "date": "2008-09-10",
@@ -438,7 +465,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "MEDIUM",
-  "notes": "The GET MONEY Tour // Pink Eye // All Ages // w/ Brokencyde, School Boy Humor, Vogue In The Movement"
+  "notes": "The GET MONEY Tour // Pink Eye // All Ages // w/ Brokencyde, School Boy Humor, Vogue In The Movement",
+  "source_urls": []
  },
  {
   "date": "2008-09-11",
@@ -461,7 +489,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "The Vault Venue // ALL AGES // w/ Asteria, School Boy Humor"
+  "notes": "The Vault Venue // ALL AGES // w/ Asteria, School Boy Humor",
+  "source_urls": []
  },
  {
   "date": "2008-10-29",
@@ -484,7 +513,974 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "The Knitting Factory // ALL AGES // w/ Holiday Parade, My Favorite Highway"
+  "notes": "The Knitting Factory // ALL AGES // w/ Holiday Parade, My Favorite Highway",
+  "source_urls": []
+ },
+ {
+  "date": "2008-11-04",
+  "time": "",
+  "venue": "Creepy Crawl",
+  "city": "St. Louis",
+  "state_country": "Missouri, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "The Arrival",
+   "Let's Get It at Creepy Crawl"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/the-arrival-let-s-get-it-at-creepy-crawl"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2008-11-12",
+  "time": "",
+  "venue": "Water Street 2020",
+  "city": "Rochester",
+  "state_country": "New York, USA",
+  "tour": "November 2008 dates with Punchline and The Years Gone By",
+  "supporting_artists_or_bill": [
+   "Punchline",
+   "The Years Gone By"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/punchline-the-years-gone-by-let-s-get-it"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2008-11-13",
+  "time": "",
+  "venue": "Point Beach Clubhouse",
+  "city": "Milford",
+  "state_country": "Connecticut, USA",
+  "tour": "November 2008 dates with Punchline and The Years Gone By",
+  "supporting_artists_or_bill": [
+   "Punchline",
+   "The Years Gone By"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/punchline-the-years-gone-by-let-s-get-it-3fa7d927-951d-4198-9880-6448417b252c"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2008-11-14",
+  "time": "",
+  "venue": "Community Center",
+  "city": "Penacook",
+  "state_country": "New Hampshire, USA",
+  "tour": "November 2008 dates with Punchline and The Years Gone By",
+  "supporting_artists_or_bill": [
+   "Punchline",
+   "The Years Gone By"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/punchline-the-years-gone-by-let-s-get-it-4639c633-6148-4a68-aeea-a51a454cb603"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2008-11-15",
+  "time": "",
+  "venue": "Vibe Lounge",
+  "city": "Rockville Centre",
+  "state_country": "New York, USA",
+  "tour": "November 2008 dates with Punchline and The Years Gone By",
+  "supporting_artists_or_bill": [
+   "Punchline",
+   "The Years Gone By"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/punchline-the-years-gone-by-let-s-get-it-95d43c24-a332-465a-af34-15696d402318"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2008-11-16",
+  "time": "",
+  "venue": "The Middle East Restaurant and Nightclub",
+  "city": "Cambridge",
+  "state_country": "Massachusetts, USA",
+  "tour": "November 2008 dates with Punchline and The Years Gone By",
+  "supporting_artists_or_bill": [
+   "Punchline",
+   "The Years Gone By",
+   "Us against the archers"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/punchline-the-years-gone-by-let-s-get-it-us-against-the-archers"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2008-12-05",
+  "time": "",
+  "venue": "Madison Theater",
+  "city": "Covington",
+  "state_country": "Kentucky, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "We Came As Romans",
+   "The Upset Victory",
+   "Singed",
+   "Close To Home",
+   "Watson Park",
+   "Bottom Line",
+   "Hanging Madison",
+   "Eyes Over Hollywood",
+   "Kevin and the Octaves"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/the-upset-victory-singed-close-to-home-let-s-get-it-we-came-as-romans-watson-park-bottom-line-hanging-madison-eyes-over-hollywood-kevin-and-the-octaves"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2008-12-07",
+  "time": "",
+  "venue": "The Soapbox",
+  "city": "Wilmington",
+  "state_country": "North Carolina, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "The Bigger Lights",
+   "Drive By"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/the-bigger-lights-let-s-get-it-drive-by"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-01-17",
+  "time": "",
+  "venue": "Friendship Church",
+  "city": "Athens",
+  "state_country": "Alabama, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Maylene and the Sons of Disaster",
+   "The Arrival"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/maylene-and-the-sons-of-disaster-the-arrival-let-s-get-it"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-14",
+  "time": "",
+  "venue": "Plano Centre",
+  "city": "Plano",
+  "state_country": "Texas, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "The Secret Handshake",
+   "Hit",
+   "Enter Shikari",
+   "The Devil Wears Prada",
+   "A Day To Remember",
+   "Sky Eats Airplane",
+   "The wedding",
+   "A Skylit Drive",
+   "Dance Gavin Dance",
+   "Greeley Estates",
+   "Iwrestledabearonce",
+   "Sing It Loud",
+   "Morning Light",
+   "Memphis May Fire",
+   "The Word Alive",
+   "The Summer Set",
+   "The Friday Night Boys",
+   "Artist vs. Poet",
+   "TV/TV",
+   "Emarosa",
+   "Disco Curtis",
+   "Just Left",
+   "Closure In Moscow",
+   "Vice, The Monster",
+   "Devouring Plague",
+   "Lizard Professor",
+   "Fact",
+   "Circus Underwater",
+   "Marietta",
+   "Inward Eye",
+   "All Star",
+   "A Bullet for Pretty Boy",
+   "Allstar",
+   "Kid Liberty",
+   "Harp and Lyre",
+   "My Last Entry",
+   "The Lives Of Famous Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/the-secret-handshake-hit-enter-shikari-the-devil-wears-prada-a-day-to-remember-sky-eats-airplane-the-wedding-a-skylit-drive-dance-gavin-dance-greeley-estates-iwrestledabearonce-sing-it-loud-morning-light-memphis-may-fire"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-16",
+  "time": "",
+  "venue": "The Masquerade",
+  "city": "Atlanta",
+  "state_country": "Georgia, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-ccd0e229-6fdf-42d4-9a6c-79ebb32839c4"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-17",
+  "time": "",
+  "venue": "High Ground",
+  "city": "Metairie",
+  "state_country": "Louisiana, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-18",
+  "time": "",
+  "venue": "Rock Bottom Tattoo Bar",
+  "city": "San Antonio",
+  "state_country": "Texas, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-45878b36-8a6f-4f53-9289-59944ddb6290"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-19",
+  "time": "",
+  "venue": "The JavaJazz Event Center",
+  "city": "Houston",
+  "state_country": "Texas, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "The Pink Spiders",
+   "Watchout! There's Ghosts",
+   "Zolof The Rock & Roll Destroyer"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/the-pink-spiders-watchout-there-s-ghosts-let-s-get-it-zolof-the-rock-roll-destroyer"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-20",
+  "time": "",
+  "venue": "The Pink Eye",
+  "city": "Tulsa",
+  "state_country": "Oklahoma, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-7990a251-41ac-468d-ab2e-26eb5ca5468f"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-21",
+  "time": "",
+  "venue": "Scout Bar",
+  "city": "San Antonio",
+  "state_country": "Texas, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Forever the Sickest Kids",
+   "After Midnight Project",
+   "Thee Armada"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/forever-the-sickest-kids-let-s-get-it-after-midnight-project-thee-armada"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-24",
+  "time": "",
+  "venue": "City Limits",
+  "city": "Delray Beach",
+  "state_country": "Florida, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-25",
+  "time": "",
+  "venue": "Backbooth",
+  "city": "Orlando",
+  "state_country": "Florida, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-e7a22ef6-0fd7-428c-9f95-5ba66424dc03"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-26",
+  "time": "",
+  "venue": "Sluggo's",
+  "city": "Pensacola",
+  "state_country": "Florida, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-d8392f9b-b84d-42b0-911f-818255388a6f"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-27",
+  "time": "",
+  "venue": "Sector 7G",
+  "city": "Augusta",
+  "state_country": "Georgia, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-779c3d10-3337-4200-bf29-7a55579b3004"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-28",
+  "time": "",
+  "venue": "The Brewery",
+  "city": "Raleigh",
+  "state_country": "North Carolina, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-a1dc2d35-8fba-4704-a5ca-0ae28b2af1c2"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-29",
+  "time": "",
+  "venue": "The Canal Club",
+  "city": "Richmond",
+  "state_country": "Virginia, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-bd5988a1-6793-496c-b698-f93dbc8f7b28"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-30",
+  "time": "",
+  "venue": "Hangar 84",
+  "city": "Vineland",
+  "state_country": "New Jersey, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-6eb71cd5-69b0-4f79-8a96-281ef5dde8b8"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-03-31",
+  "time": "",
+  "venue": "Ottobar",
+  "city": "Baltimore",
+  "state_country": "Maryland, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-621cac53-a4b4-42ba-a714-9113e5bcabed"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-04-01",
+  "time": "",
+  "venue": "North Star Bar",
+  "city": "Philadelphia",
+  "state_country": "Pennsylvania, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-651ff427-ed72-4e9c-bb7a-55d2f178f196"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-04-02",
+  "time": "",
+  "venue": "Crocodile Rock Café",
+  "city": "Allentown",
+  "state_country": "Pennsylvania, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "And Then There Were None",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-and-then-there-were-none-after-midnight-project"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-04-03",
+  "time": "",
+  "venue": "The Haunt",
+  "city": "Yonkers",
+  "state_country": "New York, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-58d3ff69-683f-4c3d-babb-b87aad9d5c93"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-04-04",
+  "time": "",
+  "venue": "School of Rock East",
+  "city": "South Hackensack",
+  "state_country": "New Jersey, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project",
+   "The Whisper Effect",
+   "Avenida",
+   "Stay For Tomorrow",
+   "Bubble Octopus",
+   "To Write A Riot",
+   "The New Clean",
+   "The Night Is Over"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-the-whisper-effect-avenida-stay-for-tomorrow-bubble-octopus-to-write-a-riot-the-new-clean-the-night-is-over"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-04-06",
+  "time": "",
+  "venue": "The Subculture",
+  "city": "Glassport",
+  "state_country": "Pennsylvania, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-a549f6e8-7dd0-472b-a0a9-9440f2717b34"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-04-07",
+  "time": "",
+  "venue": "Peabody's DownUnder",
+  "city": "Cleveland",
+  "state_country": "Ohio, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-08f48411-36f7-4035-b26d-1ea7aaf4a6b1"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-04-08",
+  "time": "",
+  "venue": "Xtreme Wheels",
+  "city": "Buffalo",
+  "state_country": "New York, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "Karate High School",
+   "After Midnight Project"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-karate-high-school-after-midnight-project-109cf1d6-8df4-4f0f-94e4-5eb00062238e"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-04-09",
+  "time": "",
+  "venue": "The Basement",
+  "city": "Columbus",
+  "state_country": "Ohio, USA",
+  "tour": "Spring 2009 dates with Watchout! There's Ghosts",
+  "supporting_artists_or_bill": [
+   "Watchout! There's Ghosts",
+   "After Midnight Project",
+   "Karate High School"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-there-s-ghosts-let-s-get-it-after-midnight-project-karate-high-school"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-05-23",
+  "time": "",
+  "venue": "Peabody's DownUnder",
+  "city": "Cleveland",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Attack Attack!",
+   "Vice on Victory",
+   "Marylin Avenue"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/attack-attack-let-s-get-it-vice-on-victory-marylin-avenue"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-06-05",
+  "time": "",
+  "venue": "Hobart Arena",
+  "city": "Troy",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Agraceful",
+   "Delta Delta"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-agraceful-delta-delta"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-06-20",
+  "time": "",
+  "venue": "Frankie's",
+  "city": "Toledo",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-a80d6586-c1a6-47ac-858d-2d709d38fc97"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-07-27",
+  "time": "",
+  "venue": "The Masquerade",
+  "city": "Atlanta",
+  "state_country": "Georgia, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Watchout! Theres Ghosts",
+   "Jeffree Star",
+   "Artist vs. Poet"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-with-jeffree-star-artist-vs-poet-and-let-s-get-it-at-the-masquerade-july-27-2009"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2009-07-28",
@@ -500,12 +1496,96 @@
   "headliner": "Jeffree Star",
   "festival": null,
   "status": "VERIFIED",
-  "basis": "Concert review says the reviewer arrived after opening act Let's Get It had played",
+  "basis": "Concert review says the reviewer arrived after opening act Let's Get It had played; also listed on Concert Archives",
   "source_ids": [
-   "S16"
+   "S16",
+   "S18"
   ],
   "confidence": "MEDIUM",
-  "notes": "Single press mention; venue/date from review header."
+  "notes": "Single press mention; venue/date from review header. | 2 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-c1ef996c-71a5-4ac3-8564-0428bd0586e2",
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it"
+  ]
+ },
+ {
+  "date": "2009-07-29",
+  "time": "",
+  "venue": "Culture Room",
+  "city": "Fort Lauderdale",
+  "state_country": "Florida, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Watchout! Theres Ghosts",
+   "Jeffree Star",
+   "Artist vs. Poet",
+   "Watchout! There's Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, more than one submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-6c3d453b-615f-454d-8ac4-d88de9aa375c"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "2 fan submission(s) on Concert Archives | CONFLICT: other listings for 2009-07-29 name a different city (Fort Lauderdale, Pittsburgh)"
+ },
+ {
+  "date": "2009-07-29",
+  "time": "",
+  "venue": "Irish Centre of Pittsburgh",
+  "city": "Pittsburgh",
+  "state_country": "Pennsylvania, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Steel City Music Festival"
+  ],
+  "headliner": null,
+  "festival": "Steel City Music Festival",
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it--13769138"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives | CONFLICT: other listings for 2009-07-29 name a different city (Fort Lauderdale, Pittsburgh)"
+ },
+ {
+  "date": "2009-07-30",
+  "time": "",
+  "venue": "The Orpheum - Old Location",
+  "city": "Tampa",
+  "state_country": "Florida, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Jeffree Star",
+   "Artist Vs Poet",
+   "Watchout! There's Ghosts",
+   "Watchout! Theres Ghosts",
+   "Artist vs. Poet"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, more than one submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-cef96550-208d-496b-8771-824d61075301"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: The Orpheum"
  },
  {
   "date": "2009-07-31",
@@ -520,15 +1600,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "High Ground // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "High Ground // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: The High Ground",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-775c89f8-e305-487f-9c47-75996f2ccdc6",
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-146f63ef-706b-475b-861d-208665558438"
+  ]
  },
  {
   "date": "2009-08-01",
@@ -543,15 +1628,19 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Emo’s // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "Emo’s // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-de-la-soul-kenan-bell-jeffree-star-artist-vs-poet-let-s-get-it"
+  ]
  },
  {
   "date": "2009-08-03",
@@ -566,15 +1655,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Boney Junes // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "Boney Junes // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Boney Junes",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-e2ba2da0-739a-4105-bc2b-14488f9b029f",
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-34899fb8-7772-4f5c-aa61-fdb3bbc58e77"
+  ]
  },
  {
   "date": "2009-08-04",
@@ -589,15 +1683,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "The Pike Room at Crofoot Ballroom // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "The Pike Room at Crofoot Ballroom // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-1beeb28e-0fe6-47f0-be5c-f090fec02d03",
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-artist-vs-poet-jeffree-star-let-s-get-it"
+  ]
  },
  {
   "date": "2009-08-06",
@@ -612,15 +1711,46 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
+  "confidence": "MEDIUM",
+  "notes": "Chameleon Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Chameleon Club",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-72dbe5f7-754c-43d2-aea1-0bb9f0132b87",
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-085d76d4-35ac-484c-9241-5a31279bdbc2"
+  ]
+ },
+ {
+  "date": "2009-08-07",
+  "time": "",
+  "venue": "The Met",
+  "city": "Pawtucket",
+  "state_country": "Rhode Island, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Watchout! Theres Ghosts",
+   "Jeffree Star",
+   "Artist vs. Poet"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-363d9845-2a86-4984-a4a4-5ded1e7ca24a"
+  ],
+  "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "Chameleon Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "notes": "1 fan submission(s) on Concert Archives | CONFLICT: other listings for 2009-08-07 name a different city (Pawtucket, Providence)"
  },
  {
   "date": "2009-08-07",
@@ -635,15 +1765,19 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Club Hell // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "Club Hell // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 1 fan submission(s) on Concert Archives | CONFLICT: other listings for 2009-08-07 name a different city (Pawtucket, Providence)",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-fd214ead-0f56-4476-a099-3da58943b609"
+  ]
  },
  {
   "date": "2009-08-08",
@@ -658,15 +1792,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Valentines // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "Valentines // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-23e8c9f6-bb56-43d8-a1e2-fc401c155e6d",
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-f27c4770-2784-4519-91d3-aa42c46a09ba"
+  ]
  },
  {
   "date": "2009-08-10",
@@ -689,7 +1828,8 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "Reggies Rock Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "notes": "Reggies Rock Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts",
+  "source_urls": []
  },
  {
   "date": "2009-08-11",
@@ -704,15 +1844,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "The House of Bricks // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "The House of Bricks // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-74ec3b43-e31d-45ab-8201-c93fc1bada5b",
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-1fe973b4-37f1-468d-beb3-564e20314ac8"
+  ]
  },
  {
   "date": "2009-08-12",
@@ -727,15 +1872,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Triple Rock // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "Triple Rock // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-34285f85-ddb8-4c1e-a509-306dbd528ffa",
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-2e8e627f-6963-4eb6-a182-0c5f6e203eeb"
+  ]
  },
  {
   "date": "2009-08-13",
@@ -750,15 +1900,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "The Beaumont Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "The Beaumont Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Beaumont",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-904dfeef-5750-41c0-baad-b2dae1bcde30",
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-1f7059ff-25a0-4423-90a4-be48c91329b2"
+  ]
  },
  {
   "date": "2009-08-14",
@@ -773,15 +1928,19 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Marquis Theater // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "Marquis Theater // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-c175cb22-5c62-4d14-a2a3-f9024111f249"
+  ]
  },
  {
   "date": "2009-08-15",
@@ -796,15 +1955,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Avallon // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "Avallon // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-5479f85d-825e-4881-9970-8124f0b48f7e",
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-a9a20073-c4de-40e3-94ae-5445564eea28"
+  ]
  },
  {
   "date": "2009-08-16",
@@ -819,15 +1983,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Icon // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "Icon // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: The Icon",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-dcef7b0f-7525-4cbb-b8bb-ea5eb1b899ff",
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-8f140d8c-ed1e-4971-a09e-b66632315241"
+  ]
  },
  {
   "date": "2009-08-17",
@@ -842,15 +2011,19 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Empyran w/ Jeffree Star, Artist Vs Poet, Watch out! There’s Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "Empyran w/ Jeffree Star, Artist Vs Poet, Watch out! There’s Ghosts | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/artist-vs-poet-watchout-there-s-ghosts-let-s-get-it"
+  ]
  },
  {
   "date": "2009-08-18",
@@ -865,15 +2038,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "El Corazon // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "El Corazon // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-d04d1c6a-9961-47c2-aaec-c1beac72b20e",
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-04c5a9b9-0251-4233-a848-ba0ed1f4119e"
+  ]
  },
  {
   "date": "2009-08-19",
@@ -888,15 +2066,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Hawthorne Theater // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "Hawthorne Theater // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-b77cbeac-a51e-4f6c-879d-f0826f4cd818",
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-113784bf-6502-44ca-b9c2-628bcd8f7274"
+  ]
  },
  {
   "date": "2009-08-20",
@@ -911,15 +2094,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "The Boardwalk // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "The Boardwalk // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-let-s-get-it-watch-out-there-s-ghosts-the-divine",
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it"
+  ]
  },
  {
   "date": "2009-08-21",
@@ -934,15 +2122,20 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Downtown Brewing Co // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+  "confidence": "MEDIUM",
+  "notes": "Downtown Brewing Co // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-let-artist-vs-poet-let-s-get-it",
+   "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-45e1e462-0f73-4af7-ae55-14224d9d696e"
+  ]
  },
  {
   "date": "2009-08-25",
@@ -954,15 +2147,19 @@
   "supporting_artists_or_bill": [],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "King of Clubs // ALL AGES // more TBA"
+  "confidence": "MEDIUM",
+  "notes": "King of Clubs // ALL AGES // more TBA | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it"
+  ]
  },
  {
   "date": "2009-08-26",
@@ -974,15 +2171,19 @@
   "supporting_artists_or_bill": [],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Fubar // more TBA"
+  "confidence": "MEDIUM",
+  "notes": "Fubar // more TBA | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-459997ca-b244-48ce-8342-ccf78a732a0d"
+  ]
  },
  {
   "date": "2009-08-27",
@@ -994,15 +2195,19 @@
   "supporting_artists_or_bill": [],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S11"
+   "S11",
+   "S18"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "Bulldog Cafe / / ALL AGES // more TBA"
+  "confidence": "MEDIUM",
+  "notes": "Bulldog Cafe / / ALL AGES // more TBA | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-a0f66ce2-4484-46b2-b4fb-b8e5d91d6da8"
+  ]
  },
  {
   "date": "2009-08-29",
@@ -1011,11 +2216,23 @@
   "city": "Pittsburgh",
   "state_country": "Pennsylvania, USA",
   "tour": null,
-  "supporting_artists_or_bill": [],
+  "supporting_artists_or_bill": [
+   "Attack Attack!",
+   "Dr. Acula",
+   "Asking Alexandria",
+   "We Came As Romans",
+   "Castle Grayskull",
+   "Terra Firma",
+   "I Am Abomination",
+   "The Failsafe",
+   "Beyond Daylight",
+   "Remember Thy Name",
+   "Eyes Have Seen the Glory"
+  ],
   "headliner": null,
   "festival": "Steel City Music Festival",
-  "status": "POSSIBLE",
-  "basis": "Listed on the band's archived MySpace (S11) and Concert Archives has a fan-uploaded photo entry for this festival on 2009-08-29 (S18); set not otherwise confirmed",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
    "S11",
    "S18"
@@ -1023,7 +2240,1537 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "MEDIUM",
-  "notes": "Steel City Music Festival // ALL AGES // more TBA"
+  "notes": "Steel City Music Festival // ALL AGES // more TBA | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-attack-attack"
+  ]
+ },
+ {
+  "date": "2009-09-04",
+  "time": "",
+  "venue": "Northwood University",
+  "city": "Midland",
+  "state_country": "Michigan, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Take the City",
+   "Dead In A Dreamland"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-take-the-city-dead-in-a-dreamland"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-09",
+  "time": "",
+  "venue": "The Clubhouse Music Venue",
+  "city": "Tempe",
+  "state_country": "Arizona, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909220"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-10",
+  "time": "",
+  "venue": "Chain Reaction",
+  "city": "Anaheim",
+  "state_country": "California, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909221"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-11",
+  "time": "",
+  "venue": "Knitting Factory Hollywood - Main Stage",
+  "city": "Los Angeles",
+  "state_country": "California, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909222"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-13",
+  "time": "",
+  "venue": "Sunshine Theater",
+  "city": "Albuquerque",
+  "state_country": "New Mexico, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909223"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-14",
+  "time": "",
+  "venue": "Casa Blanca Conv. Ctr.",
+  "city": "Laredo",
+  "state_country": "Texas, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909224"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-15",
+  "time": "",
+  "venue": "House of rock",
+  "city": "Corpus Christi",
+  "state_country": "Texas, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909225"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-16",
+  "time": "",
+  "venue": "Paper Tiger",
+  "city": "San Antonio",
+  "state_country": "Texas, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909226"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-17",
+  "time": "",
+  "venue": "The Door",
+  "city": "Dallas",
+  "state_country": "Texas, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909227"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-18",
+  "time": "",
+  "venue": "The Meridian",
+  "city": "Houston",
+  "state_country": "Texas, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909228"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-21",
+  "time": "",
+  "venue": "Culture Room",
+  "city": "Fort Lauderdale",
+  "state_country": "Florida, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--14045407"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-22",
+  "time": "",
+  "venue": "The Floridian Social Club",
+  "city": "St. Petersburg",
+  "state_country": "Florida, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909230"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-23",
+  "time": "",
+  "venue": "The Pit",
+  "city": "Jacksonville",
+  "state_country": "Florida, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909231"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-24",
+  "time": "",
+  "venue": "The Canal Club",
+  "city": "Richmond",
+  "state_country": "Virginia, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, more than one submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909232"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "2 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-26",
+  "time": "",
+  "venue": "Paparazzi",
+  "city": "Baltimore",
+  "state_country": "Maryland, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, more than one submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909233"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: Sonar"
+ },
+ {
+  "date": "2009-10-27",
+  "time": "",
+  "venue": "Highline Ballroom",
+  "city": "New York",
+  "state_country": "New York, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909234"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-28",
+  "time": "",
+  "venue": "The Crazy Donkey",
+  "city": "Farmingdale",
+  "state_country": "New York, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909235"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-31",
+  "time": "",
+  "venue": "Peabody's DownUnder",
+  "city": "Cleveland",
+  "state_country": "Ohio, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909236"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-01",
+  "time": "",
+  "venue": "The Attic",
+  "city": "Dayton",
+  "state_country": "Ohio, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Drop Dead, Gorgeous",
+   "Finch",
+   "Of Mice & Men",
+   "Blessthefall"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blessthefall-drop-dead-gorgeous-finch-of-mice-men-let-s-get-it"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-02",
+  "time": "",
+  "venue": "Headliners",
+  "city": "Toledo",
+  "state_country": "Ohio, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909237"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-03",
+  "time": "",
+  "venue": "Mojoe's Rock House",
+  "city": "Orland Park",
+  "state_country": "Illinois, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Atticus Metal Tour 2009"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blessthefall-drop-dead-gorgeous-finch-let-s-get-it-of-mice-men"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-05",
+  "time": "",
+  "venue": "Remmingtons Downtown",
+  "city": "Springfield",
+  "state_country": "Missouri, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909238"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-06",
+  "time": "",
+  "venue": "Flytrap Music Hall",
+  "city": "Tulsa",
+  "state_country": "Oklahoma, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Silverstein",
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men",
+   "I See Stars",
+   "Madina Lake"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, more than one submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1880258"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "2 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-07",
+  "time": "",
+  "venue": "Oz Cafe",
+  "city": "Wichita",
+  "state_country": "Kansas, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909239"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-08",
+  "time": "",
+  "venue": "Marquis Theater",
+  "city": "Denver",
+  "state_country": "Colorado, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909240"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-09",
+  "time": "",
+  "venue": "The Murray Theater",
+  "city": "Murray",
+  "state_country": "Utah, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909241"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-10",
+  "time": "",
+  "venue": "The Venue",
+  "city": "Caldwell",
+  "state_country": "Idaho, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Of Mice & Men",
+   "Blessthefall"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/of-mice-men-blessthefall-let-s-get-it"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-11",
+  "time": "",
+  "venue": "Studio Seven",
+  "city": "Seattle",
+  "state_country": "Washington, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909243"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-12",
+  "time": "",
+  "venue": "The Blvd. House Of Music",
+  "city": "Spokane",
+  "state_country": "Washington, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909244"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-13",
+  "time": "",
+  "venue": "Hawthorne Theatre",
+  "city": "Portland",
+  "state_country": "Oregon, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909245"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-14",
+  "time": "",
+  "venue": "Modesto Virtual",
+  "city": "Modesto",
+  "state_country": "California, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909246"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-15",
+  "time": "",
+  "venue": "The Catalyst",
+  "city": "Santa Cruz",
+  "state_country": "California, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, more than one submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909247"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "2 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-16",
+  "time": "",
+  "venue": "SLO Brew Rock",
+  "city": "San Luis Obispo",
+  "state_country": "California, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909248"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-17",
+  "time": "",
+  "venue": "Karma",
+  "city": "Victorville",
+  "state_country": "California, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909249"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-18",
+  "time": "",
+  "venue": "The Glass House Concert Hall",
+  "city": "Pomona",
+  "state_country": "California, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909250"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-11-19",
+  "time": "",
+  "venue": "SOMA San Diego",
+  "city": "San Diego",
+  "state_country": "California, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Finch",
+   "Blessthefall",
+   "Drop Dead, Gorgeous",
+   "Vanna",
+   "Of Mice & Men"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/atticus-metal-tour--1909251"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-12-31",
+  "time": "",
+  "venue": "The Attic",
+  "city": "Kettering",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Miss May I",
+   "London Lay Low"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/miss-may-i-let-s-get-it-london-lay-low"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-06",
+  "time": "",
+  "venue": "Eisenberg's",
+  "city": "Plano",
+  "state_country": "Texas, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-0347dd52-b523-47fa-83cc-969549a6bfd7"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-08",
+  "time": "",
+  "venue": "Launchpad",
+  "city": "Albuquerque",
+  "state_country": "New Mexico, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-74bf3253-698b-4726-b253-f07f58e5bb15"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-09",
+  "time": "",
+  "venue": "Martini Ranch",
+  "city": "Scottsdale",
+  "state_country": "Arizona, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-10",
+  "time": "",
+  "venue": "SOMA San Diego",
+  "city": "San Diego",
+  "state_country": "California, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-0c070d76-1706-410f-963d-62c8b8650fac"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-11",
+  "time": "",
+  "venue": "The Crossing",
+  "city": "Palmdale",
+  "state_country": "California, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-9f78bff7-2885-4990-9871-8fc782c2586e"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-12",
+  "time": "",
+  "venue": "Jerry's Pizza & Pub",
+  "city": "Bakersfield",
+  "state_country": "California, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [
+   "No Checkpoints In The Jungle Tour"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-0b8a4858-a9b0-4e34-84bc-6fc1ddd832a8"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-13",
+  "time": "",
+  "venue": "Almaden Community Center",
+  "city": "San Jose",
+  "state_country": "California, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [
+   "Breathe Carolina",
+   "Hyper Crush",
+   "Queens Club",
+   "The Spin Cycle"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, more than one submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-5610f202-1e12-4d78-9b33-2868e7f67c5f"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: The Almaden Community Center"
+ },
+ {
+  "date": "2010-02-14",
+  "time": "",
+  "venue": "Modesto Virtual",
+  "city": "Modesto",
+  "state_country": "California, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [
+   "Breathe Carolina",
+   "Hyper Crush",
+   "Queens Club",
+   "The Spin Cycle"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-ff442b51-dcf5-4c67-94e4-1323d4d33f3d"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-16",
+  "time": "",
+  "venue": "Hawthorne Theatre",
+  "city": "Portland",
+  "state_country": "Oregon, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-bb358225-af64-46d6-8d51-d73d8c00c8aa"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-17",
+  "time": "",
+  "venue": "Funhouse, El Corazón",
+  "city": "Seattle",
+  "state_country": "Washington, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-c050c1b4-bad5-4aae-85d2-e61149afb4c3"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-18",
+  "time": "",
+  "venue": "The Venue",
+  "city": "Caldwell",
+  "state_country": "Idaho, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [
+   "Breathe Carolina",
+   "Hyper Crush",
+   "Queens Club",
+   "The Spin Cycle"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-aeb1ceaa-e0e7-4109-9975-80466b9255d2"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-19",
+  "time": "",
+  "venue": "The Murray Theater",
+  "city": "Murray",
+  "state_country": "Utah, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [
+   "Breathe Carolina",
+   "Hyper Crush",
+   "Queens Club",
+   "The Spin Cycle"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, more than one submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-78537b4c-a8a8-4a70-8808-b25865452693"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: Murray Theater"
+ },
+ {
+  "date": "2010-02-20",
+  "time": "",
+  "venue": "Marquis Theater",
+  "city": "Denver",
+  "state_country": "Colorado, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-at-the-marquis-theater-february-20-2010"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-22",
+  "time": "",
+  "venue": "The Bottleneck",
+  "city": "Lawrence",
+  "state_country": "Kansas, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-a2a3bb09-8097-4fc6-96f1-7e8cc21c1f43"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-23",
+  "time": "",
+  "venue": "Blue Moose Tap House",
+  "city": "Iowa City",
+  "state_country": "Iowa, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it--10852005"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-24",
+  "time": "",
+  "venue": "Triple Rock Social Club",
+  "city": "Minneapolis",
+  "state_country": "Minnesota, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-0aa60b5b-d3af-4988-b6e1-8750080c5329"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-25",
+  "time": "",
+  "venue": "Turner Hall Ballroom",
+  "city": "Milwaukee",
+  "state_country": "Wisconsin, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-d2cf9d7e-7e4e-4724-9637-a81ab4cf06d5"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-26",
+  "time": "",
+  "venue": "Sunset Hall",
+  "city": "Fort Wayne",
+  "state_country": "Indiana, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [
+   "Breathe Carolina",
+   "Hyper Crush",
+   "Queens Club",
+   "The Spin Cycle"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-2da8f5c7-493b-40dd-aea1-675caebe10d7"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-27",
+  "time": "",
+  "venue": "Boney Junes",
+  "city": "Evansville",
+  "state_country": "Indiana, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [
+   "Breathe Carolina",
+   "Hyper Crush",
+   "Queens Club",
+   "The Spin Cycle"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-590064c8-30c2-47f7-a047-d0a55ba26527"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-02-28",
+  "time": "",
+  "venue": "Frankie's",
+  "city": "Toledo",
+  "state_country": "Ohio, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-855a2eb7-c90f-436b-b855-a24e7642c683"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-03-02",
+  "time": "",
+  "venue": "The Basement",
+  "city": "Columbus",
+  "state_country": "Ohio, USA",
+  "tour": "No Checkpoints in the Jungle Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-8e08db91-1898-42f1-b86a-da4255b84fe6"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-03-12",
+  "time": "",
+  "venue": "The Emerson Theater",
+  "city": "Indianapolis",
+  "state_country": "Indiana, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Danger Is My Middle Name"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-danger-is-my-middle-name"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-04-28",
+  "time": "",
+  "venue": "Eldolyn Terrace Restaurant",
+  "city": "Altoona",
+  "state_country": "Pennsylvania, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "Versa",
+   "I See Stars"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/versa-let-s-get-it-i-see-stars"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-04-29",
+  "time": "",
+  "venue": "The Club @ Water Street",
+  "city": "Rochester",
+  "state_country": "New York, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "Versa",
+   "I See Stars",
+   "We Came As Romans"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/versa-let-s-get-it-i-see-stars-we-came-as-romans"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-04-30",
+  "time": "",
+  "venue": "club hell",
+  "city": "Providence",
+  "state_country": "Rhode Island, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "I See Stars"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-i-see-stars"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-05-01/2010-05-02",
@@ -1042,7 +3789,563 @@
    "S15"
   ],
   "confidence": "MEDIUM",
-  "notes": "Two independent-ish mentions, no set time found."
+  "notes": "Two independent-ish mentions, no set time found.",
+  "source_urls": []
+ },
+ {
+  "date": "2010-05-02",
+  "time": "",
+  "venue": "Three Kings",
+  "city": "Jermyn",
+  "state_country": "Pennsylvania, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "I See Stars",
+   "Versa",
+   "Endeavors",
+   "The Life To Come"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/i-see-stars-versa-let-s-get-it-endeavors-the-life-to-come"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-05-03",
+  "time": "",
+  "venue": "The Note",
+  "city": "West Chester",
+  "state_country": "Pennsylvania, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "I See Stars",
+   "All The Day Holiday"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/i-see-stars-let-s-get-it-all-the-day-holiday"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-05-04",
+  "time": "",
+  "venue": "The Loft",
+  "city": "Poughkeepsie",
+  "state_country": "New York, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "Versa",
+   "I See Stars",
+   "Four Letter Lie"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/versa-i-see-stars-let-s-get-it-four-letter-lie"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-05-05",
+  "time": "",
+  "venue": "Webster Underground",
+  "city": "Hartford",
+  "state_country": "Connecticut, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "Versa",
+   "I See Stars"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/versa-let-s-get-it-i-see-stars-42964e34-a7d8-4798-91ef-331a7d6c3a43"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-05-06",
+  "time": "",
+  "venue": "Rocko's",
+  "city": "Manchester",
+  "state_country": "New Hampshire, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "Versa",
+   "I See Stars"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/versa-let-s-get-it-i-see-stars-869f866b-5327-4cde-9023-56dba45f5fb9"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-05-07",
+  "time": "",
+  "venue": "Underworld",
+  "city": "Montreal",
+  "state_country": "Quebec, Canada",
+  "tour": "Across the Nation Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/i-see-stars-0891a835-660c-4650-9dbd-3af9edcbe10e"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-05-09",
+  "time": "",
+  "venue": "Crocodile Rock Café",
+  "city": "Allentown",
+  "state_country": "Pennsylvania, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "Versa",
+   "I See Stars",
+   "Eye Alaska"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/versa-let-s-get-it-i-see-stars-eye-alaska"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-05-11",
+  "time": "",
+  "venue": "The Canal Club",
+  "city": "Richmond",
+  "state_country": "Virginia, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "Versa",
+   "Eye Alaska"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/versa-let-s-get-it-eye-alaska"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-05-13",
+  "time": "",
+  "venue": "The New Vintage",
+  "city": "Louisville",
+  "state_country": "Kentucky, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "Versa",
+   "Eye Alaska"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/versa-let-s-get-it-eye-alaska-1a1d5a3c-b5fa-47a9-bb8a-af6e8dd72f8d"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-05-14",
+  "time": "",
+  "venue": "Rocketown",
+  "city": "Nashville",
+  "state_country": "Tennessee, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "Versa",
+   "Eye Alaska"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/versa-let-s-get-it-eye-alaska-70d2cfba-1009-4ce0-ad67-09c881816962"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-05-15",
+  "time": "",
+  "venue": "Ground Control",
+  "city": "West Palm Beach",
+  "state_country": "Florida, USA",
+  "tour": "Spring 2010 dates with VersaEmerge and I See Stars",
+  "supporting_artists_or_bill": [
+   "Versa",
+   "Eye Alaska"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/versa-let-s-get-it-eye-alaska-11763642-204e-46e0-9bd2-2304e8ea9ada"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-06-19",
+  "time": "",
+  "venue": "Norhtridge Lions Club",
+  "city": "Springfield",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "This Love Machine",
+   "Call Us Kings",
+   "Deer Theodore"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-this-love-machine-call-us-kings-deer-theodore"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-07-11",
+  "time": "",
+  "venue": "The Middle East Restaurant and Nightclub",
+  "city": "Cambridge",
+  "state_country": "Massachusetts, USA",
+  "tour": "July 2010 dates with Down With Webster",
+  "supporting_artists_or_bill": [
+   "Down With Webster",
+   "The Blue Pages",
+   "Stay"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-down-with-webster-the-blue-pages-stay"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-07-12",
+  "time": "",
+  "venue": "Tuxedo Junction",
+  "city": "Danbury",
+  "state_country": "Connecticut, USA",
+  "tour": "July 2010 dates with Down With Webster",
+  "supporting_artists_or_bill": [
+   "Down With Webster",
+   "The Blue Pages",
+   "Stay"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-down-with-webster-the-blue-pages-stay-27dbbf77-8092-4e4e-b031-9a0a71f039a3"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-07-13",
+  "time": "",
+  "venue": "Vibe Lounge",
+  "city": "Rockville Centre",
+  "state_country": "New York, USA",
+  "tour": "July 2010 dates with Down With Webster",
+  "supporting_artists_or_bill": [
+   "Down With Webster",
+   "The Blue Pages",
+   "Stay"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-down-with-webster-the-blue-pages-stay-abf15e18-ff78-4707-a214-6bf55890ebad"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-07-14",
+  "time": "",
+  "venue": "Hangar 84",
+  "city": "Vineland",
+  "state_country": "New Jersey, USA",
+  "tour": "July 2010 dates with Down With Webster",
+  "supporting_artists_or_bill": [
+   "Down With Webster",
+   "The Blue Pages",
+   "Stay"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-down-with-webster-the-blue-pages-stay-1d2a7eb1-0c65-4371-9776-5fe5ed57185a"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-07-16",
+  "time": "",
+  "venue": "Santos Party House",
+  "city": "New York",
+  "state_country": "New York, USA",
+  "tour": "July 2010 dates with Down With Webster",
+  "supporting_artists_or_bill": [
+   "Down With Webster",
+   "The Blue Pages",
+   "Stay"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-down-with-webster-the-blue-pages-stay-ad0177ce-15d5-4ee2-ba19-2ddcfb5da301"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-07-17",
+  "time": "",
+  "venue": "Mill Hill Basement",
+  "city": "Trenton",
+  "state_country": "New Jersey, USA",
+  "tour": "July 2010 dates with Down With Webster",
+  "supporting_artists_or_bill": [
+   "The Blue Pages",
+   "Stay"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-the-blue-pages-stay"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-07-18",
+  "time": "",
+  "venue": "Hot Topic",
+  "city": "Bethesda",
+  "state_country": "Maryland, USA",
+  "tour": "July 2010 dates with Down With Webster",
+  "supporting_artists_or_bill": [
+   "The Blue Pages"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-the-blue-pages"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-07-20",
+  "time": "",
+  "venue": "The Grog Shop",
+  "city": "Cleveland Heights",
+  "state_country": "Ohio, USA",
+  "tour": "July 2010 dates with Down With Webster",
+  "supporting_artists_or_bill": [
+   "Down With Webster",
+   "The Blue Pages",
+   "Stay"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-down-with-webster-the-blue-pages-stay-8ae11f56-20cc-4d16-a92f-a56fc489585c"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-07-21",
+  "time": "",
+  "venue": "Xtreme Wheels",
+  "city": "Buffalo",
+  "state_country": "New York, USA",
+  "tour": "July 2010 dates with Down With Webster",
+  "supporting_artists_or_bill": [
+   "Down With Webster",
+   "The Blue Pages",
+   "Stay"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-down-with-webster-the-blue-pages-stay-2b0ae6ef-0688-4bf9-a153-956c6846a6b0"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-07-30",
+  "time": "",
+  "venue": "Christ United Methodist Church",
+  "city": "Jackson",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-fac62c31-44f9-4d3c-86cc-cdebc6d6071d"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-08-04",
@@ -1058,13 +4361,17 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S15"
+   "S15",
+   "S18"
   ],
-  "confidence": "LOW-MEDIUM",
-  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+  "confidence": "MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings. | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-stephen-jerzak-call-the-cops-plug-in-stereo"
+  ]
  },
  {
   "date": "2010-08-05",
@@ -1080,13 +4387,17 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S15"
+   "S15",
+   "S18"
   ],
-  "confidence": "LOW-MEDIUM",
-  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+  "confidence": "MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings. | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-stephen-jerzak-call-the-cops-plug-in-stereo-0a9f6641-b2c3-425c-9d03-57e425dec630"
+  ]
  },
  {
   "date": "2010-08-06",
@@ -1102,13 +4413,17 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S15"
+   "S15",
+   "S18"
   ],
-  "confidence": "LOW-MEDIUM",
-  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+  "confidence": "MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings. | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/transmission-festival-us"
+  ]
  },
  {
   "date": "2010-08-07",
@@ -1124,13 +4439,17 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S15"
+   "S15",
+   "S18"
   ],
-  "confidence": "LOW-MEDIUM",
-  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+  "confidence": "MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings. | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/transmission-festival-us--1880315"
+  ]
  },
  {
   "date": "2010-08-09",
@@ -1146,13 +4465,17 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S15"
+   "S15",
+   "S18"
   ],
-  "confidence": "LOW-MEDIUM",
-  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+  "confidence": "MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings. | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-stephen-jerzak-call-the-cops-plug-in-stereo-118c4c15-893c-4bda-affa-8db5b90bca41"
+  ]
  },
  {
   "date": "2010-08-10",
@@ -1168,13 +4491,17 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S15"
+   "S15",
+   "S18"
   ],
-  "confidence": "LOW-MEDIUM",
-  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+  "confidence": "MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings. | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-stephen-jerzak-call-the-cops-plug-in-stereo-a52a95a1-bf09-4e09-a858-a34b33c0c47d"
+  ]
  },
  {
   "date": "2010-08-11",
@@ -1190,13 +4517,17 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S15"
+   "S15",
+   "S18"
   ],
-  "confidence": "LOW-MEDIUM",
-  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+  "confidence": "MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings. | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/the-dangerous-summer-the-morning-of-at-crocodile-rock-cafe-cafe-under"
+  ]
  },
  {
   "date": "2010-08-12",
@@ -1212,13 +4543,17 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S15"
+   "S15",
+   "S18"
   ],
-  "confidence": "LOW-MEDIUM",
-  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+  "confidence": "MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings. | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-stephen-jerzak-call-the-cops-plug-in-stereo-0f8b08df-8bbd-46f6-9a02-c00ba94a1406"
+  ]
  },
  {
   "date": "2010-08-13",
@@ -1234,13 +4569,17 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S15"
+   "S15",
+   "S18"
   ],
-  "confidence": "LOW-MEDIUM",
-  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+  "confidence": "MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings. | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/hot-over-summer-tour"
+  ]
  },
  {
   "date": "2010-08-14",
@@ -1262,7 +4601,30 @@
    "S15"
   ],
   "confidence": "LOW-MEDIUM",
-  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings. | CONFLICT: other listings for 2010-08-14 name a different city (Evansville, Indianapolis)",
+  "source_urls": []
+ },
+ {
+  "date": "2010-08-14",
+  "time": "",
+  "venue": "Emerson Theater",
+  "city": "Indianapolis",
+  "state_country": "Indiana, USA",
+  "tour": "Hot Over Summer Tour (2010)",
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/hot-over-summer-tour-b2e4afdf-7144-4959-a5e8-1f1d220605f2"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives | CONFLICT: other listings for 2010-08-14 name a different city (Evansville, Indianapolis)"
  },
  {
   "date": "2010-08-15",
@@ -1284,7 +4646,60 @@
    "S15"
   ],
   "confidence": "LOW-MEDIUM",
-  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings. | CONFLICT: other listings for 2010-08-15 name a different city (La Crosse, Madison)",
+  "source_urls": []
+ },
+ {
+  "date": "2010-08-15",
+  "time": "",
+  "venue": "The Loft",
+  "city": "Madison",
+  "state_country": "Wisconsin, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call the Cops",
+   "Plug In Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-stephen-jerzak-call-the-cops-plug-in-stereo-64dbfeed-9029-4287-a6f7-0a0f3e417e77"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives | CONFLICT: other listings for 2010-08-15 name a different city (La Crosse, Madison)"
+ },
+ {
+  "date": "2010-08-17",
+  "time": "",
+  "venue": "Warehouse",
+  "city": "La Crosse",
+  "state_country": "Wisconsin, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Plug In Stereo",
+   "Stephen Jerzak",
+   "Call the Cops"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-plug-in-stereo-stephen-jerzak-call-the-cops"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-08-18",
@@ -1300,13 +4715,361 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
   "source_ids": [
-   "S15"
+   "S15",
+   "S18"
   ],
+  "confidence": "MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings. | 1 fan submission(s) on Concert Archives",
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-stephen-jerzak-call-the-cops-plug-in-stereo-d8e81afe-edc2-400d-bbb8-cfc168c3e84d"
+  ]
+ },
+ {
+  "date": "2010-09-26",
+  "time": "",
+  "venue": "War Legion Underground",
+  "city": "Amarillo",
+  "state_country": "Texas, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-e19d2ca8-78cd-4d05-bc9b-683ef3e047e8"
+  ],
+  "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-09-28",
+  "time": "",
+  "venue": "Downtown Music Hall",
+  "city": "Little Rock",
+  "state_country": "Arkansas, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/let-s-get-it-ec8e59d4-8990-4ddd-893b-a480f41e1654"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-10-01",
+  "time": "",
+  "venue": "The Pit",
+  "city": "West Palm Beach",
+  "state_country": "Florida, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-10-02",
+  "time": "",
+  "venue": "Jack Rabbits",
+  "city": "Jacksonville",
+  "state_country": "Florida, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-0fcc0165-2154-4f13-9d6d-00eea8c13ec4"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-10-03",
+  "time": "",
+  "venue": "The Social",
+  "city": "Orlando",
+  "state_country": "Florida, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-cc017e66-38ad-4604-bbee-f8d7ef471d5b"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-10-05",
+  "time": "",
+  "venue": "The Engine Room",
+  "city": "Tallahassee",
+  "state_country": "Florida, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-fccd7b4a-049b-4f95-9f97-f9de89c5fe4b"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-10-06",
+  "time": "",
+  "venue": "High Ground",
+  "city": "Metairie",
+  "state_country": "Louisiana, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-590e442c-f803-4149-92be-62b842775a89"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-10-07",
+  "time": "",
+  "venue": "Shadowplay Lounge",
+  "city": "The Woodlands",
+  "state_country": "Texas, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-3e35b684-ed92-4f6b-b39f-690be03530e3"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-10-08",
+  "time": "",
+  "venue": "The Door",
+  "city": "Plano",
+  "state_country": "Texas, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-524027dc-d16f-4849-8757-c08751bf0f59"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-10-09",
+  "time": "",
+  "venue": "House of rock",
+  "city": "Corpus Christi",
+  "state_country": "Texas, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-ac704d39-b232-42ce-a9c6-c58b9fdac859"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-10-10",
+  "time": "",
+  "venue": "Paper Tiger",
+  "city": "San Antonio",
+  "state_country": "Texas, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-dd9562d7-5512-4fd2-8b9b-4a5192023d41"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-10-11",
+  "time": "",
+  "venue": "Launchpad",
+  "city": "Albuquerque",
+  "state_country": "New Mexico, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-3c922df7-d480-4cb9-87f6-5ccc531c3aec"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-10-13",
+  "time": "",
+  "venue": "Skrappy's",
+  "city": "Tucson",
+  "state_country": "Arizona, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-da84cf08-a021-4b53-8e81-ce90970e0606"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2010-10-14",
+  "time": "",
+  "venue": "The Epicentre",
+  "city": "San Diego",
+  "state_country": "California, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "source_ids": [
+   "S18"
+  ],
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-ce5e4688-8c76-4b0c-b166-0c5bc096503b"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-16",
@@ -1319,15 +5082,19 @@
    "Blood On the Dance Floor",
    "Breathe Electric"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-b7c4d1dc-fa10-4fcb-9ee8-d9d8cfafdb41"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-17",
@@ -1340,15 +5107,19 @@
    "Blood On the Dance Floor",
    "Breathe Electric"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-c0e545df-df6c-4ec3-9f6a-7474151772a2"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-18",
@@ -1361,15 +5132,19 @@
    "Blood On the Dance Floor",
    "Breathe Electric"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-2081caf5-f13c-4904-b37a-d1f61ef1be15"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-19",
@@ -1380,17 +5155,22 @@
   "tour": "Fall 2010 (Blood On the Dance Floor bill)",
   "supporting_artists_or_bill": [
    "Blood On the Dance Floor",
-   "Breathe Electric"
+   "Breathe Electric",
+   "Sierra Skyline"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-sierra-skyline"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-20",
@@ -1403,15 +5183,19 @@
    "Blood On the Dance Floor",
    "Breathe Electric"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-4e494e9f-fc8f-4b78-805d-502de12cb431"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-21",
@@ -1424,15 +5208,19 @@
    "Blood On the Dance Floor",
    "Breathe Electric"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-48617c3e-50ca-4188-a53c-722d8e4f451f"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-22",
@@ -1445,15 +5233,19 @@
    "Blood On the Dance Floor",
    "Breathe Electric"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-90dbb67b-2790-4e9c-8407-2ef36dc2d860"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-23",
@@ -1466,15 +5258,19 @@
    "Blood On the Dance Floor",
    "Breathe Electric"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-20decea1-dbe6-4923-9efb-29a6d53fd51e"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-24",
@@ -1487,15 +5283,19 @@
    "Blood On the Dance Floor",
    "Breathe Electric"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-0d6b9ca2-84fe-4319-8c93-55c74815d729"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-26",
@@ -1505,18 +5305,26 @@
   "state_country": "Oklahoma, USA",
   "tour": "Fall 2010 (Blood On the Dance Floor bill)",
   "supporting_artists_or_bill": [
+   "Minus the Bear",
    "Blood On the Dance Floor",
-   "Breathe Electric"
+   "Breathe Electric",
+   "Dot Dot Curve",
+   "The Globes",
+   "Tim Kasher"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/minus-the-bear-blood-on-the-dance-floor-let-s-get-it-breathe-electric-dot-dot-curve-the-globes-tim-kasher"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-27",
@@ -1530,15 +5338,19 @@
    "Breathe Electric",
    "Dot Dot Curve"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-dot-dot-curve"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-28",
@@ -1552,15 +5364,19 @@
    "Breathe Electric",
    "Dot Dot Curve"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-dot-dot-curve-20195b91-c40b-44f8-b68a-516d8b6ef33d"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-29",
@@ -1574,15 +5390,19 @@
    "Breathe Electric",
    "Dot Dot Curve"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-dot-dot-curve-d16bd030-a124-4c43-852f-46ec3a435f3b"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-30",
@@ -1596,20 +5416,24 @@
    "Breathe Electric",
    "Dot Dot Curve"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-dot-dot-curve-0a87aefe-20e8-4fb9-b2eb-ac754489f47c"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-10-31",
   "time": "",
-  "venue": "Crocodile Rock Cafe",
+  "venue": "Crocodile Rock Café",
   "city": "Allentown",
   "state_country": "Pennsylvania, USA",
   "tour": "Fall 2010 (Blood On the Dance Floor bill)",
@@ -1618,15 +5442,19 @@
    "Breathe Electric",
    "Dot Dot Curve"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-dot-dot-curve-455759ee-a149-48d8-85b2-f30932c9079b"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-11-01",
@@ -1640,15 +5468,19 @@
    "Breathe Electric",
    "Dot Dot Curve"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-dot-dot-curve-d2c8774b-0655-4123-8cc3-a688117c9ee3"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-11-03",
@@ -1662,15 +5494,19 @@
    "Breathe Electric",
    "Dot Dot Curve"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-dot-dot-curve-ac306185-536d-4972-8da8-bcbc2e7a0577"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2010-11-04",
@@ -1684,20 +5520,24 @@
    "Breathe Electric",
    "Dot Dot Curve"
   ],
-  "headliner": "Blood On the Dance Floor (per listing)",
+  "headliner": null,
   "festival": null,
   "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/blood-on-the-dance-floor-let-s-get-it-breathe-electric-dot-dot-curve-cb0b4f0b-c87b-4958-8700-7d80169e9b90"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives"
  },
  {
   "date": "2011-12-10",
   "time": "",
-  "venue": "Unsilent Night 4, Centennial Hall, Fair Park",
+  "venue": "Centennial Hall, Fair Park",
   "city": "Dallas",
   "state_country": "Texas, USA",
   "tour": null,
@@ -1705,17 +5545,21 @@
   "headliner": null,
   "festival": "Unsilent Night 4",
   "status": "POSSIBLE",
-  "basis": "Concert Archives lists it twice (two lineups) for the same date; user-submitted (S18)",
+  "basis": "Listed on Concert Archives (fan-submitted, more than one submission); no other source found",
   "source_ids": [
    "S18"
   ],
-  "confidence": "LOW",
-  "notes": "Duplicate listings with different band lists; unresolved which one includes Let's Get It."
+  "source_urls": [
+   "https://www.concertarchives.org/concerts/unsilent-night-4--3"
+  ],
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "3 fan submission(s) on Concert Archives; the submissions carry different festival lineups, so no bill is shown"
  },
  {
   "date": "2015-01-01",
   "time": "",
-  "venue": "(unnamed festival-style listing)",
+  "venue": "(multi-band listing)",
   "city": "",
   "state_country": "",
   "tour": null,
@@ -1723,11 +5567,13 @@
   "headliner": null,
   "festival": null,
   "status": "UNVERIFIED CLAIM",
-  "basis": "Concert Archives lists a multi-band bill including Let's Get It on 2015-01-01; band is listed as ended in 2012",
+  "basis": "Concert Archives lists a multi-band bill including Let's Get It on 2015-01-01; the band is recorded as ended in 2012",
   "source_ids": [
    "S18"
   ],
+  "source_urls": [],
+  "archive_url": null,
   "confidence": "UNVERIFIED",
-  "notes": "Likely a data-entry artifact (placeholder date). Do not present as a show."
+  "notes": "Likely a data-entry artifact. Do not present as a show."
  }
 ]

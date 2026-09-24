@@ -1,5 +1,13 @@
 [
  {
+  "date": "2008 (summer)",
+  "event": "Band formed by five friends in Dayton, Ohio.",
+  "source_ids": [
+   "S1"
+  ],
+  "confidence": "HIGH"
+ },
+ {
   "date": "2008-06-04",
   "event": "MySpace profile 'Lets Get It' created ('Member since 6/4/2008').",
   "source_ids": [
@@ -8,14 +16,6 @@
    "S11"
   ],
   "confidence": "MEDIUM"
- },
- {
-  "date": "2008 (summer)",
-  "event": "Band formed by five friends in Dayton, Ohio.",
-  "source_ids": [
-   "S1"
-  ],
-  "confidence": "HIGH"
  },
  {
   "date": "2008-08",
@@ -32,6 +32,22 @@
   "source_ids": [
    "S8",
    "S9"
+  ],
+  "confidence": "LOW-MEDIUM"
+ },
+ {
+  "date": "2008-11",
+  "event": "Dates with Punchline and The Years Gone By in the Northeast (fan-submitted listings).",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW-MEDIUM"
+ },
+ {
+  "date": "2009-03-16 to 2009-04-09",
+  "event": "Dates on a bill with Watchout! There's Ghosts across the South and East (fan-submitted, some also on the band's own schedule).",
+  "source_ids": [
+   "S18"
   ],
   "confidence": "LOW-MEDIUM"
  },
@@ -60,6 +76,14 @@
   "confidence": "MEDIUM"
  },
  {
+  "date": "2009-07-31 to 2009-08-21",
+  "event": "Announced west-coast/Midwest dates with Jeffree Star, Artist vs Poet and Watchout! Theres Ghosts.",
+  "source_ids": [
+   "S11"
+  ],
+  "confidence": "LOW-MEDIUM"
+ },
+ {
   "date": "2009-08-04",
   "event": "Digital Spaces EP released on Fearless Records.",
   "source_ids": [
@@ -70,10 +94,26 @@
   "confidence": "HIGH"
  },
  {
-  "date": "2009-07-31 to 2009-08-21",
-  "event": "Announced west-coast/Midwest dates with Jeffree Star, Artist vs Poet and Watchout! Theres Ghosts.",
+  "date": "2009-10-09 to 2009-11-19",
+  "event": "Atticus Metal Tour dates with Finch, blessthefall, Drop Dead, Gorgeous and Vanna (fan-submitted listings).",
   "source_ids": [
-   "S11"
+   "S18"
+  ],
+  "confidence": "LOW-MEDIUM"
+ },
+ {
+  "date": "2010-02-09 to 2010-03-02",
+  "event": "No Checkpoints in the Jungle Tour with Breathe Carolina (fan-submitted listings).",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW-MEDIUM"
+ },
+ {
+  "date": "2010-04-28 to 2010-05-15",
+  "event": "Dates with VersaEmerge and I See Stars (fan-submitted listings).",
+  "source_ids": [
+   "S18"
   ],
   "confidence": "LOW-MEDIUM"
  },
@@ -95,6 +135,14 @@
   "confidence": "MEDIUM"
  },
  {
+  "date": "2010-10-01 to 2010-11-04",
+  "event": "Fall dates on a bill with Blood On the Dance Floor and Breathe Electric (fan-submitted listings).",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW-MEDIUM"
+ },
+ {
   "date": "2011-05-24",
   "event": "Masters of the Universe released on Fearless Records.",
   "source_ids": [
@@ -110,6 +158,14 @@
    "S14"
   ],
   "confidence": "HIGH"
+ },
+ {
+  "date": "2011-12-10",
+  "event": "Listed on the Unsilent Night 4 festival lineup, Dallas (fan-submitted listing; lineups conflict).",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW"
  },
  {
   "date": "2012",

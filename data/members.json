@@ -17,24 +17,26 @@
   "role": "Guitar (rhythm guitar, occasional vocals per S17)",
   "status": "Full-time member (per S15)",
   "years": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "sources": [
    "S15",
-   "S17"
+   "S17",
+   "S22"
   ],
-  "notes": "Later formed Dangerkids per S17 (community source; not yet cross-checked in an interview)."
+  "notes": "Confirmed by the band owner. Later formed Dangerkids per S17 (community source; not yet cross-checked)."
  },
  {
   "name": "Taylor Foiles",
   "role": "Bass (early guitar per S17)",
   "status": "Full-time member (per S15)",
   "years": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "sources": [
    "S15",
-   "S17"
+   "S17",
+   "S22"
   ],
-  "notes": null
+  "notes": "Confirmed by the band owner."
  },
  {
   "name": "Kevin Hammond",
