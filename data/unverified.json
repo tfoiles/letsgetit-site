@@ -16,22 +16,6 @@
   ]
  },
  {
-  "claim": "'Rockin Romance' various-artists compilation, 2009",
-  "basis": "Appears on the archived MySpace (S11) only.",
-  "action": "Find label/catalog via Discogs (blocked) or iTunes.",
-  "source_ids": [
-   "S11"
-  ]
- },
- {
-  "claim": "Tyler Smyth later formed Dangerkids (Dayton, 2012)",
-  "basis": "Last.fm community wiki (S17); several Dangerkids interviews found by search but not yet read.",
-  "action": "Read a Dangerkids/Tyler Smyth interview to confirm.",
-  "source_ids": [
-   "S17"
-  ]
- },
- {
   "claim": "Substream Music Press issue 11 feature, Fearless Radio and The Daily Chorus mentions",
   "basis": "Blog headlines on the archived MySpace (S10), self-reported.",
   "action": "Locate the actual publications.",
@@ -62,6 +46,31 @@
   "source_ids": [
    "S22",
    "S27"
+  ]
+ },
+ {
+  "claim": "Where Joe Gilford, Taylor Foiles, Kevin Hammond and Chris Lairmore are now",
+  "basis": "Searches returned nothing that could be tied to these members (results were other people with similar names).",
+  "action": "Members supply what they are happy to have public (NEEDS_FROM_YOU B6).",
+  "source_ids": [
+   "S22"
+  ]
+ },
+ {
+  "claim": "Exact date the band signed to Fearless Records",
+  "basis": "Only 'just after the band's one-year anniversary' (S1) is documented; the band owner approves that wording (S22). No signing announcement found.",
+  "action": "Band owner supplies the date (NEEDS_FROM_YOU B4).",
+  "source_ids": [
+   "S1",
+   "S22"
+  ]
+ },
+ {
+  "claim": "Review of the 2009-12-31 show at The Attic, Kettering",
+  "basis": "Found by search (S34) but the site no longer resolves.",
+  "action": "Retry the Internet Archive.",
+  "source_ids": [
+   "S34"
   ]
  }
 ]

@@ -19,6 +19,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 TOURS = ROOT / "data" / "tours.json"
+BASE = ROOT / "research" / "raw" / "tours_base.json"
+OVERRIDES = ROOT / "data" / "tour_overrides.json"
 CA_ROWS = ROOT / "research" / "raw" / "ca_rows.json"
 
 BAND = re.compile(r"let.?s get it", re.I)
@@ -87,8 +89,29 @@ def apply_groups(events):
                 break
 
 
+def apply_overrides(events):
+    """Band-owner confirmations and other corroboration, kept in data/tour_overrides.json."""
+    for o in json.loads(OVERRIDES.read_text(encoding="utf-8")):
+        m = o["match"]
+        for ev in events:
+            ok = True
+            if "tour" in m: ok &= ev.get("tour") == m["tour"]
+            if "date" in m: ok &= ev["date"] == m["date"]
+            if "city" in m: ok &= norm_city(ev["city"]) == norm_city(m["city"])
+            if "date_from" in m: ok &= ev["date"] >= m["date_from"]
+            if "date_to" in m: ok &= ev["date"] <= m["date_to"]
+            for ex in o.get("exclude", []):
+                if ev["date"] == ex["date"] and norm_city(ev["city"]) == norm_city(ex["city"]):
+                    ok = False
+            if ok:
+                ev["status"], ev["confidence"], ev["basis"] = o["status"], o["confidence"], o["basis"]
+                for sid in o["add_sources"]:
+                    if sid not in ev["source_ids"]:
+                        ev["source_ids"].append(sid)
+
+
 def main():
-    events = json.loads(TOURS.read_text(encoding="utf-8"))
+    events = json.loads(BASE.read_text(encoding="utf-8"))
     ca = json.loads(CA_ROWS.read_text(encoding="utf-8"))
 
     # strip S18 from existing events; drop events that only had S18
@@ -191,6 +214,7 @@ def main():
                 e["notes"] = (e.get("notes") or "") + f" | CONFLICT: other listings for {d} name a different city ({', '.join(sorted(c.title() for c in cities))})"
 
     apply_groups(events)
+    apply_overrides(events)
     events.sort(key=lambda e: (e["date"], e["city"]))
     for ev in events:
         ev.setdefault("source_urls", [])

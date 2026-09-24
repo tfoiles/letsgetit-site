@@ -1,0 +1,60 @@
+[
+ {
+  "id": "O1",
+  "match": {
+   "tour": "Jeffree Star tour (2009)",
+   "date_from": "2009-07-31",
+   "date_to": "2009-08-21"
+  },
+  "status": "VERIFIED",
+  "confidence": "HIGH",
+  "add_sources": [
+   "S22"
+  ],
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
+  "exclude": [
+   {
+    "date": "2009-08-07",
+    "city": "Pawtucket"
+   }
+  ]
+ },
+ {
+  "id": "O2",
+  "match": {
+   "date": "2010-07-18",
+   "city": "Bethesda"
+  },
+  "status": "CORROBORATED",
+  "confidence": "MEDIUM",
+  "add_sources": [
+   "S29"
+  ],
+  "basis": "Fan listing plus a band-channel video 'Let's Get It Performs \"Glow in the Dark\" in Hot Topic' published the same day (2010-07-18)"
+ },
+ {
+  "id": "O3",
+  "match": {
+   "date": "2010-05-01/2010-05-02"
+  },
+  "status": "CORROBORATED",
+  "confidence": "MEDIUM",
+  "add_sources": [
+   "S29"
+  ],
+  "basis": "Lineup listing, press release and band-channel videos 'bamboozle update #1/#2' (published 2010-05-01) all place the band at Bamboozle; no set time found"
+ },
+ {
+  "id": "O4",
+  "match": {
+   "date": "2008-08-30",
+   "city": "Springfield"
+  },
+  "status": "CORROBORATED",
+  "confidence": "MEDIUM",
+  "add_sources": [
+   "S29"
+  ],
+  "basis": "Announced on the band's MySpace (S8, S9); band-channel videos titled 'A Lets Get It Show @ THE AFTER Springfield, Ohio' and '\"Do Not Disturb\" THE AFTER Springfield, Ohio' show a set at that venue (the video titles give no date)"
+ }
+]

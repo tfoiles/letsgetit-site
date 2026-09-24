@@ -38,7 +38,7 @@
   "source_type": "DATABASE",
   "reliability": "MEDIUM",
   "related_content": "release dates, labels, tracklists",
-  "notes": "Lists 14 tracks for Masters of the Universe; the official Fearless page (S21) lists 13. Track 14 is 'Fade Out (alternate version)'.",
+  "notes": "Lists 14 tracks for Masters of the Universe (Discogs, S6, also lists 14 for the MP3 edition); the official Fearless page (S21) lists 13. Track 14 is 'Fade Out (alternate version)'.",
   "access_date": "2026-09-24"
  },
  {
@@ -71,17 +71,17 @@
  },
  {
   "id": "S6",
-  "title": "Let's Get It — Discogs artist page",
+  "title": "Let's Get It — Discogs artist page and API data",
   "publisher": "Discogs",
   "author": null,
   "date": null,
   "url": "https://www.discogs.com/artist/2406277-Lets-Get-It",
   "archive_url": null,
   "source_type": "DATABASE",
-  "reliability": "not assessed",
-  "related_content": "credits, catalog numbers (pending)",
-  "notes": "Blocked (HTTP 403) to automated fetch; see NEEDS_FROM_YOU A1.",
-  "access_date": null
+  "reliability": "MEDIUM (community-edited database)",
+  "related_content": "lineup with roles, six compilation appearances, catalog and barcode numbers, band links (Facebook, SoundCloud, MySpace), Tyler Smyth's later band",
+  "notes": "The band owner saved the artist page (its discography, reviews, videos and lists load by script and were not in the saved file); the same data was read through Discogs' public API (artist, releases list, 7 releases, 1 master, 2 member pages) on the access date.",
+  "access_date": "2026-09-24"
  },
  {
   "id": "S7",
@@ -389,6 +389,90 @@
   "reliability": "LOW (search snippet only; profile page not read)",
   "related_content": "Fearless Records role: snippets describe marketing and promotions",
   "notes": "Conflicts with the A&R role given by the band owner; may reflect different periods. Unresolved.",
+  "access_date": null
+ },
+ {
+  "id": "S29",
+  "title": "LetsGetItTube (YouTube channel)",
+  "publisher": "YouTube",
+  "author": "LetsGetItTube",
+  "date": "2009-2013",
+  "url": "https://www.youtube.com/@LetsGetItTube",
+  "archive_url": null,
+  "source_type": "VIDEO",
+  "reliability": "HIGH that these videos exist and carry these titles and dates; the channel appears to be the band's own (titles such as 'Our A&R Nate' and 'Joe and Taylor LA update'); ownership to be confirmed by the band owner",
+  "related_content": "29 videos: song videos, tour and behind-the-scenes clips, live clips; corroborates Bamboozle 2010, the Atticus tour, a March 2009 tour, a 2010-07-18 Hot Topic set and a Springfield, Ohio show",
+  "notes": "Titles and dates read through YouTube's oEmbed and RSS feed (the feed shows only the 15 newest videos, so 14 older videos have no date here). Individual video links are in the Music & Video section.",
+  "access_date": "2026-09-24"
+ },
+ {
+  "id": "S30",
+  "title": "Let's Get It music videos (Fearless Records channel)",
+  "publisher": "Fearless Records (YouTube)",
+  "author": null,
+  "date": "2010-03",
+  "url": "https://www.youtube.com/watch?v=I-M46G6b0Xs",
+  "archive_url": null,
+  "source_type": "VIDEO",
+  "reliability": "HIGH (label's official channel)",
+  "related_content": "official videos for 'Duck Duck Grey Goose' and 'Ciroc and Roll'",
+  "notes": "Titles and channel confirmed through oEmbed. A search summary dated the first video March 2010; the date was not confirmed on the video page.",
+  "access_date": "2026-09-24"
+ },
+ {
+  "id": "S31",
+  "title": "New Music: Lets Get It stream 'Eyes On Me,' offer 'We Don't Care' for free download",
+  "publisher": "Dying Scene",
+  "author": "Dying Scene (no author credited)",
+  "date": null,
+  "url": "https://dyingscene.com/archive/new-music-lets-get-it-stream-eyes-on-me-offer-we-dont-care-for-free-download/",
+  "archive_url": null,
+  "source_type": "PRESS",
+  "reliability": "HIGH (contemporary publication); the article page shows no date, but the band-channel videos were published 2011-04-21 and 2011-05-05",
+  "related_content": "Eyes On Me lyric video and We Don't Care free download ahead of the May 24 album release",
+  "notes": "Read in full on access date.",
+  "access_date": "2026-09-24"
+ },
+ {
+  "id": "S32",
+  "title": "Let's Get It - Joe Gilford, Chris Lairmore, & Tyler Smyth (photograph)",
+  "publisher": "Flickr",
+  "author": "Melissa Terry (lissalynn)",
+  "date": "2009",
+  "url": "https://www.flickr.com/photos/lissalynn/3789362133",
+  "archive_url": null,
+  "source_type": "PHOTO",
+  "reliability": "HIGH that the photo exists; Flickr license: All Rights Reserved",
+  "related_content": "photograph of three members",
+  "notes": "Linked only. Not copied to this site: rights belong to the photographer.",
+  "access_date": "2026-09-24"
+ },
+ {
+  "id": "S33",
+  "title": "DangerKids",
+  "publisher": "Wikipedia",
+  "author": null,
+  "date": null,
+  "url": "https://en.wikipedia.org/wiki/DangerKids",
+  "archive_url": null,
+  "source_type": "DATABASE",
+  "reliability": "MEDIUM (encyclopedia)",
+  "related_content": "Tyler Smyth's later band: formed in Dayton in 2012; releases Collapse (2013, Rise Records) and blacklist__ (2017, Paid Vacation Records)",
+  "notes": "The page does not mention Let's Get It; the link between the two is from Discogs (S6) and Last.fm (S17).",
+  "access_date": "2026-09-24"
+ },
+ {
+  "id": "S34",
+  "title": "Let's Get It @ The Attic Kettering, OH",
+  "publisher": "Rock On Another Level",
+  "author": null,
+  "date": null,
+  "url": "http://www.rockonanotherlevel.com/lets-get-it-the-attic-kettering-oh/",
+  "archive_url": null,
+  "source_type": "PRESS",
+  "reliability": "NOT READ (site no longer resolves; found by search)",
+  "related_content": "probable review of the 2009-12-31 show at The Attic, Kettering",
+  "notes": "The Internet Archive was temporarily offline when checked; retry pending. See NEEDS_FROM_YOU A4.",
   "access_date": null
  }
 ]

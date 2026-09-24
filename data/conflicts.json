@@ -2,9 +2,10 @@
  {
   "id": "C1",
   "topic": "Guitarist's name in the Fearless bio (resolved)",
-  "summary": "The Fearless bio (S1) prints 'guitarist Tyler Foiles'. A band member confirms that is a typo: the lineup is Tyler Smyth (guitar) and Taylor Foiles (bass) (S22), matching S15 and S17. The bio quote is attributed here to Tyler Smyth because the bio calls its speaker 'guitarist'; that attribution is inferred and awaits confirmation.",
+  "summary": "The Fearless bio (S1) prints 'guitarist Tyler Foiles'. A band member confirms that is a typo: the lineup is Tyler Smyth (guitar) and Taylor Foiles (bass), matching S6, S15 and S17, and the quote in the bio is Tyler Smyth's (S22).",
   "source_ids": [
    "S1",
+   "S6",
    "S15",
    "S17",
    "S22"
@@ -14,10 +15,11 @@
  {
   "id": "C2",
   "topic": "Masters of the Universe track count",
-  "summary": "Fearless (S21) lists 13 tracks; MusicBrainz (S3) lists 14, adding 'Fade Out (alternate version)'. This archive shows the 13 official tracks and notes the extra.",
+  "summary": "Fearless (S21) lists 13 tracks; MusicBrainz (S3) and Discogs (S6, an MP3 edition) list 14, adding 'Fade Out (alternate version)'. This archive shows the 13 official tracks and notes the extra on the digital edition.",
   "source_ids": [
    "S21",
-   "S3"
+   "S3",
+   "S6"
   ]
  },
  {
@@ -85,10 +87,11 @@
  {
   "id": "C10",
   "topic": "Nate Matzelle's title",
-  "summary": "The band owner gives A&R (S22); a public profile snippet describes marketing and promotions at Fearless (S28). Unresolved; possibly different periods.",
+  "summary": "The band owner gives A&R (S22); a public profile snippet describes marketing and promotions at Fearless (S28). A band-channel video titled 'Our A&R Nate wrestling with Chris' (2010-09-25, S29) supports an A&R contact named Nate, but does not give the surname. Unresolved; possibly different periods.",
   "source_ids": [
    "S22",
-   "S28"
+   "S28",
+   "S29"
   ]
  }
 ]

@@ -23,7 +23,7 @@ def load(name):
 
 def cites(ids):
     return '<span class="src">' + " ".join(
-        f'[<a href="#{i.lower()}">{e(i)}</a>]' for i in ids
+        f'[<a href="#{i.lower()}">{e(i)}</a>]' for i in sorted(dict.fromkeys(ids), key=lambda x: int(x[1:]))
     ) + "</span>"
 
 
@@ -39,48 +39,65 @@ def gen_timeline():
     return f'<h3>Timeline</h3>\n<ol class="timeline">{rows}</ol>'
 
 
-def gen_discography():
-    out = []
-    for r in load("releases"):
-        kind = e(r["release_type"])
-        meta = [e(r["release_date"] or "date unknown")]
-        if r.get("label"):
-            meta.append(e(r["label"]))
-        head = ' <span class="sep">·</span> '.join(meta)
-        tracks = ""
-        if r["tracks"]:
-            tracks = '<ol class="tracks">' + "".join(f"<li>{e(t)}</li>" for t in r["tracks"]) + "</ol>"
-        listen = ""
-        if r["links"]:
-            listen = '<div class="listen">' + "".join(
-                f'<a href="{e(l["url"])}">Listen — {e(l["label"])}</a>' for l in r["links"]
-            ) + "</div>"
-        credits = ""
-        if r["credits"]:
-            credits = "<p class=\"srcnote\">Credits: " + e("; ".join(r["credits"])) + "</p>"
-        out.append(
-            f'<div class="release">\n<p class="rt">{e(r["title"])} <span class="src">— {kind}</span></p>\n'
-            f'<p class="rmeta">{head} {cites(r["source_ids"])} {conf_tag(r["confidence"])}</p>\n'
-            f'{tracks}\n{listen}\n{credits}\n<p class="srcnote">{e(r["notes"] or "")}</p>\n</div>'
-        )
-    return "\n".join(out)
+def release_html(r):
+    kind = e(r["release_type"])
+    meta = [e(r["release_date"] or "date unknown")]
+    if r.get("label"):
+        meta.append(e(r["label"]))
+    if r.get("catalog_number"):
+        meta.append("cat. " + e(r["catalog_number"]))
+    head = ' <span class="sep">·</span> '.join(meta)
+    tracks = ""
+    if r["tracks"]:
+        tracks = '<ol class="tracks">' + "".join(f"<li>{e(t)}</li>" for t in r["tracks"]) + "</ol>"
+    lgi = f'<p class="srcnote">Let\'s Get It on this release: {e(r["lgi_track"])}</p>' if r.get("lgi_track") else ""
+    listen = ""
+    if r["links"]:
+        listen = '<div class="listen">' + "".join(
+            f'<a href="{e(l["url"])}">Listen — {e(l["label"])}</a>' for l in r["links"]
+        ) + "</div>"
+    fmt = f'<p class="srcnote">Formats: {e("; ".join(r["formats"]))}</p>' if r.get("formats") else ""
+    credits = f'<p class="srcnote">Credits: {e("; ".join(r["credits"]))}</p>' if r["credits"] else ""
+    return (
+        f'<div class="release">\n<p class="rt">{e(r["title"])} <span class="src">— {kind}</span></p>\n'
+        f'<p class="rmeta">{head} {cites(r["source_ids"])} {conf_tag(r["confidence"])}</p>\n'
+        f'{tracks}\n{lgi}\n{listen}\n{fmt}\n{credits}\n<p class="srcnote">{e(r["notes"] or "")}</p>\n</div>'
+    )
 
+
+def gen_discography():
+    rels = load("releases")
+    main = [r for r in rels if not r["release_type"].startswith("Compilation")]
+    comps = [r for r in rels if r["release_type"].startswith("Compilation")]
+    out = [release_html(r) for r in main]
+    if comps:
+        out.append("<h3>Compilation appearances</h3>")
+        out.append('<p class="srcnote">Various-artists releases that include a Let\'s Get It track (Discogs, S6).</p>')
+        out += [release_html(r) for r in comps]
+    return "\n".join(out)
 
 def gen_members():
     items = "".join(
         f'<li>{e(m["name"])} <span class="role">{e(m["role"])} {cites(m["sources"])} {conf_tag(m["confidence"])}'
+        f'<br><span class="srcnote">{e(m["years"])}</span>'
         + (f'<br><span class="srcnote">{e(m["notes"])}</span>' if m["notes"] else "")
         + "</span></li>"
         for m in load("members")
     )
     conflict = next(c for c in load("conflicts") if c["id"] == "C1")
+    now_items = []
+    for n in load("members_now"):
+        if n["text"]:
+            now_items.append(f'<li><strong>{e(n["name"])}.</strong> {e(n["text"])} {cites(n["source_ids"])} {conf_tag(n["confidence"])}</li>')
+    pending = ", ".join(n["name"] for n in load("members_now") if not n["text"])
     return (
         f'<ul class="plain">{items}</ul>\n'
-        f'<p class="srcnote"><strong>Lineup source:</strong> a 2010 press release repost (S15) and a community wiki (S17); '
-        f'Tyler Smyth and Taylor Foiles are confirmed by a band member (S22). Membership dates and touring/former members are not yet documented.</p>\n'
+        f'<p class="srcnote"><strong>Lineup:</strong> confirmed by a band member (S22): five members from 2008 to 2012, with no former or touring members. '
+        f'Roles also match Discogs (S6), a 2010 press release repost (S15) and a community wiki (S17).</p>\n'
         f'<div class="conflict"><span class="label">NOTE — CORRECTED BY A BAND MEMBER</span>{e(conflict["summary"])} {cites(conflict["source_ids"])}</div>\n'
-        '<div class="needed"><span class="label">ENTRY NEEDED</span>'
-        'Years each member was in the band, and any touring or former members.</div>'
+        f'<h3>Where are they now?</h3>\n<ul class="plain notes">{"".join(now_items)}</ul>\n'
+        f'<div class="needed"><span class="label">ENTRY NEEDED</span>Nothing verifiable found yet for {e(pending)}. '
+        'Each member can add what they are happy to have public.</div>'
     )
 
 def gen_team():
@@ -156,7 +173,7 @@ def gen_tours():
         '<strong>CORROBORATED</strong> = two independent listings agree on date and city, with no eyewitness account. '
         '<strong>POSSIBLE</strong> = a single announcement or fan listing. '
         '<strong>UNVERIFIED CLAIM</strong> = listed, but doubtful. Hover a status for its basis; “check” marks dates where sources disagree. '
-        'Band members can promote a status by confirming a date (see Archive notes).</p>',
+        'The band owner considers the fan listings valid (S22); statuses still follow the evidence found so far, and confirmations from the band, videos or flyers upgrade them.</p>',
         f'<details class="archive" open><summary><span class="yr">Tour archive</span> <span class="src">all {len(events)} listings, open a year to see the shows</span></summary>',
         f'<h3>Tours and runs</h3><ul class="plain notes">{tour_rows}</ul>',
         "\n".join(year_blocks),
@@ -164,6 +181,54 @@ def gen_tours():
         '<div class="needed"><span class="label">ENTRY NEEDED</span>Corrections and confirmations from band members: which dates were played, cancelled or wrong; '
         'plus 2011 and 2012 shows and anything missing.</div>',
     ])
+
+def gen_media():
+    m = load("media")
+    listen = (
+        '<div class="listen-row">'
+        '<a href="https://open.spotify.com/artist/6PvtObzrQDw6LT6XoUALpf">Spotify — Artist</a>'
+        '<a href="https://music.apple.com/us/artist/lets-get-it/289801706">Apple Music — Artist</a></div>'
+    )
+
+    def vrow(v, src):
+        pub = f' <span class="src">{e(v["published"])}</span>' if v.get("published") else ""
+        kind = f' <span class="src">· {e(v["kind"])}</span>' if v.get("kind") else ""
+        who = f' <span class="src">· {e(v["channel"])}</span>' if v.get("channel") else ""
+        return f'<li><a href="{e(v["url"])}">{e(v["title"])}</a>{pub}{kind}{who} {src}</li>'
+
+    off = "".join(vrow(v, cites(v["source_ids"])) for v in m["official_videos"])
+    bc = m["band_channel"]
+    groups = OrderedDict()
+    for v in bc["videos"]:
+        groups.setdefault(v["kind"], []).append(v)
+    order = ["Song video", "Live / performance", "Tour / event", "Behind the scenes"]
+    det = "".join(
+        f'<details class="year"><summary><span class="yr">{e(k)}</span> <span class="src">{len(groups[k])}</span></summary>'
+        f'<ul class="plain notes">{"".join(vrow(v, "") for v in groups[k])}</ul></details>'
+        for k in order if k in groups
+    )
+    links = "".join(
+        f'<li><a href="{e(l["url"])}">{e(l["label"])}</a> <span class="src">· {e(l["kind"])}</span>'
+        + (f'<br><span class="srcnote">{e(l["note"])}</span>' if l.get("note") else "")
+        + f' {cites(l["source_ids"])}</li>'
+        for l in m["links"]
+    )
+    photos = "".join(
+        f'<li>{e(p["title"])} — {e(p["credit"])}, {e(p["date"])}. <a href="{e(p["url"])}">View at source</a> '
+        f'<span class="src">· {e(p["license"])} · {e(p["usage_status"])}</span> {cites(p["source_ids"])}</li>'
+        for p in m["photos"]
+    )
+    return (
+        listen + "\n<h3>Videos</h3>\n"
+        f'<ul class="plain notes">{off}</ul>\n'
+        f'<details class="archive"><summary><span class="yr">Band YouTube channel</span> '
+        f'<span class="src">{len(bc["videos"])} videos, 2009 to 2013 {cites(bc["source_ids"])}</span></summary>{det}'
+        f'<p class="srcnote"><a href="{e(bc["url"])}">Open the channel</a>. Dates are shown only where the channel feed gave them.</p></details>\n'
+        '<div class="needed"><span class="label">ENTRY NEEDED</span>Vimeo and other video links; a search of Vimeo found none so far.</div>\n'
+        f'<h3>Links and historical web presence</h3>\n<ul class="plain notes">{links}</ul>\n'
+        f'<h3>Photographs elsewhere on the web</h3>\n<ul class="plain notes">{photos}</ul>'
+    )
+
 
 def gen_press():
     items = []
@@ -225,6 +290,7 @@ BLOCKS = {
     "members": gen_members,
     "team": gen_team,
     "tours": gen_tours,
+    "media": gen_media,
     "press": gen_press,
     "sources": gen_sources,
     "notes": gen_notes,

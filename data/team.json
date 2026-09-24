@@ -7,10 +7,11 @@
   "confidence": "MEDIUM",
   "source_ids": [
    "S10",
-   "S22"
+   "S22",
+   "S29"
   ],
   "status": "Role per band owner; the 2009 listing corroborates the earlier era only",
-  "notes": "Third-party contact details on the archived page are deliberately not reproduced."
+  "notes": "A band-channel video published 2013-02-10 is titled 'All My Life Cover (Studio Video feat. David Marsh)' (S29); it is not confirmed that this is the same person. Third-party contact details on the archived MySpace page are deliberately not reproduced."
  },
  {
   "name": "Dave Shapiro",
@@ -99,9 +100,10 @@
   "confidence": "LOW-MEDIUM",
   "source_ids": [
    "S22",
-   "S28"
+   "S28",
+   "S29"
   ],
   "status": "A&R role per band owner; a public profile snippet describes a marketing and promotions role at Fearless, so the title is unresolved",
-  "notes": "May reflect different periods."
+  "notes": "A band-channel video titled 'Our A&R Nate wrestling with Chris' (2010-09-25, S29) supports an A&R contact named Nate at the label; it does not give the surname."
  }
 ]

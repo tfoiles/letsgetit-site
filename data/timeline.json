@@ -55,7 +55,16 @@
   "date": "About 2009",
   "event": "Signed to Fearless Records 'just after the band's one-year anniversary' (about a year after forming; exact date not stated).",
   "source_ids": [
-   "S1"
+   "S1",
+   "S22"
+  ],
+  "confidence": "HIGH"
+ },
+ {
+  "date": "2009-04-28",
+  "event": "'All My Life' appears on the Rockin' Romance compilation (Destiny Worldwide Records).",
+  "source_ids": [
+   "S6"
   ],
   "confidence": "MEDIUM"
  },
@@ -92,6 +101,14 @@
    "S11"
   ],
   "confidence": "HIGH"
+ },
+ {
+  "date": "2009-10-02",
+  "event": "'Do Not Disturb (Tell Me How Bad)' appears on the Japanese compilation Beyond [The] Blue Vol. 3.",
+  "source_ids": [
+   "S6"
+  ],
+  "confidence": "MEDIUM"
  },
  {
   "date": "2009-10-09 to 2009-11-19",
@@ -135,12 +152,46 @@
   "confidence": "MEDIUM"
  },
  {
+  "date": "2010-09-25",
+  "event": "Band-channel video 'Our A&R Nate wrestling with Chris' published.",
+  "source_ids": [
+   "S29"
+  ],
+  "confidence": "HIGH"
+ },
+ {
   "date": "2010-10-01 to 2010-11-04",
   "event": "Fall dates on a bill with Blood On the Dance Floor and Breathe Electric (fan-submitted listings).",
   "source_ids": [
    "S18"
   ],
   "confidence": "LOW-MEDIUM"
+ },
+ {
+  "date": "2010-11-23",
+  "event": "Band-channel video 'Down To Us ('Tis The Season To Be Fearless)' published.",
+  "source_ids": [
+   "S29"
+  ],
+  "confidence": "HIGH"
+ },
+ {
+  "date": "2011-04-21",
+  "event": "'We Don't Care' video and free download released ahead of the album.",
+  "source_ids": [
+   "S29",
+   "S31"
+  ],
+  "confidence": "HIGH"
+ },
+ {
+  "date": "2011-05-05",
+  "event": "'Eyes On Me' video published on the band's channel.",
+  "source_ids": [
+   "S29",
+   "S31"
+  ],
+  "confidence": "HIGH"
  },
  {
   "date": "2011-05-24",
@@ -174,6 +225,14 @@
    "S2"
   ],
   "confidence": "MEDIUM"
+ },
+ {
+  "date": "2013-02-10",
+  "event": "Last dated upload on the band's channel: 'All My Life Cover (Studio Video feat. David Marsh)'.",
+  "source_ids": [
+   "S29"
+  ],
+  "confidence": "HIGH"
  },
  {
   "date": "2013-05-17",

@@ -1,0 +1,353 @@
+{
+ "official_videos": [
+  {
+   "title": "Let's Get It - “Duck Duck Grey Goose” Official Music Video",
+   "channel": "Fearless Records",
+   "url": "https://www.youtube.com/watch?v=I-M46G6b0Xs",
+   "published": null,
+   "kind": "Official music video",
+   "source_ids": [
+    "S30"
+   ]
+  },
+  {
+   "title": "Let's Get It - “Ciroc and Roll”",
+   "channel": "Fearless Records",
+   "url": "https://www.youtube.com/watch?v=T4umGUcgOvI",
+   "published": null,
+   "kind": "Song video",
+   "source_ids": [
+    "S30"
+   ]
+  },
+  {
+   "title": "Audacity of Dope - Let's Get It - Lyrics video",
+   "channel": "jessycarAU (fan upload)",
+   "url": "https://www.youtube.com/watch?v=-NT7RNjUmVU",
+   "published": null,
+   "kind": "Lyric video (fan upload)",
+   "source_ids": [
+    "S29"
+   ]
+  }
+ ],
+ "band_channel": {
+  "name": "LetsGetItTube",
+  "url": "https://www.youtube.com/@LetsGetItTube",
+  "source_ids": [
+   "S29"
+  ],
+  "videos": [
+   {
+    "title": "Let's Get It - All My Life Cover (Studio Video feat. David Marsh)",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=021fKw-rPvQ",
+    "published": "2013-02-10",
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "Let's Get It - Keep It Up",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=dAcTK91uB5Q",
+    "published": "2011-05-19",
+    "kind": "Song video"
+   },
+   {
+    "title": "Let's Get It - Eyes On Me",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=kIN4WQYaxhQ",
+    "published": "2011-05-05",
+    "kind": "Song video"
+   },
+   {
+    "title": "Joe's \"Eyes On Me\" Update",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=A0QTUUoDZC4",
+    "published": "2011-05-02",
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "Let's Get It - We Don't Care",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=fVgf4sDNYoQ",
+    "published": "2011-04-21",
+    "kind": "Song video"
+   },
+   {
+    "title": "Let's Get It - Down To Us ('Tis The Season To Be Fearless)",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=HZ2Me-31VJo",
+    "published": "2010-11-23",
+    "kind": "Song video"
+   },
+   {
+    "title": "(LGI Short) Chris's really bad idea",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=I-5Aazzh8Ik",
+    "published": "2010-10-03",
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "(LGI Short) Laptops, Taylor, Kevin and Tyler with Furry Animals",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=aOLb4xThqlI",
+    "published": "2010-09-27",
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "(LGI Short) Our A&R Nate wrestling with Chris",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=gcUMPGOQCk0",
+    "published": "2010-09-25",
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "Let's Get It Performs \"Glow in the Dark\" in Hot Topic",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=sWewgbWHRAA",
+    "published": "2010-07-18",
+    "kind": "Live / performance"
+   },
+   {
+    "title": "Let's Get It - Parking Lot 40oz Party w/ VersaEmerge, I See Stars and Eye Alaska",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=-i4L9sNM8mc",
+    "published": "2010-05-10",
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "(LGI Short) Let's Get It in the trailer jammin!",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=n3cQCMn_OCg",
+    "published": "2010-05-03",
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "(LGI Short) let's get it bamboozle update #2",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=UTTjM9oVCHw",
+    "published": "2010-05-01",
+    "kind": "Tour / event"
+   },
+   {
+    "title": "(LGI Short) let's get it bamboozle update #1",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=8O-LucNj7Ys",
+    "published": "2010-05-01",
+    "kind": "Tour / event"
+   },
+   {
+    "title": "(LGI Short) let's get it pre bamboo update",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=a2o-Dh5e7o4",
+    "published": "2010-04-27",
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "(LGI Short) Let's Get It: Joe and Taylor LA update",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=w2Di9GVd65Y",
+    "published": null,
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "(LGI Short) Song Writting with Tyler and Taylor",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=rSKOOCuKHOo",
+    "published": null,
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "(LGI Short) March practice",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=RPkZrTPJYZI",
+    "published": null,
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "Let's Get It January 2010 Photoshoot",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=Qh6epi9lC6E",
+    "published": null,
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "Let's Get It \"@santas_playlist\" Acoustic",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=B0GOrNCPXeU",
+    "published": null,
+    "kind": "Live / performance"
+   },
+   {
+    "title": "Let's Get It Plays \"Maps\" Acoustic Backstage",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=WXRv5Z7XLJE",
+    "published": null,
+    "kind": "Live / performance"
+   },
+   {
+    "title": "Let's Get It - Bamboozle Announcement",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=8uTOBaIU-q8",
+    "published": null,
+    "kind": "Tour / event"
+   },
+   {
+    "title": "Let's Get It Last Day of Atticus Tour (Pranks)",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=YRKogH84xOk",
+    "published": null,
+    "kind": "Tour / event"
+   },
+   {
+    "title": "Lets Get It March 2009 Tour Video",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=ehAY8zRKEzU",
+    "published": null,
+    "kind": "Tour / event"
+   },
+   {
+    "title": "A Lets Get It Show @ THE AFTER Springfield, Ohio",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=RKqIdSe1HsA",
+    "published": null,
+    "kind": "Live / performance"
+   },
+   {
+    "title": "Lets Get It \"Do Not Disturb\" THE AFTER Springfield, Ohio",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=wk_m3PyCc40",
+    "published": null,
+    "kind": "Live / performance"
+   },
+   {
+    "title": "Lets Get It \"First Tour Video\"",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=e180WMFPC7k",
+    "published": null,
+    "kind": "Tour / event"
+   },
+   {
+    "title": "Lets Get It \"Youtube Cribs\"",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=cZ7LxFON8kc",
+    "published": null,
+    "kind": "Behind the scenes"
+   },
+   {
+    "title": "Lets Get It Demo Diary",
+    "channel": "LetsGetItTube",
+    "url": "https://www.youtube.com/watch?v=AOcqpLdxDuw",
+    "published": null,
+    "kind": "Behind the scenes"
+   }
+  ]
+ },
+ "links": [
+  {
+   "label": "YouTube: LetsGetItTube",
+   "url": "https://www.youtube.com/@LetsGetItTube",
+   "kind": "Video channel",
+   "note": "29 videos, 2009 to 2013. Verified to exist; appears to be the band's own.",
+   "source_ids": [
+    "S29"
+   ]
+  },
+  {
+   "label": "Facebook: /letsgetit",
+   "url": "https://www.facebook.com/letsgetit",
+   "kind": "Social",
+   "note": "Listed as a band site on Discogs. Not checked whether it is still active.",
+   "source_ids": [
+    "S6"
+   ]
+  },
+  {
+   "label": "SoundCloud: /letsgetit",
+   "url": "https://soundcloud.com/letsgetit",
+   "kind": "Social",
+   "note": "Listed as a band site on Discogs. Not checked whether it is still active.",
+   "source_ids": [
+    "S6"
+   ]
+  },
+  {
+   "label": "MySpace: /letsgetit",
+   "url": "https://myspace.com/letsgetit",
+   "kind": "Historical",
+   "note": "The band's profile since June 2008; archived copies from 2008 and 2009 are cited in this archive.",
+   "source_ids": [
+    "S6",
+    "S9",
+    "S11"
+   ]
+  },
+  {
+   "label": "MySpace, archived 2009-08-02",
+   "url": "https://web.archive.org/web/20090802225357/http://www.myspace.com/letsgetit",
+   "kind": "Historical (archived)",
+   "note": "Internet Archive copy.",
+   "source_ids": [
+    "S11"
+   ]
+  },
+  {
+   "label": "MySpace, archived 2008-08-03 (/letsgetitband)",
+   "url": "https://web.archive.org/web/20080803012353/http://www.myspace.com:80/letsgetitband",
+   "kind": "Historical (archived)",
+   "note": "Internet Archive copy of the earlier profile name.",
+   "source_ids": [
+    "S8"
+   ]
+  },
+  {
+   "label": "letsgetitband.com in 2013 (expired-domain notice)",
+   "url": "https://web.archive.org/web/20130605055431/http://letsgetitband.com/",
+   "kind": "Historical (archived)",
+   "note": "Not an official site at that date: the domain had lapsed.",
+   "source_ids": [
+    "S12"
+   ]
+  },
+  {
+   "label": "Discogs: Let's Get It",
+   "url": "https://www.discogs.com/artist/2406277-Lets-Get-It",
+   "kind": "Database",
+   "note": "Releases and compilation appearances.",
+   "source_ids": [
+    "S6"
+   ]
+  },
+  {
+   "label": "Fearless Records: artist page",
+   "url": "https://fearlessrecords.com/artists/lets-get-it/",
+   "kind": "Label",
+   "note": "",
+   "source_ids": [
+    "S1"
+   ]
+  },
+  {
+   "label": "Last.fm: Let's Get It",
+   "url": "https://www.last.fm/music/Let's+Get+It",
+   "kind": "Database",
+   "note": "Community wiki and scrobbles.",
+   "source_ids": [
+    "S17"
+   ]
+  }
+ ],
+ "photos": [
+  {
+   "title": "Let's Get It - Joe Gilford, Chris Lairmore, & Tyler Smyth",
+   "credit": "Melissa Terry (lissalynn)",
+   "date": "2009",
+   "url": "https://www.flickr.com/photos/lissalynn/3789362133",
+   "license": "All Rights Reserved",
+   "usage_status": "Linked only, not copied here. Permission needed to reproduce.",
+   "source_ids": [
+    "S32"
+   ]
+  }
+ ]
+}

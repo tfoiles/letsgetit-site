@@ -6,6 +6,7 @@ on the apex domain **letsgetitband.com**.
 - `index.html` — the whole site (self-contained: inline CSS, no JS). The sections between `<!--GEN:...-->` markers are generated; do not edit them by hand.
 - `data/*.json` — the archive's structured data (sources, members, releases, timeline, tours, press, conflicts, unverified claims). Edit these.
 - `tools/build.py` — renders `data/` into the generated sections of `index.html`. Run `python3 tools/build.py` after editing the data.
+- `og.png` — link-preview image (provenance in `data/images.json`).
 - `docs/` — research report and source table (`lets-get-it-research.md`, `lets-get-it-sources.md`).
 - `CNAME` — tells GitHub Pages the custom domain (contents: `letsgetitband.com`)
 
@@ -59,7 +60,3 @@ GitHub's docs on 2026-07-07.
 - **HTTPS** (the TLS certificate + the "Enforce HTTPS" option) only becomes
   available **after** DNS resolves to GitHub, so expect a gap between "site loads"
   and "HTTPS works."
-- `og.png` is referenced by the Open Graph / Twitter tags but not yet added — drop a
-  1200×630 image at the repo root as `og.png` to enable rich link previews.
-- The Instagram / YouTube / TikTok links are placeholders (`href="#"`); replace them
-  in `index.html` when the real profile URLs exist.

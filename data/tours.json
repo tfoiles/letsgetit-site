@@ -220,11 +220,12 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "Announced on the band's MySpace (S8, S9); band-channel videos titled 'A Lets Get It Show @ THE AFTER Springfield, Ohio' and '\"Do Not Disturb\" THE AFTER Springfield, Ohio' show a set at that venue (the video titles give no date)",
   "source_ids": [
    "S9",
-   "S8"
+   "S8",
+   "S29"
   ],
   "source_url": "",
   "archive_url": null,
@@ -1600,15 +1601,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "High Ground // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: The High Ground",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-775c89f8-e305-487f-9c47-75996f2ccdc6",
@@ -1628,15 +1630,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Emo’s // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 1 fan submission(s) on Concert Archives",
   "source_urls": [
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-de-la-soul-kenan-bell-jeffree-star-artist-vs-poet-let-s-get-it"
@@ -1655,15 +1658,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Boney Junes // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Boney Junes",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-e2ba2da0-739a-4105-bc2b-14488f9b029f",
@@ -1683,15 +1687,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "The Pike Room at Crofoot Ballroom // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-1beeb28e-0fe6-47f0-be5c-f090fec02d03",
@@ -1711,15 +1716,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Chameleon Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Chameleon Club",
   "source_urls": [
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-72dbe5f7-754c-43d2-aea1-0bb9f0132b87",
@@ -1765,15 +1771,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Club Hell // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 1 fan submission(s) on Concert Archives | CONFLICT: other listings for 2009-08-07 name a different city (Pawtucket, Providence)",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-fd214ead-0f56-4476-a099-3da58943b609"
@@ -1792,15 +1799,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Valentines // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
   "source_urls": [
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-23e8c9f6-bb56-43d8-a1e2-fc401c155e6d",
@@ -1820,14 +1828,15 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
-   "S11"
+   "S11",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
+  "confidence": "HIGH",
   "notes": "Reggies Rock Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts",
   "source_urls": []
  },
@@ -1844,15 +1853,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "The House of Bricks // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-74ec3b43-e31d-45ab-8201-c93fc1bada5b",
@@ -1872,15 +1882,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Triple Rock // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-34285f85-ddb8-4c1e-a509-306dbd528ffa",
@@ -1900,16 +1911,17 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
-  "notes": "The Beaumont Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Beaumont",
+  "confidence": "HIGH",
+  "notes": "The Beaumont Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Beaumont Club",
   "source_urls": [
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-904dfeef-5750-41c0-baad-b2dae1bcde30",
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-1f7059ff-25a0-4423-90a4-be48c91329b2"
@@ -1928,15 +1940,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Marquis Theater // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 1 fan submission(s) on Concert Archives",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-c175cb22-5c62-4d14-a2a3-f9024111f249"
@@ -1955,15 +1968,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Avallon // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
   "source_urls": [
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-5479f85d-825e-4881-9970-8124f0b48f7e",
@@ -1983,15 +1997,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Icon // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: The Icon",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-dcef7b0f-7525-4cbb-b8bb-ea5eb1b899ff",
@@ -2011,15 +2026,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Empyran w/ Jeffree Star, Artist Vs Poet, Watch out! There’s Ghosts | 1 fan submission(s) on Concert Archives",
   "source_urls": [
    "https://www.concertarchives.org/concerts/artist-vs-poet-watchout-there-s-ghosts-let-s-get-it"
@@ -2038,15 +2054,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "El Corazon // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-d04d1c6a-9961-47c2-aaec-c1beac72b20e",
@@ -2066,15 +2083,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Hawthorne Theater // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-b77cbeac-a51e-4f6c-879d-f0826f4cd818",
@@ -2094,15 +2112,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "The Boardwalk // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-let-s-get-it-watch-out-there-s-ghosts-the-divine",
@@ -2122,15 +2141,16 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "status": "VERIFIED",
+  "basis": "Band owner confirms all of these dates were played and none was cancelled (S22); the one conflicting fan listing for 2009-08-07 (The Met, Pawtucket) is excluded because the band's own schedule names Club Hell, Providence",
   "source_ids": [
    "S11",
-   "S18"
+   "S18",
+   "S22"
   ],
   "source_url": "",
   "archive_url": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Downtown Brewing Co // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives",
   "source_urls": [
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-let-artist-vs-poet-let-s-get-it",
@@ -3316,7 +3336,7 @@
  {
   "date": "2010-02-13",
   "time": "",
-  "venue": "Almaden Community Center",
+  "venue": "The Almaden Community Center",
   "city": "San Jose",
   "state_country": "California, USA",
   "tour": "No Checkpoints in the Jungle Tour (2010)",
@@ -3338,7 +3358,7 @@
   ],
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: The Almaden Community Center"
+  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: Almaden Community Center"
  },
  {
   "date": "2010-02-14",
@@ -3441,7 +3461,7 @@
  {
   "date": "2010-02-19",
   "time": "",
-  "venue": "The Murray Theater",
+  "venue": "Murray Theater",
   "city": "Murray",
   "state_country": "Utah, USA",
   "tour": "No Checkpoints in the Jungle Tour (2010)",
@@ -3463,7 +3483,7 @@
   ],
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: Murray Theater"
+  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: The Murray Theater"
  },
  {
   "date": "2010-02-20",
@@ -3782,11 +3802,12 @@
   "supporting_artists_or_bill": [],
   "headliner": null,
   "festival": "The Bamboozle 2010",
-  "status": "POSSIBLE",
-  "basis": "Named in the Bamboozle 2010 lineup listing (S19); press release (S15) also says the band 'appeared at Bamboozle Festival this spring'. Day/stage unknown.",
+  "status": "CORROBORATED",
+  "basis": "Lineup listing, press release and band-channel videos 'bamboozle update #1/#2' (published 2010-05-01) all place the band at Bamboozle; no set time found",
   "source_ids": [
    "S19",
-   "S15"
+   "S15",
+   "S29"
   ],
   "confidence": "MEDIUM",
   "notes": "Two independent-ish mentions, no set time found.",
@@ -4261,16 +4282,17 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "status": "CORROBORATED",
+  "basis": "Fan listing plus a band-channel video 'Let's Get It Performs \"Glow in the Dark\" in Hot Topic' published the same day (2010-07-18)",
   "source_ids": [
-   "S18"
+   "S18",
+   "S29"
   ],
   "source_urls": [
    "https://www.concertarchives.org/concerts/let-s-get-it-the-blue-pages"
   ],
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
+  "confidence": "MEDIUM",
   "notes": "1 fan submission(s) on Concert Archives"
  },
  {

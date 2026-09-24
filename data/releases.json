@@ -4,9 +4,10 @@
   "release_type": "EP",
   "release_date": "2009-08-04",
   "label": "Fearless Records",
-  "catalog_number": null,
+  "catalog_number": "FRL 30126-2",
   "formats": [
-   "Digital (per MusicBrainz)"
+   "CD (Fearless Records)",
+   "Digital"
   ],
   "tracks": [
    "Duck, Duck, Grey Goose",
@@ -28,12 +29,13 @@
   ],
   "source_ids": [
    "S1",
+   "S11",
    "S3",
    "S4",
-   "S11"
+   "S6"
   ],
   "confidence": "HIGH",
-  "notes": "S11 (Fearless news ticker on the band's MySpace, 2009-07-27) says the EP streams on PureVolume and releases Aug 4, pre-order via SmartPunk, MerchNow, InterPunk; this corroborates the date. Fearless bio: two new songs plus re-recordings of four earlier songs (Do Not Disturb, Duck Duck Grey Goose, Maps, Shoot for Teams)."
+  "notes": "S11 (Fearless news ticker on the band's MySpace, 2009-07-27) says the EP streams on PureVolume and releases Aug 4, pre-order via SmartPunk, MerchNow, InterPunk; this corroborates the date. Fearless bio: two new songs plus re-recordings of four earlier songs (Do Not Disturb, Duck Duck Grey Goose, Maps, Shoot for Teams). Discogs (S6) gives the catalog number FRL 30126-2 and a CD EP edition."
  },
  {
   "title": "Masters of the Universe",
@@ -42,7 +44,7 @@
   "label": "Fearless Records",
   "catalog_number": null,
   "formats": [
-   "Digital (per MusicBrainz)"
+   "Digital album / MP3 (Discogs lists 14 tracks)"
   ],
   "tracks": [
    "Audacity of Dope",
@@ -70,32 +72,135 @@
    }
   ],
   "source_ids": [
+   "S14",
+   "S15",
    "S21",
    "S3",
+   "S31",
    "S4",
-   "S14",
-   "S15"
+   "S6"
   ],
   "confidence": "HIGH (date, 13 tracks); MEDIUM (production credits)",
-  "notes": "Official Fearless list has 13 tracks. MusicBrainz adds a 14th, 'Fade Out (alternate version)', edition not identified. Under the Gun Review calls it Power-pop/Dance on Fearless Records."
+  "notes": "Official Fearless list has 13 tracks. MusicBrainz and Discogs list a 14th, 'Fade Out (alternate version)', on the digital edition. Under the Gun Review calls it Power-pop/Dance on Fearless Records. Dying Scene (S31) covers the 'Eyes On Me' lyric video and the free 'We Don't Care' download ahead of the release."
  },
  {
-  "title": "Rockin Romance",
-  "release_type": "Compilation appearance (unconfirmed)",
-  "release_date": "2009",
-  "label": null,
+  "title": "Rockin' Romance",
+  "release_type": "Compilation appearance (CD)",
+  "release_date": "2009-04-28",
+  "label": "Destiny Worldwide Records",
   "catalog_number": null,
   "formats": [
-   "iTunes (per S11)"
+   "CD, compilation, US"
   ],
   "tracks": [],
+  "lgi_track": "Track 6: 'All My Life'",
   "credits": [],
   "artwork_source": null,
   "links": [],
   "source_ids": [
-   "S11"
+   "S6"
   ],
-  "confidence": "LOW",
-  "notes": "Shown on the band's archived MySpace as 'Rockin Romance - VARIOUS ARTISTS / 2009' with a PURCHASE/iTunes link. Label, track and details not verified. Lead only."
+  "confidence": "MEDIUM",
+  "notes": "Various artists. Listed on Discogs; the band's 2009 MySpace also shows it (S11). 'All My Life' does not appear on either Fearless release."
+ },
+ {
+  "title": "Beyond [The] Blue Vol. 3",
+  "release_type": "Compilation appearance (CD + DVD)",
+  "release_date": "2009-10-02",
+  "label": "Kick Rock MUSIC (Japan)",
+  "catalog_number": "EKRM-1137",
+  "formats": [
+   "CD + DVD, compilation, Japan"
+  ],
+  "tracks": [],
+  "lgi_track": "Track 5: 'Do Not Disturb (Tell Me How Bad)'",
+  "credits": [],
+  "artwork_source": null,
+  "links": [],
+  "source_ids": [
+   "S6"
+  ],
+  "confidence": "MEDIUM",
+  "notes": "Various artists. Japanese release."
+ },
+ {
+  "title": "Fearless Records Summer Sampler 2009",
+  "release_type": "Compilation appearance (CD)",
+  "release_date": "2009 (per title)",
+  "label": "Fearless Records",
+  "catalog_number": null,
+  "formats": [
+   "CD, compilation, US"
+  ],
+  "tracks": [],
+  "lgi_track": "Track 7: 'Do Not Disturb'",
+  "credits": [],
+  "artwork_source": null,
+  "links": [],
+  "source_ids": [
+   "S6"
+  ],
+  "confidence": "MEDIUM",
+  "notes": "Various artists. Discogs gives no exact date."
+ },
+ {
+  "title": "Atticus V Presented By Atticus Black",
+  "release_type": "Compilation appearance (2xCD)",
+  "release_date": null,
+  "label": "Atticus Black",
+  "catalog_number": "ATTB 005",
+  "formats": [
+   "2xCD, compilation, US"
+  ],
+  "tracks": [],
+  "lgi_track": "Disc 1, track 12: 'Do Not Disturb'",
+  "credits": [],
+  "artwork_source": null,
+  "links": [],
+  "source_ids": [
+   "S6"
+  ],
+  "confidence": "MEDIUM",
+  "notes": "Various artists. Discogs gives no year; the band toured on the 2009 Atticus Metal Tour (see Tour History)."
+ },
+ {
+  "title": "Take Action Volume 9",
+  "release_type": "Compilation appearance",
+  "release_date": "2010",
+  "label": null,
+  "catalog_number": null,
+  "formats": [
+   "Compilation"
+  ],
+  "tracks": [],
+  "lgi_track": "Disc 2, track 3: 'Maps (Joey Sturgis Remix)'",
+  "credits": [],
+  "artwork_source": null,
+  "links": [],
+  "source_ids": [
+   "S6"
+  ],
+  "confidence": "MEDIUM",
+  "notes": "Various artists. Listed as a Discogs master release; label not stated there."
+ },
+ {
+  "title": "Fearless Records Summer Sampler 2010",
+  "release_type": "Compilation appearance (CD)",
+  "release_date": "2010",
+  "label": "Fearless Records",
+  "catalog_number": null,
+  "formats": [
+   "CD, compilation, US"
+  ],
+  "tracks": [],
+  "lgi_track": "Track 12: 'Duck Duck Grey Goose'",
+  "credits": [],
+  "artwork_source": null,
+  "links": [],
+  "source_ids": [
+   "S6"
+  ],
+  "confidence": "MEDIUM",
+  "notes": "Various artists."
  }
 ]
