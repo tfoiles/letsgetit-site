@@ -1,0 +1,56 @@
+[
+ {
+  "id": "C1",
+  "topic": "Guitarist's name",
+  "summary": "The Fearless bio (S1) credits a quote to 'guitarist Tyler Foiles'. The 2010 press release (S15) and Last.fm wiki (S17) list Tyler Smyth (guitar) and Taylor Foiles (bass) as two different people. The bio's name may be a mix-up; unresolved until confirmed by a band member.",
+  "source_ids": [
+   "S1",
+   "S15",
+   "S17"
+  ]
+ },
+ {
+  "id": "C2",
+  "topic": "Masters of the Universe track count",
+  "summary": "Fearless (S21) lists 13 tracks; MusicBrainz (S3) lists 14, adding 'Fade Out (alternate version)'. This archive shows the 13 official tracks and notes the extra.",
+  "source_ids": [
+   "S21",
+   "S3"
+  ]
+ },
+ {
+  "id": "C3",
+  "topic": "Aug 18, 2010 date location",
+  "summary": "S15 prints 'St. Paul, MI'; St. Paul is in Minnesota, so 'MI' looks like a typo. Shown as Minnesota with the source spelling noted.",
+  "source_ids": [
+   "S15"
+  ]
+ },
+ {
+  "id": "C4",
+  "topic": "Fall 2010 Salt Lake City dates",
+  "summary": "Concert Archives (S18) lists two consecutive Salt Lake City dates (Oct 22 'The Basement', Oct 23 'Avalon Theater'). Unresolved.",
+  "source_ids": [
+   "S18"
+  ]
+ },
+ {
+  "id": "C5",
+  "topic": "2015-01-01 listing",
+  "summary": "Concert Archives (S18) lists a multi-band event dated 2015-01-01 including Let's Get It although the band is recorded as ended in 2012. Treated as unverified.",
+  "source_ids": [
+   "S18",
+   "S2"
+  ]
+ },
+ {
+  "id": "C6",
+  "topic": "Label status in 2008-09",
+  "summary": "Archived MySpace (S9, S10) lists the label as 'Unsigned' in August 2008 (S9) and January 2009 (S10); S1 says the band signed about a year after forming. Consistent, but the exact signing date is unknown.",
+  "source_ids": [
+   "S1",
+   "S9",
+   "S10"
+  ]
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "claim": "Named one of Alternative Press's '100 Bands You Need To Know 2010'",
+  "basis": "Stated only in the 2010 press release repost (S15). The AP 2010 issue page returned 403, and a search summary of the published list did not include the band.",
+  "action": "Check the printed issue #261 (April 2010) or the AP page.",
+  "source_ids": [
+   "S15"
+  ]
+ },
+ {
+  "claim": "Alternative Press interview with Joe Gilford (content)",
+  "basis": "URL found (S20) but not read.",
+  "action": "See NEEDS_FROM_YOU A4.",
+  "source_ids": [
+   "S20"
+  ]
+ },
+ {
+  "claim": "'Rockin Romance' various-artists compilation, 2009",
+  "basis": "Appears on the archived MySpace (S11) only.",
+  "action": "Find label/catalog via Discogs (blocked) or iTunes.",
+  "source_ids": [
+   "S11"
+  ]
+ },
+ {
+  "claim": "Tyler Smyth later formed Dangerkids (Dayton, 2012)",
+  "basis": "Last.fm community wiki (S17); several Dangerkids interviews found by search but not yet read.",
+  "action": "Read a Dangerkids/Tyler Smyth interview to confirm.",
+  "source_ids": [
+   "S17"
+  ]
+ },
+ {
+  "claim": "Substream Music Press issue 11 feature, Fearless Radio and The Daily Chorus mentions",
+  "basis": "Blog headlines on the archived MySpace (S10), self-reported.",
+  "action": "Locate the actual publications.",
+  "source_ids": [
+   "S10"
+  ]
+ },
+ {
+  "claim": "Apple Music single 'On Me (feat. Let's Get It)'",
+  "basis": "Listed on the Apple artist page (S4); it is not clear whether this is a band release or a feature on another artist's single.",
+  "action": "Open the Apple album page (1487866313).",
+  "source_ids": [
+   "S4"
+  ]
+ },
+ {
+  "claim": "Which of the 192 Concert Archives entries are real shows",
+  "basis": "Only page 1 of 10 was readable (S18).",
+  "action": "See NEEDS_FROM_YOU A3.",
+  "source_ids": [
+   "S18"
+  ]
+ }
+]

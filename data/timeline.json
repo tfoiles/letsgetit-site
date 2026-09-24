@@ -1,0 +1,131 @@
+[
+ {
+  "date": "2008-06-04",
+  "event": "MySpace profile 'Lets Get It' created ('Member since 6/4/2008').",
+  "source_ids": [
+   "S9",
+   "S10",
+   "S11"
+  ],
+  "confidence": "MEDIUM"
+ },
+ {
+  "date": "2008 (summer)",
+  "event": "Band formed by five friends in Dayton, Ohio.",
+  "source_ids": [
+   "S1"
+  ],
+  "confidence": "HIGH"
+ },
+ {
+  "date": "2008-08",
+  "event": "Earliest archived show listings on the band's MySpace (Aug 8 onward); label field reads 'Unsigned'.",
+  "source_ids": [
+   "S8",
+   "S9"
+  ],
+  "confidence": "MEDIUM"
+ },
+ {
+  "date": "2008-09",
+  "event": "Announced dates with Brokencyde ('The Get Money Tour') across the Southwest and Plains.",
+  "source_ids": [
+   "S8",
+   "S9"
+  ],
+  "confidence": "LOW-MEDIUM"
+ },
+ {
+  "date": "About 2009",
+  "event": "Signed to Fearless Records 'just after the band's one-year anniversary' (about a year after forming; exact date not stated).",
+  "source_ids": [
+   "S1"
+  ],
+  "confidence": "MEDIUM"
+ },
+ {
+  "date": "2009-07-27",
+  "event": "Digital Spaces EP streams exclusively on PureVolume ahead of release.",
+  "source_ids": [
+   "S11"
+  ],
+  "confidence": "MEDIUM"
+ },
+ {
+  "date": "2009-07-28",
+  "event": "Opens for Jeffree Star at The Social, Orlando.",
+  "source_ids": [
+   "S16"
+  ],
+  "confidence": "MEDIUM"
+ },
+ {
+  "date": "2009-08-04",
+  "event": "Digital Spaces EP released on Fearless Records.",
+  "source_ids": [
+   "S1",
+   "S3",
+   "S11"
+  ],
+  "confidence": "HIGH"
+ },
+ {
+  "date": "2009-07-31 to 2009-08-21",
+  "event": "Announced west-coast/Midwest dates with Jeffree Star, Artist vs Poet and Watchout! Theres Ghosts.",
+  "source_ids": [
+   "S11"
+  ],
+  "confidence": "LOW-MEDIUM"
+ },
+ {
+  "date": "2010-05-01/02",
+  "event": "Listed in the Bamboozle 2010 lineup, East Rutherford, NJ.",
+  "source_ids": [
+   "S19",
+   "S15"
+  ],
+  "confidence": "MEDIUM"
+ },
+ {
+  "date": "2010-07-29",
+  "event": "Press release: band to record its debut album in Hollywood, CA in late August 2010 with Ian Kirkpatrick and Mike Green.",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "MEDIUM"
+ },
+ {
+  "date": "2011-05-24",
+  "event": "Masters of the Universe released on Fearless Records.",
+  "source_ids": [
+   "S21",
+   "S3"
+  ],
+  "confidence": "HIGH"
+ },
+ {
+  "date": "2011-06-30",
+  "event": "Under the Gun Review publishes a review of Masters of the Universe (8.8/10).",
+  "source_ids": [
+   "S14"
+  ],
+  "confidence": "HIGH"
+ },
+ {
+  "date": "2012",
+  "event": "Active period ends (per MusicBrainz).",
+  "source_ids": [
+   "S2"
+  ],
+  "confidence": "MEDIUM"
+ },
+ {
+  "date": "2013-05-17",
+  "event": "Original domain letsgetitband.com expires and is parked; later parked for sale (2014).",
+  "source_ids": [
+   "S12",
+   "S13"
+  ],
+  "confidence": "HIGH"
+ }
+]

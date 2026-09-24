@@ -1,0 +1,63 @@
+[
+ {
+  "name": "Joe Gilford",
+  "role": "Vocals",
+  "status": "Full-time member (per S15)",
+  "years": null,
+  "confidence": "HIGH",
+  "sources": [
+   "S1",
+   "S15",
+   "S17"
+  ],
+  "notes": "Named as singer in the Fearless bio; vocals in the 2010 press release."
+ },
+ {
+  "name": "Tyler Smyth",
+  "role": "Guitar (rhythm guitar, occasional vocals per S17)",
+  "status": "Full-time member (per S15)",
+  "years": null,
+  "confidence": "MEDIUM",
+  "sources": [
+   "S15",
+   "S17"
+  ],
+  "notes": "Later formed Dangerkids per S17 (community source; not yet cross-checked in an interview)."
+ },
+ {
+  "name": "Taylor Foiles",
+  "role": "Bass (early guitar per S17)",
+  "status": "Full-time member (per S15)",
+  "years": null,
+  "confidence": "MEDIUM",
+  "sources": [
+   "S15",
+   "S17"
+  ],
+  "notes": null
+ },
+ {
+  "name": "Kevin Hammond",
+  "role": "Drums",
+  "status": "Full-time member (per S15)",
+  "years": null,
+  "confidence": "MEDIUM",
+  "sources": [
+   "S15",
+   "S17"
+  ],
+  "notes": null
+ },
+ {
+  "name": "Chris Lairmore",
+  "role": "Guitar / keys",
+  "status": "Full-time member (per S15)",
+  "years": null,
+  "confidence": "MEDIUM",
+  "sources": [
+   "S15",
+   "S17"
+  ],
+  "notes": "S17 says lead guitar and keyboards."
+ }
+]

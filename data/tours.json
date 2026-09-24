@@ -1,0 +1,1733 @@
+[
+ {
+  "date": "2008-08-08",
+  "time": "8:00P",
+  "venue": "The Door",
+  "city": "Plano",
+  "state_country": "Texas, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Handshakes and Highfives"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080803); shows announced, not confirmed as played",
+  "source_ids": [
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "The Door // ALL AGES // w/ Handshakes and Highfives"
+ },
+ {
+  "date": "2008-08-09",
+  "time": "8:00P",
+  "venue": "The Otherside",
+  "city": "Tulsa",
+  "state_country": "Oklahoma, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Handshakes and Highfives   NEVERSHOUTNEVER!"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080803); shows announced, not confirmed as played",
+  "source_ids": [
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "The Otherside // w/ Handshakes and Highfives // NEVERSHOUTNEVER!"
+ },
+ {
+  "date": "2008-08-10",
+  "time": "6:30P",
+  "venue": "Cactus Jacks: Quest Event Center",
+  "city": "Belton",
+  "state_country": "Missouri, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Handshakes and Highfives"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080803); shows announced, not confirmed as played",
+  "source_ids": [
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Cactus Jacks: Quest Event Center // ALL AGES // w/ Handshakes and Highfives"
+ },
+ {
+  "date": "2008-08-12",
+  "time": "5:30P",
+  "venue": "Fall Creek House",
+  "city": "Anderson",
+  "state_country": "Indiana, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Handshakes and Highfives"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080803); shows announced, not confirmed as played",
+  "source_ids": [
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Fall Creek House // ALL AGES // w/ Handshakes and Highfives"
+ },
+ {
+  "date": "2008-08-13",
+  "time": "8:00P",
+  "venue": "Sparrows",
+  "city": "Springfield",
+  "state_country": "Missouri, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Handshakes and Highfives"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080803); shows announced, not confirmed as played",
+  "source_ids": [
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Sparrows // w/ Handshakes and Highfives"
+ },
+ {
+  "date": "2008-08-14",
+  "time": "8:00P",
+  "venue": "Bulldog Cafe",
+  "city": "Louisville",
+  "state_country": "Kentucky, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Handshakes and Highfives"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080803); shows announced, not confirmed as played",
+  "source_ids": [
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Bulldog Cafe // ALL AGES // w/ Handshakes and Highfives"
+ },
+ {
+  "date": "2008-08-15",
+  "time": "8:00P",
+  "venue": "The Boiler Room",
+  "city": "Chicago",
+  "state_country": "Illinois, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Handshakes and Highfives"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080803); shows announced, not confirmed as played",
+  "source_ids": [
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "The Boiler Room  // ALL AGES // w/ Handshakes and Highfives"
+ },
+ {
+  "date": "2008-08-16",
+  "time": "5:30P",
+  "venue": "The Sidney Elks",
+  "city": "Sidney",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Handshakes and Highfives"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080803); shows announced, not confirmed as played",
+  "source_ids": [
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "The Sidney Elks // ALL AGES // w/ Handshakes and Highfives"
+ },
+ {
+  "date": "2008-08-22",
+  "time": "7:00P",
+  "venue": "Mesker 3",
+  "city": "Evansville",
+  "state_country": "Indiana, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "TBA"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080803); shows announced, not confirmed as played",
+  "source_ids": [
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Mesker 3 // All Ages // w/ TBA"
+ },
+ {
+  "date": "2008-08-30",
+  "time": "6:00P",
+  "venue": "THE AFTER",
+  "city": "Springfield",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "CALLAHAN",
+   "GO RADIO",
+   "MARILYN AVENUE and MANY MORE!!!"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "source_ids": [
+   "S9",
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "MEDIUM",
+  "notes": "THE AFTER // ALL AGES // w/ CALLAHAN, GO RADIO, MARILYN AVENUE and MANY MORE!!!"
+ },
+ {
+  "date": "2008-09-02",
+  "time": "7:00P",
+  "venue": "The Griffyn",
+  "city": "Springfield",
+  "state_country": "Missouri, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "School Boy Humor"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "source_ids": [
+   "S9",
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "MEDIUM",
+  "notes": "The Griffyn / / All Ages / / w/ School Boy Humor"
+ },
+ {
+  "date": "2008-09-03",
+  "time": "7:00P",
+  "venue": "Lifequest Church",
+  "city": "Belton",
+  "state_country": "Missouri, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "nevershoutnever!",
+   "School Boy Humor",
+   "more"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080830); shows announced, not confirmed as played",
+  "source_ids": [
+   "S9"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Lifequest Church // ALL AGES // w/ nevershoutnever!, School Boy Humor +more"
+ },
+ {
+  "date": "2008-09-04",
+  "time": "7:00P",
+  "venue": "Marquis Theater",
+  "city": "Denver",
+  "state_country": "Colorado, USA",
+  "tour": "The Get Money Tour (with Brokencyde)",
+  "supporting_artists_or_bill": [
+   "Brokencyde",
+   "Vogue In The Movement"
+  ],
+  "headliner": "Brokencyde",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "source_ids": [
+   "S9",
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "MEDIUM",
+  "notes": "The GET MONEY Tour // Marquis Theater // All Ages // w/ Brokencyde, Vogue In The Movement"
+ },
+ {
+  "date": "2008-09-05",
+  "time": "8:00P",
+  "venue": "Avalon",
+  "city": "Salt Lake City",
+  "state_country": "Utah, USA",
+  "tour": "The Get Money Tour (with Brokencyde)",
+  "supporting_artists_or_bill": [
+   "Brokencyde",
+   "School Boy Humor",
+   "Vogue In The Movement"
+  ],
+  "headliner": "Brokencyde",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "source_ids": [
+   "S9",
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "MEDIUM",
+  "notes": "The GET MONEY Tour // Avalon // All Ages // w/ Brokencyde, School Boy Humor, Vogue In The Movement"
+ },
+ {
+  "date": "2008-09-06",
+  "time": "8:00P",
+  "venue": "Karma",
+  "city": "Victorville",
+  "state_country": "California, USA",
+  "tour": "The Get Money Tour (with Brokencyde)",
+  "supporting_artists_or_bill": [
+   "Brokencyde",
+   "School Boy Humor",
+   "Vogue In The Movement"
+  ],
+  "headliner": "Brokencyde",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "source_ids": [
+   "S9",
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "MEDIUM",
+  "notes": "The GET MONEY Tour // Karma // All Ages // w/ Brokencyde, School Boy Humor, Vogue In The Movement"
+ },
+ {
+  "date": "2008-09-07",
+  "time": "8:00P",
+  "venue": "Chaser’s",
+  "city": "Phoenix",
+  "state_country": "Arizona, USA",
+  "tour": "The Get Money Tour (with Brokencyde)",
+  "supporting_artists_or_bill": [
+   "Brokencyde",
+   "School Boy Humor",
+   "Vogue In The Movement"
+  ],
+  "headliner": "Brokencyde",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "source_ids": [
+   "S9",
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "MEDIUM",
+  "notes": "The GET MONEY Tour // Chaser’s // All Ages // w/ Brokencyde, School Boy Humor, Vogue In The Movement"
+ },
+ {
+  "date": "2008-09-08",
+  "time": "7:00P",
+  "venue": "The War Legion",
+  "city": "Amarillo",
+  "state_country": "Texas, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "School Boy Humor",
+   "More"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080830); shows announced, not confirmed as played",
+  "source_ids": [
+   "S9"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "The War Legion // ALL AGES // w/ School Boy Humor + More"
+ },
+ {
+  "date": "2008-09-09",
+  "time": "8:00P",
+  "venue": "The Door",
+  "city": "Dallas",
+  "state_country": "Texas, USA",
+  "tour": "The Get Money Tour (with Brokencyde)",
+  "supporting_artists_or_bill": [
+   "Brokencyde",
+   "Vogue In The Movement"
+  ],
+  "headliner": "Brokencyde",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "source_ids": [
+   "S9",
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "MEDIUM",
+  "notes": "The GET MONEY Tour // The Door // All Ages // w/ Brokencyde, Vogue In The Movement"
+ },
+ {
+  "date": "2008-09-10",
+  "time": "8:00P",
+  "venue": "Pink Eye",
+  "city": "Tulsa",
+  "state_country": "Oklahoma, USA",
+  "tour": "The Get Money Tour (with Brokencyde)",
+  "supporting_artists_or_bill": [
+   "Brokencyde",
+   "School Boy Humor",
+   "Vogue In The Movement"
+  ],
+  "headliner": "Brokencyde",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "source_ids": [
+   "S9",
+   "S8"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "MEDIUM",
+  "notes": "The GET MONEY Tour // Pink Eye // All Ages // w/ Brokencyde, School Boy Humor, Vogue In The Movement"
+ },
+ {
+  "date": "2008-09-11",
+  "time": "7:00P",
+  "venue": "The Vault Venue",
+  "city": "Stillwater",
+  "state_country": "Oklahoma, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Asteria",
+   "School Boy Humor"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080830); shows announced, not confirmed as played",
+  "source_ids": [
+   "S9"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "The Vault Venue // ALL AGES // w/ Asteria, School Boy Humor"
+ },
+ {
+  "date": "2008-10-29",
+  "time": "6:30P",
+  "venue": "The Knitting Factory",
+  "city": "New York",
+  "state_country": "New York, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Holiday Parade",
+   "My Favorite Highway"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20080830); shows announced, not confirmed as played",
+  "source_ids": [
+   "S9"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "The Knitting Factory // ALL AGES // w/ Holiday Parade, My Favorite Highway"
+ },
+ {
+  "date": "2009-07-28",
+  "time": "",
+  "venue": "The Social",
+  "city": "Orlando",
+  "state_country": "Florida, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Watch Out There's Ghosts",
+   "Artist vs. Poet"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "VERIFIED",
+  "basis": "Concert review says the reviewer arrived after opening act Let's Get It had played",
+  "source_ids": [
+   "S16"
+  ],
+  "confidence": "MEDIUM",
+  "notes": "Single press mention; venue/date from review header."
+ },
+ {
+  "date": "2009-07-31",
+  "time": "7:00P",
+  "venue": "High Ground",
+  "city": "Metairie",
+  "state_country": "Louisiana, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "High Ground // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-01",
+  "time": "7:30P",
+  "venue": "Emo’s",
+  "city": "Austin",
+  "state_country": "Texas, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Emo’s // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-03",
+  "time": "7:00P",
+  "venue": "Boney Junes",
+  "city": "Evansville",
+  "state_country": "Indiana, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Boney Junes // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-04",
+  "time": "7:00P",
+  "venue": "The Pike Room at Crofoot Ballroom",
+  "city": "Pontiac",
+  "state_country": "Michigan, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "The Pike Room at Crofoot Ballroom // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-06",
+  "time": "7:00P",
+  "venue": "Chameleon Club",
+  "city": "Lancaster",
+  "state_country": "Pennsylvania, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Chameleon Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-07",
+  "time": "7:00P",
+  "venue": "Club Hell",
+  "city": "Providence",
+  "state_country": "Rhode Island, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Club Hell // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-08",
+  "time": "7:30P",
+  "venue": "Valentines",
+  "city": "Albany",
+  "state_country": "New York, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Valentines // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-10",
+  "time": "6:30P",
+  "venue": "Reggies Rock Club",
+  "city": "Chicago",
+  "state_country": "Illinois, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Reggies Rock Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-11",
+  "time": "5:30P",
+  "venue": "The House of Bricks",
+  "city": "Des Moines",
+  "state_country": "Iowa, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "The House of Bricks // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-12",
+  "time": "5:30P",
+  "venue": "Triple Rock",
+  "city": "Minneapolis",
+  "state_country": "Minnesota, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Triple Rock // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-13",
+  "time": "7:30P",
+  "venue": "The Beaumont Club",
+  "city": "Kansas City",
+  "state_country": "Missouri, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "The Beaumont Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-14",
+  "time": "8:00P",
+  "venue": "Marquis Theater",
+  "city": "Denver",
+  "state_country": "Colorado, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Marquis Theater // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-15",
+  "time": "7:30P",
+  "venue": "Avallon",
+  "city": "Salt Lake City",
+  "state_country": "Utah, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Avallon // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-16",
+  "time": "7:00P",
+  "venue": "Icon",
+  "city": "Pocatello",
+  "state_country": "Idaho, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Icon // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-17",
+  "time": "6:30P",
+  "venue": "Empyran",
+  "city": "Spokane",
+  "state_country": "Washington, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Empyran w/ Jeffree Star, Artist Vs Poet, Watch out! There’s Ghosts"
+ },
+ {
+  "date": "2009-08-18",
+  "time": "8:00P",
+  "venue": "El Corazon",
+  "city": "Seattle",
+  "state_country": "Washington, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "El Corazon // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-19",
+  "time": "8:00P",
+  "venue": "Hawthorne Theater",
+  "city": "Portland",
+  "state_country": "Oregon, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Hawthorne Theater // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-20",
+  "time": "8:00P",
+  "venue": "The Boardwalk",
+  "city": "Orangevale",
+  "state_country": "California, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "The Boardwalk // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-21",
+  "time": "7:30P",
+  "venue": "Downtown Brewing Co",
+  "city": "San Luis Obispo",
+  "state_country": "California, USA",
+  "tour": "Jeffree Star tour (2009)",
+  "supporting_artists_or_bill": [
+   "Artist vs Poet",
+   "Watchout! Theres Ghosts"
+  ],
+  "headliner": "Jeffree Star",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Downtown Brewing Co // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts"
+ },
+ {
+  "date": "2009-08-25",
+  "time": "6:30P",
+  "venue": "King of Clubs",
+  "city": "Claremore",
+  "state_country": "Oklahoma, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "King of Clubs // ALL AGES // more TBA"
+ },
+ {
+  "date": "2009-08-26",
+  "time": "7:00P",
+  "venue": "Fubar",
+  "city": "St. Louis",
+  "state_country": "Missouri, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Fubar // more TBA"
+ },
+ {
+  "date": "2009-08-27",
+  "time": "6:00P",
+  "venue": "Bulldog Cafe",
+  "city": "Louisville",
+  "state_country": "Kentucky, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed under 'Upcoming Shows' on the band's archived MySpace profile (snapshot 20090802); shows announced, not confirmed as played",
+  "source_ids": [
+   "S11"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "LOW-MEDIUM",
+  "notes": "Bulldog Cafe / / ALL AGES // more TBA"
+ },
+ {
+  "date": "2009-08-29",
+  "time": "12:30P",
+  "venue": "Steel City Music Festival",
+  "city": "Pittsburgh",
+  "state_country": "Pennsylvania, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": "Steel City Music Festival",
+  "status": "POSSIBLE",
+  "basis": "Listed on the band's archived MySpace (S11) and Concert Archives has a fan-uploaded photo entry for this festival on 2009-08-29 (S18); set not otherwise confirmed",
+  "source_ids": [
+   "S11",
+   "S18"
+  ],
+  "source_url": "",
+  "archive_url": null,
+  "confidence": "MEDIUM",
+  "notes": "Steel City Music Festival // ALL AGES // more TBA"
+ },
+ {
+  "date": "2010-05-01/2010-05-02",
+  "time": "",
+  "venue": "Bamboozle Festival (Meadowlands Sports Complex area, East Rutherford)",
+  "city": "East Rutherford",
+  "state_country": "New Jersey, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": "The Bamboozle 2010",
+  "status": "POSSIBLE",
+  "basis": "Named in the Bamboozle 2010 lineup listing (S19); press release (S15) also says the band 'appeared at Bamboozle Festival this spring'. Day/stage unknown.",
+  "source_ids": [
+   "S19",
+   "S15"
+  ],
+  "confidence": "MEDIUM",
+  "notes": "Two independent-ish mentions, no set time found."
+ },
+ {
+  "date": "2010-08-04",
+  "time": "",
+  "venue": "Xtreme Wheelz",
+  "city": "Buffalo",
+  "state_country": "New York, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call The Cops",
+   "Plug in Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+ },
+ {
+  "date": "2010-08-05",
+  "time": "",
+  "venue": "Valentines",
+  "city": "Albany",
+  "state_country": "New York, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call The Cops",
+   "Plug in Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+ },
+ {
+  "date": "2010-08-06",
+  "time": "",
+  "venue": "The Palladium",
+  "city": "Worcester",
+  "state_country": "Massachusetts, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call The Cops",
+   "Plug in Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+ },
+ {
+  "date": "2010-08-07",
+  "time": "",
+  "venue": "Webster Theatre",
+  "city": "Hartford",
+  "state_country": "Connecticut, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call The Cops",
+   "Plug in Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+ },
+ {
+  "date": "2010-08-09",
+  "time": "",
+  "venue": "Webster Theatre",
+  "city": "New York",
+  "state_country": "New York, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call The Cops",
+   "Plug in Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+ },
+ {
+  "date": "2010-08-10",
+  "time": "",
+  "venue": "The Trocadero Upstairs",
+  "city": "Philadelphia",
+  "state_country": "Pennsylvania, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call The Cops",
+   "Plug in Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+ },
+ {
+  "date": "2010-08-11",
+  "time": "",
+  "venue": "Crocodile Rock",
+  "city": "Allentown",
+  "state_country": "Pennsylvania, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call The Cops",
+   "Plug in Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+ },
+ {
+  "date": "2010-08-12",
+  "time": "",
+  "venue": "Mad Hatter",
+  "city": "Covington",
+  "state_country": "Kentucky, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call The Cops",
+   "Plug in Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+ },
+ {
+  "date": "2010-08-13",
+  "time": "",
+  "venue": "New Daisy Theatre",
+  "city": "Memphis",
+  "state_country": "Tennessee, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call The Cops",
+   "Plug in Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+ },
+ {
+  "date": "2010-08-14",
+  "time": "",
+  "venue": "Boney Junes",
+  "city": "Evansville",
+  "state_country": "Indiana, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call The Cops",
+   "Plug in Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+ },
+ {
+  "date": "2010-08-15",
+  "time": "",
+  "venue": "The Warehouse",
+  "city": "La Crosse",
+  "state_country": "Wisconsin, USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call The Cops",
+   "Plug in Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+ },
+ {
+  "date": "2010-08-18",
+  "time": "",
+  "venue": "The Space",
+  "city": "St. Paul",
+  "state_country": "Minnesota (source prints 'MI'), USA",
+  "tour": "August 2010 dates (with Stephen Jerzak, Call The Cops, Plug in Stereo)",
+  "supporting_artists_or_bill": [
+   "Stephen Jerzak",
+   "Call The Cops",
+   "Plug in Stereo"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Announced in a July 2010 press release repost (S15); not confirmed as played",
+  "source_ids": [
+   "S15"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Source lists 'St. Paul, MI' for the last date; St. Paul is in Minnesota, so the state is a presumed typo in the source. Two of these venues (Valentines in Albany, Boney Junes in Evansville) also appear on 2009 listings."
+ },
+ {
+  "date": "2010-10-16",
+  "time": "",
+  "venue": "Chain Reaction",
+  "city": "Anaheim",
+  "state_country": "California, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-17",
+  "time": "",
+  "venue": "Whisky a Go Go",
+  "city": "West Hollywood",
+  "state_country": "California, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-18",
+  "time": "",
+  "venue": "VVEC",
+  "city": "Victorville",
+  "state_country": "California, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-19",
+  "time": "",
+  "venue": "The Boardwalk",
+  "city": "Orangevale",
+  "state_country": "California, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-20",
+  "time": "",
+  "venue": "Hawthorne Theatre",
+  "city": "Portland",
+  "state_country": "Oregon, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-21",
+  "time": "",
+  "venue": "Studio Seven",
+  "city": "Seattle",
+  "state_country": "Washington, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-22",
+  "time": "",
+  "venue": "The Basement",
+  "city": "Salt Lake City",
+  "state_country": "Utah, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-23",
+  "time": "",
+  "venue": "Avalon Theater",
+  "city": "Salt Lake City",
+  "state_country": "Utah, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-24",
+  "time": "",
+  "venue": "Marquis Theater",
+  "city": "Denver",
+  "state_country": "Colorado, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-26",
+  "time": "",
+  "venue": "The Marquee",
+  "city": "Tulsa",
+  "state_country": "Oklahoma, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-27",
+  "time": "",
+  "venue": "Fubar",
+  "city": "St. Louis",
+  "state_country": "Missouri, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric",
+   "Dot Dot Curve"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-28",
+  "time": "",
+  "venue": "Bottom Lounge",
+  "city": "Chicago",
+  "state_country": "Illinois, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric",
+   "Dot Dot Curve"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-29",
+  "time": "",
+  "venue": "Peabody's DownUnder",
+  "city": "Cleveland",
+  "state_country": "Ohio, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric",
+   "Dot Dot Curve"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-30",
+  "time": "",
+  "venue": "School of Rock East",
+  "city": "South Hackensack",
+  "state_country": "New Jersey, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric",
+   "Dot Dot Curve"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-10-31",
+  "time": "",
+  "venue": "Crocodile Rock Cafe",
+  "city": "Allentown",
+  "state_country": "Pennsylvania, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric",
+   "Dot Dot Curve"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-11-01",
+  "time": "",
+  "venue": "The Studio, Webster Hall",
+  "city": "New York",
+  "state_country": "New York, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric",
+   "Dot Dot Curve"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-11-03",
+  "time": "",
+  "venue": "Skull Alley",
+  "city": "Louisville",
+  "state_country": "Kentucky, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric",
+   "Dot Dot Curve"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2010-11-04",
+  "time": "",
+  "venue": "Boney Junes",
+  "city": "Evansville",
+  "state_country": "Indiana, USA",
+  "tour": "Fall 2010 (Blood On the Dance Floor bill)",
+  "supporting_artists_or_bill": [
+   "Blood On the Dance Floor",
+   "Breathe Electric",
+   "Dot Dot Curve"
+  ],
+  "headliner": "Blood On the Dance Floor (per listing)",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Listed on Concert Archives page 1 (user-submitted; S18); Oct 22 and Oct 23 both list Salt Lake City venues; page 2-10 not read",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Headliner and bill order are as printed in the listing. Oct 26 Tulsa listing also names Minus the Bear, The Globes and Tim Kasher (probably a different event; unresolved)."
+ },
+ {
+  "date": "2011-12-10",
+  "time": "",
+  "venue": "Unsilent Night 4, Centennial Hall, Fair Park",
+  "city": "Dallas",
+  "state_country": "Texas, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": "Unsilent Night 4",
+  "status": "POSSIBLE",
+  "basis": "Concert Archives lists it twice (two lineups) for the same date; user-submitted (S18)",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW",
+  "notes": "Duplicate listings with different band lists; unresolved which one includes Let's Get It."
+ },
+ {
+  "date": "2015-01-01",
+  "time": "",
+  "venue": "(unnamed festival-style listing)",
+  "city": "",
+  "state_country": "",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "UNVERIFIED CLAIM",
+  "basis": "Concert Archives lists a multi-band bill including Let's Get It on 2015-01-01; band is listed as ended in 2012",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "UNVERIFIED",
+  "notes": "Likely a data-entry artifact (placeholder date). Do not present as a show."
+ }
+]

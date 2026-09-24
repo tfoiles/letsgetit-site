@@ -3,7 +3,10 @@
 Single-page placeholder site for the band **Let's Get It**, served by GitHub Pages
 on the apex domain **letsgetitband.com**.
 
-- `index.html` — the whole site (self-contained: inline CSS, no JS, no build step)
+- `index.html` — the whole site (self-contained: inline CSS, no JS). The sections between `<!--GEN:...-->` markers are generated; do not edit them by hand.
+- `data/*.json` — the archive's structured data (sources, members, releases, timeline, tours, press, conflicts, unverified claims). Edit these.
+- `tools/build.py` — renders `data/` into the generated sections of `index.html`. Run `python3 tools/build.py` after editing the data.
+- `docs/` — research report and source table (`lets-get-it-research.md`, `lets-get-it-sources.md`).
 - `CNAME` — tells GitHub Pages the custom domain (contents: `letsgetitband.com`)
 
 ## Enable GitHub Pages
