@@ -95,5 +95,267 @@
    "S64"
   ],
   "basis": "Concert Archives lists the Unsilent Night 4 lineup (fan submissions, which conflict on the bill) and an October 2011 email from a band member says 'LGI is playing the event' (S64)"
+ },
+ {
+  "id": "V1",
+  "match": {
+   "date": "2009-07-24",
+   "city": "Kettering"
+  },
+  "status": "VERIFIED",
+  "confidence": "HIGH",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "Three fan-shot videos of the set, all posted 2009-07-25 or 2009-07-26, name The Attic in Dayton and 24 July 2009 (S66); the Digital Spaces EP release party flyer (S38) lists the same night",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=xUVFBDsFUck",
+   "https://www.youtube.com/watch?v=jq_Ua1kA5co",
+   "https://www.youtube.com/watch?v=TcGXwoxFflQ"
+  ],
+  "keep_status": false
+ },
+ {
+  "id": "V2",
+  "match": {
+   "date": "2009-07-27",
+   "city": "Atlanta"
+  },
+  "status": "VERIFIED",
+  "confidence": "HIGH",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "A fan-shot video posted 2009-08-03 is titled with the date 7/27/09 and The Masquerade, Atlanta, on the Jeffree Star tour (S66); Concert Archives lists the same night (S18)",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=N6vhlRjt-hQ"
+  ],
+  "keep_status": false
+ },
+ {
+  "id": "V3",
+  "match": {
+   "date": "2009-08-07",
+   "city": "Providence"
+  },
+  "status": "VERIFIED",
+  "confidence": "HIGH",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=xaYMWLEQuro",
+   "https://www.youtube.com/watch?v=IC5G7ygZh98"
+  ],
+  "keep_status": true
+ },
+ {
+  "id": "V4",
+  "match": {
+   "date": "2009-10-10",
+   "city": "Anaheim"
+  },
+  "status": "VERIFIED",
+  "confidence": "HIGH",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "A video shot and posted by a video crew (Punkvideosrock) gives Chain Reaction, Anaheim, 10 October 2009 (S66); Concert Archives lists the same night (S18)",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=WwECialgTTs"
+  ],
+  "keep_status": false
+ },
+ {
+  "id": "V5",
+  "match": {
+   "date": "2009-10-27",
+   "city": "New York"
+  },
+  "status": "VERIFIED",
+  "confidence": "HIGH",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "A fan-shot video posted 2009-11-10 gives the Highline Ballroom, New York, 27 October 2009, on the Atticus Tour (S66); Concert Archives lists the same night (S18)",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=HGvk7CGsUFU"
+  ],
+  "keep_status": false
+ },
+ {
+  "id": "V6",
+  "match": {
+   "date": "2010-02-22",
+   "city": "Lawrence"
+  },
+  "status": "VERIFIED",
+  "confidence": "HIGH",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "Two videos posted 2010-02-23 give The Bottleneck, Lawrence, 22 February 2010, on the No Checkpoints in the Jungle Tour (S66); Concert Archives lists the same night (S18)",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=AjMG2HG62-A",
+   "https://www.youtube.com/watch?v=kIiypiJlkI4"
+  ],
+  "keep_status": false
+ },
+ {
+  "id": "V7",
+  "match": {
+   "date": "2010-02-27",
+   "city": "Evansville"
+  },
+  "status": "CORROBORATED",
+  "confidence": "MEDIUM",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "Concert Archives (S18) lists Boney Junes on this date; a fan video posted 2010-03-15 places the band at Boney Junes on this tour (S66) but gives no date",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=AMPNC9mPmoQ"
+  ],
+  "keep_status": false
+ },
+ {
+  "id": "V8",
+  "match": {
+   "date": "2010-05-01/2010-05-02"
+  },
+  "status": "VERIFIED",
+  "confidence": "HIGH",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "Two fan-shot videos give Bamboozle, East Rutherford, 1 May 2010 (S66), on top of the lineup listing, press release and the band's own videos (S15, S19, S29)",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=Ij2FGZ505aQ",
+   "https://www.youtube.com/watch?v=OJd74etxfM0"
+  ],
+  "keep_status": false
+ },
+ {
+  "id": "V9",
+  "match": {
+   "date": "2010-05-09",
+   "city": "Allentown"
+  },
+  "status": "VERIFIED",
+  "confidence": "MEDIUM",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "A fan-shot video posted 2010-09-05 is titled with the date 5/9/10 and Crocodile Rock, Allentown (S66); Concert Archives lists the same night (S18)",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=Oxke5WWBoow"
+  ],
+  "keep_status": false
+ },
+ {
+  "id": "V10",
+  "match": {
+   "date": "2010-07-13",
+   "city": "Rockville Centre"
+  },
+  "status": "VERIFIED",
+  "confidence": "HIGH",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "Three videos posted 2010-07-14 by a music site's channel are titled with the date 7/13/10 and The Vibe Lounge, Long Island (S66); Concert Archives lists the same night (S18)",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=XpMAFUxrMS8",
+   "https://www.youtube.com/watch?v=0qT0YHOFGEE",
+   "https://www.youtube.com/watch?v=Dj3rx3zmgSY"
+  ],
+  "keep_status": false
+ },
+ {
+  "id": "V11",
+  "match": {
+   "date": "2010-10-26",
+   "city": "Tulsa"
+  },
+  "status": "CORROBORATED",
+  "confidence": "MEDIUM",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "Concert Archives (S18) lists The Marquee on 2010-10-26; a fan video posted 2010-10-28 is titled 10-25-10 at The Marquee, Tulsa (S66), so the venue is supported but the date is a day apart",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=lYWWpAF8ljE"
+  ],
+  "keep_status": false,
+  "add_note": "CONFLICT: a fan video titled 10-25-10 places the Marquee show one day earlier than the Concert Archives date"
+ },
+ {
+  "id": "V12",
+  "match": {
+   "date": "2011-06-26",
+   "city": "Kettering"
+  },
+  "status": "VERIFIED",
+  "confidence": "MEDIUM",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "A fan-shot video of 'Master of the Universe' at The Attic (a hometown show) was posted 2011-06-27 (S66); it fits the 26 June date in the band's promotion report (S65), and the request to join 'the Attic show on June 28th' remains unexplained",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=QVM0GVkDq8g"
+  ],
+  "keep_status": false
+ },
+ {
+  "id": "V13",
+  "match": {
+   "date": "2009-03-14",
+   "city": "Plano"
+  },
+  "status": "CORROBORATED",
+  "confidence": "MEDIUM",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=_UQLTKmqOWI"
+  ],
+  "keep_status": true
+ },
+ {
+  "id": "V14",
+  "match": {
+   "date": "2009-08-18",
+   "city": "Seattle"
+  },
+  "status": "VERIFIED",
+  "confidence": "HIGH",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=J0qxRLJzzIc"
+  ],
+  "keep_status": true
+ },
+ {
+  "id": "V15",
+  "match": {
+   "date": "2008-08-30",
+   "city": "Springfield"
+  },
+  "status": "CORROBORATED",
+  "confidence": "MEDIUM",
+  "add_sources": [
+   "S66"
+  ],
+  "basis": "",
+  "add_video_urls": [
+   "https://www.youtube.com/watch?v=wk_m3PyCc40"
+  ],
+  "keep_status": true
  }
 ]

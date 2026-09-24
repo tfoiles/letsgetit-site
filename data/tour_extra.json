@@ -65,5 +65,56 @@
   ],
   "confidence": "LOW-MEDIUM",
   "notes": "Two emails give different days; unresolved."
+ },
+ {
+  "date": "2008-12-31",
+  "time": "",
+  "venue": "The Attic",
+  "city": "Kettering",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "A fan video 'performing at the attic on new years' was posted 2009-01-02 (S66); the year and date are inferred from the upload date",
+  "source_ids": [
+   "S66"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Concert Archives separately lists The Attic on 2009-12-31; this may be a different night or a year error.",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=HoZxPFFidTk"
+  ],
+  "archive_url": null,
+  "source_urls": []
+ },
+ {
+  "date": "2009-10-30",
+  "time": "",
+  "venue": "Crocodile Rock Café",
+  "city": "Allentown",
+  "state_country": "Pennsylvania, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Vanna",
+   "Drop Dead Gorgeous",
+   "Finch",
+   "blessthefall"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "VERIFIED",
+  "basis": "A fan-shot video of the set, posted by a local promoter's channel, gives the venue, date and the tour bill in its description (S66)",
+  "source_ids": [
+   "S66"
+  ],
+  "confidence": "MEDIUM",
+  "notes": "Bill as listed in the uploader's description.",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=O4jSC284on0"
+  ],
+  "archive_url": null,
+  "source_urls": []
  }
 ]

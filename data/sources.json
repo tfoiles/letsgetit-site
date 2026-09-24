@@ -908,5 +908,61 @@
   "related_content": "a 2011 show at The Attic, Kettering, Ohio",
   "notes": "The two emails give different days (June 26 and June 28); unresolved.",
   "access_date": "2026-09-24"
+ },
+ {
+  "id": "S66",
+  "title": "YouTube scrub: fan-uploaded live and fan-made videos of Let's Get It",
+  "publisher": "YouTube (uploaders credited individually)",
+  "date": "2026-09-24",
+  "url": "https://www.youtube.com/results?search_query=let%27s+get+it+duck+duck+grey+goose+live",
+  "source_type": "VIDEO",
+  "reliability": "MEDIUM for identification (titles and descriptions are the uploaders' own); HIGH that each video exists with the view count shown on the access date",
+  "related_content": "live-show videos (dates and venues as stated by uploaders), fan-made videos, label promo videos, auto-generated audio videos",
+  "notes": "Searches run on YouTube and each watch page read for title, uploader, publish date, view count and description. Videos are linked, not copied. Venue and date come from the uploader's description or title and are labelled as such.",
+  "author": null,
+  "archive_url": null,
+  "access_date": "2026-09-24"
+ },
+ {
+  "id": "S67",
+  "title": "Former The Devil Wears Prada Drummer Daniel Williams Dies in San Diego Plane Crash",
+  "publisher": "Loudwire",
+  "date": "2025-05-22",
+  "url": "https://loudwire.com/daniel-williams-the-devil-wears-prada-dies-plane-crash/",
+  "source_type": "PRESS",
+  "reliability": "HIGH",
+  "related_content": "death of Daniel Williams (The Devil Wears Prada, 2005 to 2016) and Dave Shapiro",
+  "notes": "Reports that Williams, 39, died in the crash along with Sound Talent Group owner Dave Shapiro and two other employees; includes the band's statement.",
+  "author": null,
+  "archive_url": null,
+  "access_date": "2026-09-24"
+ },
+ {
+  "id": "S68",
+  "title": "Daniel Williams (drummer)",
+  "publisher": "Wikipedia",
+  "date": null,
+  "url": "https://en.wikipedia.org/wiki/Daniel_Williams_(drummer)",
+  "source_type": "DATABASE",
+  "reliability": "MEDIUM (encyclopedia; cites Billboard, Loudwire, NME and others)",
+  "related_content": "Daniel Williams: co-founder and drummer of The Devil Wears Prada 2005 to 2016; born 1985-12-12; died 2025-05-22",
+  "notes": "Also gives the spelling 'Chris Rubey' for the band's co-founder guitarist.",
+  "author": null,
+  "archive_url": null,
+  "access_date": "2026-09-24"
+ },
+ {
+  "id": "S69",
+  "title": "The Devil Wears Prada (band)",
+  "publisher": "Wikipedia",
+  "date": null,
+  "url": "https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(band)",
+  "source_type": "DATABASE",
+  "reliability": "MEDIUM (encyclopedia)",
+  "related_content": "The Devil Wears Prada: formed Dayton, Ohio, 2005; debut album recorded with Joey Sturgis; Daniel Williams's death",
+  "notes": "Read on the access date.",
+  "author": null,
+  "archive_url": null,
+  "access_date": "2026-09-24"
  }
 ]

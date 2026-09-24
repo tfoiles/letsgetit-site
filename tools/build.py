@@ -138,6 +138,7 @@ def show_row(ev):
     fest = f' <span class="src">({e(ev["festival"])})</span>' if ev.get("festival") else ""
     status_cls = ev["status"].split()[0].lower()
     link = "".join(f' <a class="ext" href="{e(u)}" title="Concert Archives entry">↗</a>' for u in ev.get("source_urls", [])[:1])
+    link += "".join(f' <a class="ext" href="{e(u)}" title="Fan video of this show on YouTube">▶</a>' for u in ev.get("video_urls", []))
     note = "CONFLICT" in (ev.get("notes") or "")
     flag = ' <span class="tag st-unverified" title="Sources disagree; see Archive notes">check</span>' if note else ""
     return (
@@ -240,6 +241,83 @@ def gen_media():
     )
 
 
+def gen_memoriam():
+    items = "".join(
+        f'<li><strong>{e(m["name"])}</strong>. {e(m["line"])} {cites(m["source_ids"])}</li>' for m in load("memoriam")
+    )
+    return (
+        '<p class="mem-label">In memoriam</p>'
+        f'<ul class="plain">{items}</ul>'
+        '<p class="srcnote">Both are part of this band\'s story. This archive remembers them.</p>'
+    )
+
+
+def gen_tdwp():
+    d = load("tdwp")
+    owner = "".join(f"<li>{e(t)}</li>" for t in d["owner"])
+    public = "".join(
+        f'<li>{e(x["text"])} {cites(x["source_ids"])} {conf_tag(x["confidence"])}</li>' for x in d["public"]
+    )
+    return (
+        f'<p>{e(d["intro"])}</p>\n'
+        f'<h3>The band owner\'s account {cites(d["owner_sources"])} <span class="conf">OWNER ACCOUNT</span></h3>\n'
+        f'<ul class="plain notes">{owner}</ul>\n'
+        f'<h3>What public sources confirm</h3>\n<ul class="plain notes">{public}</ul>\n'
+        '<div class="needed"><span class="label">ENTRY NEEDED</span>Dates and details of the shared house and the van and trailer '
+        'tours, which TDWP members agree to be named, and any photos from that time.</div>'
+    )
+
+
+def gen_fanvideo():
+    d = load("fan_videos")
+
+    def views(v):
+        return f'{v["views"]:,} views'
+
+    def li(v, extra=""):
+        return (
+            f'<li><a href="{e(v["url"])}">{e(v["title"])}</a> <span class="src">{e(v["published"])}</span> '
+            f'<span class="src">· {e(v["channel"])}</span> <span class="src">· {views(v)}</span>{extra}</li>'
+        )
+
+    live_rows = []
+    for v in sorted(d["live"], key=lambda x: (x["event_date"] or "9999", -x["views"])):
+        date = v["event_date"] or "date not stated"
+        live_rows.append(
+            f'<tr><td class="d">{e(date)}</td><td>{e(v["show"])}</td>'
+            f'<td><a href="{e(v["url"])}">{e(v["title"])}</a><br><span class="src">{e(v["channel"])} · uploaded {e(v["published"])}</span></td>'
+            f'<td class="d">{v["views"]:,}</td><td>{e(v["date_basis"])}</td></tr>'
+        )
+    top = sorted(d["live"], key=lambda x: -x["views"])[:5]
+    top_li = "".join(li(v) for v in top)
+    made_by_kind = OrderedDict()
+    for v in d["made"]:
+        made_by_kind.setdefault(v["kind"].split(" (")[0], []).append(v)
+    made = "".join(li(v, f' <span class="src">· {e(v["kind"])}</span><br><span class="srcnote">{e(v["note"])}</span>') for v in d["made"])
+    label = "".join(li(v, f' <span class="src">· {e(v["kind"])}</span>') for v in d["label"])
+    topic = "".join(li(v) for v in d["topic"])
+    n_fan = len(d["live"]) + len(d["made"])
+    return (
+        f'<p>A scrub of YouTube for videos of the band that fans, promoters and other channels posted. {n_fan} fan uploads are listed: '
+        f'{len(d["live"])} filmed at live shows and {len(d["made"])} fan-made or fan-posted (lyric videos, audio uploads, game charts, a review). '
+        'Videos are linked, not copied, and each uploader is credited under the name YouTube shows. The venue and date come from the uploader\'s own title or description '
+        'and are labelled that way; where a video confirms a show, the tour archive marks it with a ▶ link. View counts were read on '
+        f'{e(d["as_of"])} {cites(["S66"])}.</p>\n'
+        '<div class="needed"><span class="label">NOTE</span>No fan-edited tribute or montage videos turned up; the fan-made list is mostly lyric slideshows and audio uploads. '
+        'Uploaders who want a video taken off this list can ask and it will be removed.</div>\n'
+        f'<h3>Most-viewed live videos</h3>\n<ul class="plain notes">{top_li}</ul>\n'
+        f'<details class="archive"><summary><span class="yr">All {len(d["live"])} live-show videos</span> <span class="src">by show date</span></summary>'
+        '<div class="tablewrap"><table class="shows"><thead><tr><th>Show date</th><th>Show</th><th>Video</th><th>Views</th><th>Date and venue known from</th></tr></thead>'
+        f'<tbody>{"".join(live_rows)}</tbody></table></div></details>\n'
+        f'<details class="archive"><summary><span class="yr">Fan-made and fan-posted videos</span> <span class="src">{len(d["made"])}, most viewed first</span></summary>'
+        f'<ul class="plain notes">{made}</ul></details>\n'
+        f'<details class="archive"><summary><span class="yr">More Fearless Records videos</span> <span class="src">{len(d["label"])}</span></summary>'
+        f'<ul class="plain notes">{label}</ul></details>\n'
+        f'<details class="archive"><summary><span class="yr">YouTube auto-generated audio videos</span> <span class="src">{len(d["topic"])} tracks</span></summary>'
+        f'<p class="srcnote">Created by YouTube from the released recordings, on a channel named "Let\'s Get It - Topic".</p><ul class="plain notes">{topic}</ul></details>'
+    )
+
+
 PHOTO_STATUS = "Published with the band owner's authorization (S22); removal on request"
 
 
@@ -299,7 +377,7 @@ def gen_numbers():
         for n in d["items"]
     )
     return (
-        '<h3>By the numbers</h3><div class="tablewrap"><table class="shows"><thead><tr><th>Measure</th><th>Figure</th><th>As of</th><th>Notes</th></tr></thead>'
+        '<h3>By the numbers</h3><div class="tablewrap"><table class="shows nums"><thead><tr><th>Measure</th><th>Figure</th><th>As of</th><th>Notes</th></tr></thead>'
         f"<tbody>{rows}</tbody></table></div>"
         f'<div class="needed"><span class="label">ENTRY NEEDED</span>{e(d["missing"])}</div>'
     )
@@ -384,9 +462,12 @@ BLOCKS = {
     "timeline": gen_timeline,
     "discography": gen_discography,
     "members": gen_members,
+    "memoriam": gen_memoriam,
     "team": gen_team,
+    "tdwp": gen_tdwp,
     "tours": gen_tours,
     "media": gen_media,
+    "fanvideo": gen_fanvideo,
     "numbers": gen_numbers,
     "sponsors": gen_sponsors,
     "achievements": gen_achievements,

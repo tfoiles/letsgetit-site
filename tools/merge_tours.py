@@ -105,10 +105,16 @@ def apply_overrides(events):
                 if ev["date"] == ex["date"] and norm_city(ev["city"]) == norm_city(ex["city"]):
                     ok = False
             if ok:
-                ev["status"], ev["confidence"], ev["basis"] = o["status"], o["confidence"], o["basis"]
+                if not o.get("keep_status"):
+                    ev["status"], ev["confidence"], ev["basis"] = o["status"], o["confidence"], o["basis"]
                 for sid in o["add_sources"]:
                     if sid not in ev["source_ids"]:
                         ev["source_ids"].append(sid)
+                for u in o.get("add_video_urls", []):
+                    if u not in ev.setdefault("video_urls", []):
+                        ev["video_urls"].append(u)
+                if o.get("add_note"):
+                    ev["notes"] = (ev.get("notes") or "") + " | " + o["add_note"]
 
 
 def main():
@@ -116,6 +122,7 @@ def main():
     ca = json.loads(CA_ROWS.read_text(encoding="utf-8"))
     for ev in json.loads(EXTRA.read_text(encoding="utf-8")):
         ev.setdefault("archive_url", None); ev.setdefault("source_urls", [])
+        ev.setdefault("video_urls", [])
         events.append(ev)
 
     # strip S18 from existing events; drop events that only had S18

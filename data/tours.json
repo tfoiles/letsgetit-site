@@ -225,12 +225,16 @@
   "source_ids": [
    "S9",
    "S8",
-   "S29"
+   "S29",
+   "S66"
   ],
   "source_url": "",
   "archive_url": null,
   "confidence": "MEDIUM",
   "notes": "THE AFTER // ALL AGES // w/ CALLAHAN, GO RADIO, MARILYN AVENUE and MANY MORE!!!",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=wk_m3PyCc40"
+  ],
   "source_urls": []
  },
  {
@@ -732,6 +736,29 @@
   "notes": "1 fan submission(s) on Concert Archives"
  },
  {
+  "date": "2008-12-31",
+  "time": "",
+  "venue": "The Attic",
+  "city": "Kettering",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "A fan video 'performing at the attic on new years' was posted 2009-01-02 (S66); the year and date are inferred from the upload date",
+  "source_ids": [
+   "S66"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Concert Archives separately lists The Attic on 2009-12-31; this may be a different night or a year error.",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=HoZxPFFidTk"
+  ],
+  "archive_url": null,
+  "source_urls": []
+ },
+ {
   "date": "2009-01-17",
   "time": "",
   "venue": "Friendship Church",
@@ -781,7 +808,8 @@
   "confidence": "LOW-MEDIUM",
   "notes": "Flyer: '1530 N. Market St., Troy, Ohio 45373', $10, doors 6:00 pm.",
   "archive_url": null,
-  "source_urls": []
+  "source_urls": [],
+  "video_urls": []
  },
  {
   "date": "2009-03-14",
@@ -835,14 +863,18 @@
   "basis": "Concert Archives lists Plano Centre, Plano, on this day; the South By So What flyer (S38) lists Let's Get It the same day but prints the venue as The Garland Special Events Center, Garland",
   "source_ids": [
    "S18",
-   "S38"
+   "S38",
+   "S66"
   ],
   "source_urls": [
    "https://www.concertarchives.org/concerts/the-secret-handshake-hit-enter-shikari-the-devil-wears-prada-a-day-to-remember-sky-eats-airplane-the-wedding-a-skylit-drive-dance-gavin-dance-greeley-estates-iwrestledabearonce-sing-it-loud-morning-light-memphis-may-fire"
   ],
   "archive_url": null,
   "confidence": "MEDIUM",
-  "notes": "1 fan submission(s) on Concert Archives"
+  "notes": "1 fan submission(s) on Concert Archives",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=_UQLTKmqOWI"
+  ]
  },
  {
   "date": "2009-03-16",
@@ -1507,15 +1539,21 @@
   ],
   "headliner": "Let's Get It",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Band-archive flyer (S38); the year is not printed and is inferred from the weekday (Friday, July 24 = 2009, the EP's release year)",
+  "status": "VERIFIED",
+  "basis": "Three fan-shot videos of the set, all posted 2009-07-25 or 2009-07-26, name The Attic in Dayton and 24 July 2009 (S66); the Digital Spaces EP release party flyer (S38) lists the same night",
   "source_ids": [
-   "S38"
+   "S38",
+   "S66"
   ],
-  "confidence": "LOW-MEDIUM",
+  "confidence": "HIGH",
   "notes": "Flyer: Fearless Records and The Attic logos, $10 advance / $12 door; a pre-release version advertises the EP pre-order for $5.",
   "archive_url": null,
-  "source_urls": []
+  "source_urls": [],
+  "video_urls": [
+   "https://www.youtube.com/watch?v=xUVFBDsFUck",
+   "https://www.youtube.com/watch?v=jq_Ua1kA5co",
+   "https://www.youtube.com/watch?v=TcGXwoxFflQ"
+  ]
  },
  {
   "date": "2009-07-27",
@@ -1531,17 +1569,21 @@
   ],
   "headliner": "Jeffree Star",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "status": "VERIFIED",
+  "basis": "A fan-shot video posted 2009-08-03 is titled with the date 7/27/09 and The Masquerade, Atlanta, on the Jeffree Star tour (S66); Concert Archives lists the same night (S18)",
   "source_ids": [
-   "S18"
+   "S18",
+   "S66"
   ],
   "source_urls": [
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-with-jeffree-star-artist-vs-poet-and-let-s-get-it-at-the-masquerade-july-27-2009"
   ],
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "1 fan submission(s) on Concert Archives"
+  "confidence": "HIGH",
+  "notes": "1 fan submission(s) on Concert Archives",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=N6vhlRjt-hQ"
+  ]
  },
  {
   "date": "2009-07-28",
@@ -1623,7 +1665,7 @@
  {
   "date": "2009-07-30",
   "time": "",
-  "venue": "The Orpheum",
+  "venue": "The Orpheum - Old Location",
   "city": "Tampa",
   "state_country": "Florida, USA",
   "tour": "Jeffree Star tour (2009)",
@@ -1646,7 +1688,7 @@
   ],
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: The Orpheum - Old Location"
+  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: The Orpheum"
  },
  {
   "date": "2009-07-31",
@@ -1728,7 +1770,7 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "HIGH",
-  "notes": "Boney Junes // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Boney June's Music Venue",
+  "notes": "Boney Junes // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Boney Junes",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-e2ba2da0-739a-4105-bc2b-14488f9b029f",
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-34899fb8-7772-4f5c-aa61-fdb3bbc58e77"
@@ -1786,7 +1828,7 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "HIGH",
-  "notes": "Chameleon Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Chameleon",
+  "notes": "Chameleon Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Chameleon Club",
   "source_urls": [
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-72dbe5f7-754c-43d2-aea1-0bb9f0132b87",
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-085d76d4-35ac-484c-9241-5a31279bdbc2"
@@ -1836,7 +1878,8 @@
   "source_ids": [
    "S11",
    "S18",
-   "S22"
+   "S22",
+   "S66"
   ],
   "source_url": "",
   "archive_url": null,
@@ -1844,6 +1887,10 @@
   "notes": "Club Hell // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 1 fan submission(s) on Concert Archives | CONFLICT: other listings for 2009-08-07 name a different city (Pawtucket, Providence)",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-fd214ead-0f56-4476-a099-3da58943b609"
+  ],
+  "video_urls": [
+   "https://www.youtube.com/watch?v=xaYMWLEQuro",
+   "https://www.youtube.com/watch?v=IC5G7ygZh98"
   ]
  },
  {
@@ -2119,7 +2166,8 @@
   "source_ids": [
    "S11",
    "S18",
-   "S22"
+   "S22",
+   "S66"
   ],
   "source_url": "",
   "archive_url": null,
@@ -2128,6 +2176,9 @@
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-d04d1c6a-9961-47c2-aaec-c1beac72b20e",
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-04c5a9b9-0251-4233-a848-ba0ed1f4119e"
+  ],
+  "video_urls": [
+   "https://www.youtube.com/watch?v=J0qxRLJzzIc"
   ]
  },
  {
@@ -2382,17 +2433,21 @@
   "supporting_artists_or_bill": [],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "status": "VERIFIED",
+  "basis": "A video shot and posted by a video crew (Punkvideosrock) gives Chain Reaction, Anaheim, 10 October 2009 (S66); Concert Archives lists the same night (S18)",
   "source_ids": [
-   "S18"
+   "S18",
+   "S66"
   ],
   "source_urls": [
    "https://www.concertarchives.org/concerts/atticus-metal-tour--1909221"
   ],
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "1 fan submission(s) on Concert Archives"
+  "confidence": "HIGH",
+  "notes": "1 fan submission(s) on Concert Archives",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=WwECialgTTs"
+  ]
  },
  {
   "date": "2009-10-11",
@@ -2673,17 +2728,21 @@
   "supporting_artists_or_bill": [],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "status": "VERIFIED",
+  "basis": "A fan-shot video posted 2009-11-10 gives the Highline Ballroom, New York, 27 October 2009, on the Atticus Tour (S66); Concert Archives lists the same night (S18)",
   "source_ids": [
-   "S18"
+   "S18",
+   "S66"
   ],
   "source_urls": [
    "https://www.concertarchives.org/concerts/atticus-metal-tour--1909234"
   ],
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "1 fan submission(s) on Concert Archives"
+  "confidence": "HIGH",
+  "notes": "1 fan submission(s) on Concert Archives",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=HGvk7CGsUFU"
+  ]
  },
  {
   "date": "2009-10-28",
@@ -2706,6 +2765,34 @@
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
   "notes": "1 fan submission(s) on Concert Archives"
+ },
+ {
+  "date": "2009-10-30",
+  "time": "",
+  "venue": "Crocodile Rock Café",
+  "city": "Allentown",
+  "state_country": "Pennsylvania, USA",
+  "tour": "Atticus Metal Tour (2009)",
+  "supporting_artists_or_bill": [
+   "Vanna",
+   "Drop Dead Gorgeous",
+   "Finch",
+   "blessthefall"
+  ],
+  "headliner": null,
+  "festival": null,
+  "status": "VERIFIED",
+  "basis": "A fan-shot video of the set, posted by a local promoter's channel, gives the venue, date and the tour bill in its description (S66)",
+  "source_ids": [
+   "S66"
+  ],
+  "confidence": "MEDIUM",
+  "notes": "Bill as listed in the uploader's description.",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=O4jSC284on0"
+  ],
+  "archive_url": null,
+  "source_urls": []
  },
  {
   "date": "2009-10-31",
@@ -3521,7 +3608,7 @@
  {
   "date": "2010-02-19",
   "time": "",
-  "venue": "Murray Theater",
+  "venue": "The Murray Theater",
   "city": "Murray",
   "state_country": "Utah, USA",
   "tour": "No Checkpoints in the Jungle Tour (2010)",
@@ -3543,7 +3630,7 @@
   ],
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: The Murray Theater"
+  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: Murray Theater"
  },
  {
   "date": "2010-02-20",
@@ -3577,17 +3664,22 @@
   "supporting_artists_or_bill": [],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "status": "VERIFIED",
+  "basis": "Two videos posted 2010-02-23 give The Bottleneck, Lawrence, 22 February 2010, on the No Checkpoints in the Jungle Tour (S66); Concert Archives lists the same night (S18)",
   "source_ids": [
-   "S18"
+   "S18",
+   "S66"
   ],
   "source_urls": [
    "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-a2a3bb09-8097-4fc6-96f1-7e8cc21c1f43"
   ],
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "1 fan submission(s) on Concert Archives"
+  "confidence": "HIGH",
+  "notes": "1 fan submission(s) on Concert Archives",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=AjMG2HG62-A",
+   "https://www.youtube.com/watch?v=kIiypiJlkI4"
+  ]
  },
  {
   "date": "2010-02-23",
@@ -3697,17 +3789,21 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "status": "CORROBORATED",
+  "basis": "Concert Archives (S18) lists Boney Junes on this date; a fan video posted 2010-03-15 places the band at Boney Junes on this tour (S66) but gives no date",
   "source_ids": [
-   "S18"
+   "S18",
+   "S66"
   ],
   "source_urls": [
    "https://www.concertarchives.org/concerts/breathe-carolina-let-s-get-it-hyper-crush-queens-club-the-spin-cycle-590064c8-30c2-47f7-a047-d0a55ba26527"
   ],
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "1 fan submission(s) on Concert Archives"
+  "confidence": "MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=AMPNC9mPmoQ"
+  ]
  },
  {
   "date": "2010-02-28",
@@ -3862,15 +3958,20 @@
   "supporting_artists_or_bill": [],
   "headliner": null,
   "festival": "The Bamboozle 2010",
-  "status": "CORROBORATED",
-  "basis": "Lineup listing, press release and band-channel videos 'bamboozle update #1/#2' (published 2010-05-01) all place the band at Bamboozle; no set time found",
+  "status": "VERIFIED",
+  "basis": "Two fan-shot videos give Bamboozle, East Rutherford, 1 May 2010 (S66), on top of the lineup listing, press release and the band's own videos (S15, S19, S29)",
   "source_ids": [
    "S19",
    "S15",
-   "S29"
+   "S29",
+   "S66"
   ],
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "notes": "Two independent-ish mentions, no set time found.",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=Ij2FGZ505aQ",
+   "https://www.youtube.com/watch?v=OJd74etxfM0"
+  ],
   "source_urls": []
  },
  {
@@ -4037,17 +4138,21 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "status": "VERIFIED",
+  "basis": "A fan-shot video posted 2010-09-05 is titled with the date 5/9/10 and Crocodile Rock, Allentown (S66); Concert Archives lists the same night (S18)",
   "source_ids": [
-   "S18"
+   "S18",
+   "S66"
   ],
   "source_urls": [
    "https://www.concertarchives.org/concerts/versa-let-s-get-it-i-see-stars-eye-alaska"
   ],
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "1 fan submission(s) on Concert Archives"
+  "confidence": "MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=Oxke5WWBoow"
+  ]
  },
  {
   "date": "2010-05-11",
@@ -4241,17 +4346,23 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "status": "VERIFIED",
+  "basis": "Three videos posted 2010-07-14 by a music site's channel are titled with the date 7/13/10 and The Vibe Lounge, Long Island (S66); Concert Archives lists the same night (S18)",
   "source_ids": [
-   "S18"
+   "S18",
+   "S66"
   ],
   "source_urls": [
    "https://www.concertarchives.org/concerts/let-s-get-it-down-with-webster-the-blue-pages-stay-abf15e18-ff78-4707-a214-6bf55890ebad"
   ],
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "1 fan submission(s) on Concert Archives"
+  "confidence": "HIGH",
+  "notes": "1 fan submission(s) on Concert Archives",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=XpMAFUxrMS8",
+   "https://www.youtube.com/watch?v=0qT0YHOFGEE",
+   "https://www.youtube.com/watch?v=Dj3rx3zmgSY"
+  ]
  },
  {
   "date": "2010-07-14",
@@ -5396,17 +5507,21 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "status": "CORROBORATED",
+  "basis": "Concert Archives (S18) lists The Marquee on 2010-10-26; a fan video posted 2010-10-28 is titled 10-25-10 at The Marquee, Tulsa (S66), so the venue is supported but the date is a day apart",
   "source_ids": [
-   "S18"
+   "S18",
+   "S66"
   ],
   "source_urls": [
    "https://www.concertarchives.org/concerts/minus-the-bear-blood-on-the-dance-floor-let-s-get-it-breathe-electric-dot-dot-curve-the-globes-tim-kasher"
   ],
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
-  "notes": "1 fan submission(s) on Concert Archives"
+  "confidence": "MEDIUM",
+  "notes": "1 fan submission(s) on Concert Archives | CONFLICT: a fan video titled 10-25-10 places the Marquee show one day earlier than the Concert Archives date",
+  "video_urls": [
+   "https://www.youtube.com/watch?v=lYWWpAF8ljE"
+  ]
  },
  {
   "date": "2010-10-27",
@@ -5626,15 +5741,19 @@
   "supporting_artists_or_bill": [],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "A concert-promotion report dated 'June 26th 2011' at The Attic, Kettering (S65); another email refers to 'the Attic show on June 28th'",
+  "status": "VERIFIED",
+  "basis": "A fan-shot video of 'Master of the Universe' at The Attic (a hometown show) was posted 2011-06-27 (S66); it fits the 26 June date in the band's promotion report (S65), and the request to join 'the Attic show on June 28th' remains unexplained",
   "source_ids": [
-   "S65"
+   "S65",
+   "S66"
   ],
-  "confidence": "LOW-MEDIUM",
+  "confidence": "MEDIUM",
   "notes": "Two emails give different days; unresolved.",
   "archive_url": null,
-  "source_urls": []
+  "source_urls": [],
+  "video_urls": [
+   "https://www.youtube.com/watch?v=QVM0GVkDq8g"
+  ]
  },
  {
   "date": "2011-12-10",
