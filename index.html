@@ -1,206 +1,745 @@
-<!-- index.html — Let's Get It placeholder site. Self-contained: inline CSS, no JS, no build step. -->
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Let's Get It</title>
-<meta name="description" content="Let's Get It — pop/rock/R&B band from Dayton, Ohio (2008–2012) on Fearless Records. EP Digital Spaces (2009) and album Masters of the Universe (2011)." />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Let's Get It — Digital Archive</title>
+<meta name="description" content="Let's Get It — pop/rock band from Dayton, Ohio (2008–2012) on Fearless Records. A digital archive: releases, history, tours and press.">
+<meta name="theme-color" content="#f2efe6">
 
 <!-- Open Graph -->
-<meta property="og:title" content="Let's Get It" />
-<meta property="og:description" content="Pop/rock/R&B band from Dayton, Ohio (2008–2012) on Fearless Records." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://letsgetitband.com" />
-<meta property="og:image" content="https://letsgetitband.com/og.png" />
+<meta property="og:title" content="Let's Get It — Digital Archive">
+<meta property="og:description" content="Let's Get It — pop/rock band from Dayton, Ohio (2008–2012) on Fearless Records. A digital archive: releases, history, tours and press.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://letsgetitband.com">
+<meta property="og:image" content="https://letsgetitband.com/og.png">
 
 <!-- Twitter card -->
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Let's Get It" />
-<meta name="twitter:description" content="Pop/rock/R&B band from Dayton, Ohio (2008–2012) on Fearless Records." />
-<meta name="twitter:image" content="https://letsgetitband.com/og.png" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Let's Get It — Digital Archive">
+<meta name="twitter:description" content="Let's Get It — pop/rock band from Dayton, Ohio (2008–2012) on Fearless Records. A digital archive: releases, history, tours and press.">
+<meta name="twitter:image" content="https://letsgetitband.com/og.png">
 
-<!-- Inline SVG favicon -->
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230a0a0c'/%3E%3Ctext x='16' y='23' font-family='Georgia,serif' font-size='20' font-weight='700' text-anchor='middle' fill='%23ff3d7f'%3EL%3C/text%3E%3C/svg%3E" />
+<!-- Inline SVG favicon: square, no rx, fill #141414, letter L in #d9391f -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23141414'/%3E%3Ctext x='16' y='23' font-family='Georgia,serif' font-size='20' font-weight='700' text-anchor='middle' fill='%23d9391f'%3EL%3C/text%3E%3C/svg%3E">
 
 <style>
   :root {
-    --bg: #0a0a0c;
-    --surface: #141418;
-    --text: #f4f4f6;
-    --muted: #a5a5b0;
-    --accent: #ff3d7f;
-    --accent-ink: #12060b;
-    --border: #26262e;
-    --focus: #ffd84d;
+    --paper: #f2efe6;
+    --ink: #141414;
+    --muted: #55524a;
+    --accent: #d9391f;
+    --rule: #141414;
+    --hairline: rgba(20, 20, 20, 0.35);
+    --focus: #d9391f;
+    --mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace;
+    --display: Georgia, "Times New Roman", Times, serif;
   }
 
-  * { box-sizing: border-box; }
+  *, *::before, *::after { box-sizing: border-box; }
 
   html { -webkit-text-size-adjust: 100%; }
 
   body {
     margin: 0;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    background: var(--bg);
-    color: var(--text);
+    background: var(--paper);
+    color: var(--ink);
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    line-height: 1.6;
-    /* subtle glow so the near-black isn't flat */
-    background-image: radial-gradient(1000px 600px at 50% -10%, rgba(255, 61, 127, 0.14), transparent 70%);
-    background-repeat: no-repeat;
+    line-height: 1.55;
+    /* subtle CSS-only paper grain: two faint directional hairlines */
+    background-image:
+      repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(20,20,20,0.018) 4px),
+      repeating-linear-gradient(90deg, transparent, transparent 3px, rgba(20,20,20,0.018) 4px);
+    background-attachment: fixed;
   }
 
-  main {
-    flex: 1;
-    width: 100%;
-    max-width: 640px;
+  a { color: var(--accent); }
+
+  /* Skip link */
+  .skip {
+    position: absolute;
+    left: -999px;
+    top: 0;
+    padding: 0.4rem 0.75rem;
+    background: var(--ink);
+    color: var(--paper);
+    font-family: var(--mono);
+    font-size: 0.85rem;
+    z-index: 100;
+  }
+  .skip:focus {
+    left: 0.5rem;
+    top: 0.5rem;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+  }
+
+  .wrap {
+    max-width: 1040px;
     margin: 0 auto;
-    padding: clamp(3rem, 12vh, 7rem) 1.5rem 2rem;
+    padding: 0 1rem;
   }
 
-  .era {
-    margin: 0 0 0.75rem;
-    font-size: 0.8rem;
+  /* Top nav */
+  .topnav {
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--hairline);
+    padding: 0.5rem 0;
+    background: var(--paper);
+  }
+  .topnav .wrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.9rem;
+    align-items: baseline;
+  }
+  .topnav .mark {
+    font-family: var(--display);
+    font-weight: 700;
+    font-size: 1rem;
+    color: var(--ink);
+    text-decoration: none;
+    margin-right: 0.75rem;
+  }
+  .topnav .mark .dot { color: var(--accent); }
+  .topnav a.navlink {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 1px;
+  }
+  .topnav a.navlink:hover { border-bottom-color: var(--accent); }
+
+  /* Hero */
+  header.hero {
+    border-bottom: 1px solid var(--rule);
+    padding: clamp(2rem, 8vh, 4.5rem) 0 2.25rem;
+  }
+  .hero .kicker {
+    font-family: var(--mono);
+    font-size: 0.72rem;
     letter-spacing: 0.14em;
     text-transform: uppercase;
-    color: var(--accent);
-    font-weight: 600;
+    color: var(--muted);
+    margin: 0 0 0.6rem;
   }
-
-  h1 {
-    margin: 0;
-    font-family: Georgia, "Times New Roman", serif;
+  .hero h1 {
+    font-family: var(--display);
     font-weight: 700;
-    font-size: clamp(3rem, 15vw, 6rem);
-    line-height: 0.95;
+    font-size: clamp(2.75rem, 14vw, 6rem);
+    line-height: 0.92;
     letter-spacing: -0.02em;
-    text-wrap: balance;
+    margin: 0 0 1.1rem;
   }
-
-  .blurb {
-    margin: 1.75rem 0 0;
-    max-width: 46ch;
-    color: var(--muted);
-    font-size: 1.05rem;
+  .hero .meta-line {
+    font-family: var(--mono);
+    font-size: 0.85rem;
+    letter-spacing: 0.04em;
+    margin: 0 0 1rem;
   }
-
-  .blurb em { color: var(--text); font-style: italic; }
-
-  h2 {
-    margin: 2.5rem 0 0.9rem;
-    font-size: 0.75rem;
-    letter-spacing: 0.16em;
+  .hero .meta-line .sep { color: var(--accent); }
+  .hero .status {
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: var(--muted);
-    font-weight: 600;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    display: inline-block;
+    padding: 0.25rem 0.6rem;
   }
 
-  .row {
+  /* Layout: each section is a two-column grid, number/heading rail on the left */
+  .content {
+    padding: 1rem 0 1rem;
+  }
+
+  section.block {
+    border-top: 1px solid var(--rule);
+    padding: 2.5rem 0 2.25rem;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0 3rem;
+  }
+  section.block > * { min-width: 0; grid-column: 1; }
+  @media (min-width: 721px) {
+    section.block { grid-template-columns: 200px minmax(0, 1fr); }
+    section.block > * { grid-column: 2; }
+    section.block > .sec-head {
+      grid-column: 1;
+      grid-row: 1;
+      align-self: start;
+      position: sticky;
+      top: 3.5rem;
+    }
+  }
+
+  .sec-head {
     display: flex;
-    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin: 0 0 1.25rem;
+    border-bottom: 1px solid var(--hairline);
+    padding-bottom: 0.5rem;
+  }
+  .sec-head .num {
+    font-family: var(--mono);
+    font-size: 0.8rem;
+    letter-spacing: 0.1em;
+    color: var(--accent);
+  }
+  .sec-head h2 {
+    font-family: var(--mono);
+    font-size: 0.85rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  h3 {
+    font-family: var(--display);
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin: 1.5rem 0 0.5rem;
+  }
+  .block p { max-width: 68ch; margin: 0 0 0.9rem; }
+  .block p:last-child { margin-bottom: 0; }
+
+  /* Catalog record card (01) */
+  .catalog {
+    border: 1px solid var(--rule);
+    background: var(--paper);
+  }
+  .catalog dl {
+    margin: 0;
+  }
+  .catalog .entry {
+    display: grid;
+    grid-template-columns: 9rem minmax(0, 1fr);
+    border-bottom: 1px solid var(--hairline);
+  }
+  .catalog .entry:last-child { border-bottom: none; }
+  .catalog dt {
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.7rem 1rem;
+    background: rgba(20,20,20,0.04);
+    border-right: 1px solid var(--hairline);
+  }
+  .catalog dd {
+    margin: 0;
+    padding: 0.7rem 1rem;
+    font-size: 0.95rem;
+  }
+  .tag {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    border: 1px solid var(--ink);
+    display: inline-block;
+    padding: 0.15rem 0.45rem;
+    margin-right: 0.35rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .src {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    color: var(--muted);
+  }
+
+  /* Discography entries (03) */
+  .release {
+    border: 1px solid var(--rule);
+    padding: 1rem 1.1rem;
+    margin-bottom: 1.25rem;
+  }
+  .release:last-child { margin-bottom: 0; }
+  .release .rt {
+    font-family: var(--display);
+    font-weight: 700;
+    font-size: 1.25rem;
+    margin: 0 0 0.4rem;
+  }
+  .release .rmeta {
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+    margin: 0 0 0.75rem;
+  }
+  .release .rmeta .sep { color: var(--accent); }
+  ol.tracks {
+    font-family: var(--mono);
+    font-size: 0.82rem;
+    margin: 0.6rem 0 0.75rem;
+    padding-left: 1.6rem;
+    columns: 1;
+    column-gap: 1.5rem;
+  }
+  @media (min-width: 721px) {
+    ol.tracks { columns: 2; }
+  }
+  ol.tracks li {
+    padding: 0.15rem 0;
+    border-bottom: 1px solid var(--hairline);
+    break-inside: avoid;
+  }
+  ol.tracks li:last-child { border-bottom: none; }
+  .listen {
+    margin-top: 0.75rem;
+  }
+  .listen a {
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px solid var(--ink);
+    display: inline-block;
+    padding: 0.3rem 0.7rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.4rem;
+  }
+  .listen a:hover { border-color: var(--accent); color: var(--accent); }
+  .srcnote {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-top: 0.5rem;
+  }
+
+  /* ENTRY NEEDED box */
+  .needed {
+    border: 1px dashed var(--accent);
+    background: rgba(217, 57, 31, 0.05);
+    padding: 0.85rem 1rem;
+    margin: 0.85rem 0;
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+  }
+  .needed .label {
+    color: var(--accent);
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 0.35rem;
+  }
+
+  /* Photo tiles (06) */
+  .photos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     gap: 0.75rem;
   }
-
-  /* Primary listen buttons */
-  .btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.7rem 1.25rem;
-    border-radius: 999px;
-    background: var(--accent);
-    color: var(--accent-ink);
-    font-weight: 700;
-    text-decoration: none;
-    border: 1px solid transparent;
-    transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+  @media (max-width: 600px) {
+    .photos { grid-template-columns: 1fr; }
   }
-
-  .btn:hover {
-    background: #ff5c93;
-    transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(255, 61, 127, 0.3);
-  }
-
-  /* Secondary text links */
-  .links {
+  .photo-tile {
+    border: 1px dashed var(--accent);
+    aspect-ratio: 4 / 3;
     display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem 1.4rem;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0.6rem;
+    background: rgba(217, 57, 31, 0.05);
   }
-
-  .links a {
-    color: var(--text);
-    text-decoration: none;
-    border-bottom: 1px solid var(--border);
-    padding-bottom: 2px;
-    transition: color 0.18s ease, border-color 0.18s ease;
-  }
-
-  .links a:hover {
+  .photo-tile span {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
     color: var(--accent);
-    border-color: var(--accent);
   }
 
-  .social a[href="#"] {
+  /* Lists (04, 05, 07) */
+  ul.plain, ol.cite {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul.plain li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--hairline);
+  }
+  ul.plain li:last-child { border-bottom: none; }
+  ul.plain .role {
+    font-family: var(--mono);
+    font-size: 0.72rem;
     color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: block;
   }
 
-  /* Visible focus states for keyboard users */
-  a:focus-visible {
-    outline: 3px solid var(--focus);
-    outline-offset: 3px;
-    border-radius: 4px;
+  blockquote {
+    font-family: var(--display);
+    font-style: italic;
+    font-size: 1.05rem;
+    border-left: 3px solid var(--accent);
+    margin: 1.25rem 0;
+    padding: 0 0 0 1rem;
+  }
+  blockquote cite {
+    display: block;
+    font-family: var(--mono);
+    font-style: normal;
+    font-size: 0.72rem;
+    letter-spacing: 0.05em;
+    color: var(--muted);
+    margin-top: 0.5rem;
+  }
+
+  /* Sources (11) */
+  ol.cite {
+    counter-reset: src;
+  }
+  ol.cite li {
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--hairline);
+    padding-left: 2.2rem;
+    position: relative;
+  }
+  ol.cite li:last-child { border-bottom: none; }
+  ol.cite li::before {
+    counter-increment: src;
+    content: "S" counter(src);
+    position: absolute;
+    left: 0;
+    top: 0.6rem;
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    color: var(--accent);
+  }
+  ol.cite a { color: var(--accent); }
+
+  /* Media links (08) */
+  .listen-row { margin: 0.5rem 0 0.5rem; }
+  .listen-row a {
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px solid var(--ink);
+    display: inline-block;
+    padding: 0.35rem 0.8rem;
+    margin-right: 0.5rem;
+  }
+  .listen-row a:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* Notes (12) */
+  ul.notes {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul.notes li {
+    position: relative;
+    padding: 0.4rem 0 0.4rem 1.4rem;
+    border-bottom: 1px solid var(--hairline);
+  }
+  ul.notes li:last-child { border-bottom: none; }
+  ul.notes li::before {
+    content: "—";
+    position: absolute;
+    left: 0;
+    color: var(--accent);
   }
 
   footer {
-    max-width: 640px;
-    margin: 0 auto;
-    width: 100%;
-    padding: 2rem 1.5rem;
-    color: var(--muted);
+    border-top: 1px solid var(--rule);
+    margin-top: 1rem;
+    padding: 2rem 0 2.5rem;
     font-size: 0.85rem;
+    color: var(--muted);
+  }
+  footer p { margin: 0 0 0.5rem; max-width: 75ch; }
+  footer .copy {
+    font-family: var(--mono);
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
   }
 
   @media (prefers-reduced-motion: reduce) {
     * { transition: none !important; }
-    .btn:hover { transform: none; }
   }
 </style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
 
-<main>
-  <p class="era">Dayton, Ohio · 2008–2012 · Fearless Records</p>
-  <h1>Let's Get It</h1>
-
-  <p class="blurb">
-    A pop/rock/R&amp;B band from Dayton, Ohio, signed to Fearless Records.
-    Home of the EP <em>Digital Spaces</em> (2009) and the album <em>Masters of the Universe</em> (2011).
-  </p>
-
-  <h2>Listen</h2>
-  <div class="row">
-    <a class="btn" href="https://open.spotify.com/artist/6PvtObzrQDw6LT6XoUALpf">Spotify</a>
-    <a class="btn" href="https://music.apple.com/us/artist/lets-get-it/289801706">Apple Music</a>
+<nav class="topnav" aria-label="Archive sections">
+  <div class="wrap">
+    <a class="mark" href="#top">Let's Get It<span class="dot">.</span></a>
+    <a class="navlink" href="#record">Record</a>
+    <a class="navlink" href="#history">History</a>
+    <a class="navlink" href="#discography">Discography</a>
+    <a class="navlink" href="#members">Members</a>
+    <a class="navlink" href="#tours">Tours</a>
+    <a class="navlink" href="#photos">Photos</a>
+    <a class="navlink" href="#press">Press</a>
+    <a class="navlink" href="#media">Media</a>
+    <a class="navlink" href="#ephemera">Ephemera</a>
+    <a class="navlink" href="#fearless">Fearless</a>
+    <a class="navlink" href="#sources">Sources</a>
+    <a class="navlink" href="#notes">Notes</a>
   </div>
+</nav>
 
-  <h2>More</h2>
-  <nav class="links" aria-label="More links">
-    <a href="https://fearlessrecords.com/artists/lets-get-it/">Fearless Records</a>
-    <a href="https://www.discogs.com/artist/2406277-Lets-Get-It">Discogs</a>
-    <a href="https://fearless.merchnow.com/catalogs/lets-get-it">Merch</a>
-  </nav>
+<main id="main">
+  <header class="hero" id="top">
+    <div class="wrap">
+      <p class="kicker">00 / Archive</p>
+      <h1>Let's Get It</h1>
+      <p class="meta-line">Dayton, Ohio <span class="sep">·</span> 2008–2012 <span class="sep">·</span> Fearless Records</p>
+      <p class="kicker">A digital archive</p>
+      <span class="status">Archive in progress</span>
+    </div>
+  </header>
 
-  <h2>Follow</h2>
-  <nav class="links social" aria-label="Social links">
-    <!-- TODO: replace href="#" with the real profile URLs when available -->
-    <a href="#">Instagram</a>
-    <!-- TODO: replace href="#" with the real profile URLs when available -->
-    <a href="#">YouTube</a>
-    <!-- TODO: replace href="#" with the real profile URLs when available -->
-    <a href="#">TikTok</a>
-  </nav>
+  <div class="wrap">
+    <div class="content">
+      <section id="record" class="block" aria-labelledby="record-h">
+        <div class="sec-head">
+          <span class="num">01</span>
+          <h2 id="record-h">Archive Record</h2>
+        </div>
+        <div class="catalog">
+          <dl>
+            <div class="entry">
+              <dt>Name</dt>
+              <dd>Let's Get It <span class="src">[<a href="#s2">S2</a>] (spelled “Let’s Get It” in MusicBrainz)</span></dd>
+            </div>
+            <div class="entry">
+              <dt>Origin</dt>
+              <dd>Dayton, Ohio <span class="src">[<a href="#s1">S1</a>][<a href="#s2">S2</a>]</span></dd>
+            </div>
+            <div class="entry">
+              <dt>Active</dt>
+              <dd>2008 – 2012 <span class="src">[<a href="#s2">S2</a>] (MusicBrainz marks the group as ended)</span></dd>
+            </div>
+            <div class="entry">
+              <dt>Genre tags</dt>
+              <dd><span class="tag">Alternative Rock</span> <span class="tag">Pop Rock</span> <span class="src">[<a href="#s2">S2</a>]</span><br>
+                Fearless bio describes “a heady blend of pop, rock, R&amp;B and rap.” <span class="src">[<a href="#s1">S1</a>]</span></dd>
+            </div>
+            <div class="entry">
+              <dt>Label</dt>
+              <dd>Fearless Records <span class="src">[<a href="#s1">S1</a>]</span></dd>
+            </div>
+            <div class="entry">
+              <dt>Releases</dt>
+              <dd>2 <span class="src">[<a href="#s3">S3</a>]</span></dd>
+            </div>
+            <div class="entry">
+              <dt>Status</dt>
+              <dd>Ended 2012 (per MusicBrainz) <span class="src">[<a href="#s2">S2</a>]</span></dd>
+            </div>
+          </dl>
+        </div>
+      </section>
+
+      <section id="history" class="block" aria-labelledby="history-h">
+        <div class="sec-head">
+          <span class="num">02</span>
+          <h2 id="history-h">History</h2>
+        </div>
+        <p>Let's Get It was formed in the summer of 2008 by five friends from Dayton, Ohio <span class="src">[<a href="#s1">S1</a>]</span>. The group signed to Fearless Records just after the band's one-year anniversary; the exact signing date is not stated in the sources <span class="src">[<a href="#s1">S1</a>]</span>.</p>
+        <p>The band aimed to deliver a live show they would make “second best to no one” <span class="src">[<a href="#s1">S1</a>]</span>.</p>
+        <blockquote>
+          "we started to write music that could inspire other people to chase their dreams."
+          <cite>— Tyler Foiles, guitarist [S1]</cite>
+        </blockquote>
+        <blockquote>
+          "When people are so supportive, it's hard to try any less than your best."
+          <cite>— Joe Gilford, singer [S1]</cite>
+        </blockquote>
+      </section>
+
+      <section id="discography" class="block" aria-labelledby="discography-h">
+        <div class="sec-head">
+          <span class="num">03</span>
+          <h2 id="discography-h">Discography</h2>
+        </div>
+
+        <div class="release">
+          <p class="rt">Digital Spaces <span class="src">— EP</span></p>
+          <p class="rmeta">2009-08-04 <span class="sep">·</span> Fearless Records <span class="sep">·</span> US <span class="src">[<a href="#s3">S3</a>] [<a href="#s1">S1</a>] [<a href="#s4">S4</a>]</span></p>
+          <ol class="tracks">
+            <li>Duck, Duck, Grey Goose</li>
+            <li>Do Not Disturb (Tell Me How Bad)</li>
+            <li>Shoot for Teams</li>
+            <li>Maps</li>
+            <li>Ciroc &amp; Roll</li>
+            <li>To Catch a Snipe</li>
+          </ol>
+          <div class="listen">
+            <a href="https://music.apple.com/us/album/digital-spaces-ep/1445279849">Listen — Apple Music</a>
+          </div>
+          <p class="srcnote">Recorded with producer Joey Sturgis <span class="src">[<a href="#s1">S1</a>]</span>. Includes “two brand new tunes and polished re-recordings of the band's four original hits” — “Do Not Disturb”, “Duck Duck Grey Goose”, “Maps”, and “Shoot for Teams” <span class="src">[<a href="#s1">S1</a>]</span>. Tracklist per MusicBrainz <span class="src">[<a href="#s3">S3</a>]</span>.</p>
+        </div>
+
+        <div class="release">
+          <p class="rt">Masters of the Universe <span class="src">— Album</span></p>
+          <p class="rmeta">2011-05-24 <span class="sep">·</span> Fearless Records <span class="sep">·</span> US <span class="src">[<a href="#s3">S3</a>] [<a href="#s4">S4</a>]</span></p>
+          <ol class="tracks">
+            <li>Audacity of Dope</li>
+            <li>Keep It Up</li>
+            <li>We Don't Care</li>
+            <li>Master of the Universe</li>
+            <li>Fade Out</li>
+            <li>A Closer Reference</li>
+            <li>Millennium Falkor (Stay Up)</li>
+            <li>Dirty, Dirty Mess</li>
+            <li>Glow in the Dark</li>
+            <li>Night of the Living Shred</li>
+            <li>Tonight Never Ends</li>
+            <li>I Feel Alive</li>
+            <li>Eyes on Me</li>
+            <li>Fade Out (alternate version)</li>
+          </ol>
+          <div class="listen">
+            <a href="https://music.apple.com/us/album/masters-of-the-universe/1444035757">Listen — Apple Music</a>
+          </div>
+          <p class="srcnote">Tracklist per MusicBrainz (14 tracks; #14 is an alternate version) <span class="src">[<a href="#s3">S3</a>]</span>. Track order/edition variants across services not yet cross-checked.</p>
+        </div>
+      </section>
+
+      <section id="members" class="block" aria-labelledby="members-h">
+        <div class="sec-head">
+          <span class="num">04</span>
+          <h2 id="members-h">Members</h2>
+        </div>
+        <ul class="plain">
+          <li>Tyler Foiles <span class="role">Guitarist <span class="src">[<a href="#s1">S1</a>]</span></span></li>
+          <li>Joe Gilford <span class="role">Singer <span class="src">[<a href="#s1">S1</a>]</span></span></li>
+        </ul>
+        <div class="needed">
+          <span class="label">ENTRY NEEDED</span>
+          Full lineup, dates, and roles.
+        </div>
+      </section>
+
+      <section id="tours" class="block" aria-labelledby="tours-h">
+        <div class="sec-head">
+          <span class="num">05</span>
+          <h2 id="tours-h">Tour History</h2>
+        </div>
+        <p>The Fearless bio says the band was taking its new tunes out “this summer” on a nationwide tour with Jeffree Star, Artist Vs Poet, and Watch Out! There's Ghosts. The bio does not state the year or any dates or venues (year not stated by source) <span class="src">[<a href="#s1">S1</a>]</span>.</p>
+        <div class="needed">
+          <span class="label">ENTRY NEEDED</span>
+          A dated show list (date, venue, city, supporting/headliner, source).
+        </div>
+      </section>
+
+      <section id="photos" class="block" aria-labelledby="photos-h">
+        <div class="sec-head">
+          <span class="num">06</span>
+          <h2 id="photos-h">Photo Archive</h2>
+        </div>
+        <div class="photos">
+          <div class="photo-tile"><span>PHOTO — credit + rights needed</span></div>
+          <div class="photo-tile"><span>PHOTO — credit + rights needed</span></div>
+          <div class="photo-tile"><span>PHOTO — credit + rights needed</span></div>
+        </div>
+      </section>
+
+      <section id="press" class="block" aria-labelledby="press-h">
+        <div class="sec-head">
+          <span class="num">07</span>
+          <h2 id="press-h">Press</h2>
+        </div>
+        <div class="needed">
+          <span class="label">ENTRY NEEDED</span>
+          Publication, date, title, type, link.
+        </div>
+      </section>
+
+      <section id="media" class="block" aria-labelledby="media-h">
+        <div class="sec-head">
+          <span class="num">08</span>
+          <h2 id="media-h">Music &amp; Video</h2>
+        </div>
+        <div class="listen-row">
+          <a href="https://open.spotify.com/artist/6PvtObzrQDw6LT6XoUALpf">Spotify — Artist</a>
+          <a href="https://music.apple.com/us/artist/lets-get-it/289801706">Apple Music — Artist</a>
+        </div>
+        <div class="needed">
+          <span class="label">ENTRY NEEDED</span>
+          Video links.
+        </div>
+      </section>
+
+      <section id="ephemera" class="block" aria-labelledby="ephemera-h">
+        <div class="sec-head">
+          <span class="num">09</span>
+          <h2 id="ephemera-h">Flyers &amp; Ephemera</h2>
+        </div>
+        <div class="needed">
+          <span class="label">ENTRY NEEDED</span>
+          Flyers and ephemera items.
+        </div>
+      </section>
+
+      <section id="fearless" class="block" aria-labelledby="fearless-h">
+        <div class="sec-head">
+          <span class="num">10</span>
+          <h2 id="fearless-h">Fearless Records Connection</h2>
+        </div>
+        <p>Let's Get It signed to Fearless Records just after the band's one-year anniversary (exact signing date not stated) <span class="src">[<a href="#s1">S1</a>]</span>. The EP <em>Digital Spaces</em> was recorded with producer Joey Sturgis <span class="src">[<a href="#s1">S1</a>]</span>.</p>
+        <p class="listen-row"><a href="https://fearlessrecords.com/artists/lets-get-it/">Fearless Records artist page</a></p>
+      </section>
+
+      <section id="sources" class="block" aria-labelledby="sources-h">
+        <div class="sec-head">
+          <span class="num">11</span>
+          <h2 id="sources-h">Sources</h2>
+        </div>
+        <ol class="cite">
+          <li id="s1">Fearless Records artist page (band bio) — <a href="https://fearlessrecords.com/artists/lets-get-it/">https://fearlessrecords.com/artists/lets-get-it/</a> — accessed 2026-09-24</li>
+          <li id="s2">MusicBrainz artist — <a href="https://musicbrainz.org/artist/55f1716c-959a-417d-9c17-087cb004f3f6">https://musicbrainz.org/artist/55f1716c-959a-417d-9c17-087cb004f3f6</a> — accessed 2026-09-24</li>
+          <li id="s3">MusicBrainz release data (API) — <a href="https://musicbrainz.org/ws/2/release?artist=55f1716c-959a-417d-9c17-087cb004f3f6&amp;inc=labels+recordings&amp;fmt=json">musicbrainz.org/ws/2/release?artist=55f1716c-…</a> — accessed 2026-09-24</li>
+          <li id="s4">Apple Music artist page — <a href="https://music.apple.com/us/artist/lets-get-it/289801706">https://music.apple.com/us/artist/lets-get-it/289801706</a> — accessed 2026-09-24</li>
+          <li id="s5">Spotify artist page — <a href="https://open.spotify.com/artist/6PvtObzrQDw6LT6XoUALpf">https://open.spotify.com/artist/6PvtObzrQDw6LT6XoUALpf</a> — linked, not yet cross-checked</li>
+          <li id="s6">Discogs artist page — <a href="https://www.discogs.com/artist/2406277-Lets-Get-It">https://www.discogs.com/artist/2406277-Lets-Get-It</a> — linked from MusicBrainz; page not read</li>
+          <li id="s7">Fearless merch catalog — <a href="https://fearless.merchnow.com/catalogs/lets-get-it">https://fearless.merchnow.com/catalogs/lets-get-it</a> — linked, not yet cross-checked</li>
+        </ol>
+      </section>
+
+      <section id="notes" class="block" aria-labelledby="notes-h">
+        <div class="sec-head">
+          <span class="num">12</span>
+          <h2 id="notes-h">Archive Notes</h2>
+        </div>
+        <ul class="notes">
+          <li>Items marked ENTRY NEEDED are gaps to be filled.</li>
+          <li>Unverified information is deliberately left out.</li>
+          <li>Corrections welcome — Contact: ENTRY NEEDED.</li>
+        </ul>
+      </section>
+    </div>
+  </div>
 </main>
 
 <footer>
-  <p>© Let's Get It</p>
+  <div class="wrap">
+    <p>Let's Get It — digital archive, maintained by a founding member of the band. This is not an official Fearless Records website. Album artwork, photos and other third-party material remain the property of their respective owners.</p>
+    <p class="copy">© Let's Get It</p>
+  </div>
 </footer>
+</body>
+</html>
