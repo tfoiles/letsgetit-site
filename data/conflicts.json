@@ -93,5 +93,17 @@
    "S28",
    "S29"
   ]
+ },
+ {
+  "id": "C11",
+  "topic": "When the band signed to Fearless",
+  "summary": "The Fearless bio (S1) says the band signed 'just after the band's one-year anniversary' (about summer 2009), and the band owner approves that wording (S22). The band's own MySpace called the label 'Unsigned' in August 2008 and January 2009 (S9, S10), yet a draft Fearless recording deal memo in the band's files is headed 'as of January __, 2009' (S37). A draft's 'as of' date is not the signing date, so the actual date remains unknown.",
+  "source_ids": [
+   "S1",
+   "S9",
+   "S10",
+   "S22",
+   "S37"
+  ]
  }
 ]

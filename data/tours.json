@@ -296,11 +296,12 @@
   "headliner": "Brokencyde",
   "festival": null,
   "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "basis": "The band's own September 2008 MySpace schedule (S8, S9) and the tour poster listing these six dates (S38); the first three dates are also on Concert Archives (S18)",
   "source_ids": [
    "S9",
    "S8",
-   "S18"
+   "S18",
+   "S38"
   ],
   "source_url": "",
   "archive_url": null,
@@ -325,11 +326,12 @@
   "headliner": "Brokencyde",
   "festival": null,
   "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "basis": "The band's own September 2008 MySpace schedule (S8, S9) and the tour poster listing these six dates (S38); the first three dates are also on Concert Archives (S18)",
   "source_ids": [
    "S9",
    "S8",
-   "S18"
+   "S18",
+   "S38"
   ],
   "source_url": "",
   "archive_url": null,
@@ -354,11 +356,12 @@
   "headliner": "Brokencyde",
   "festival": null,
   "status": "CORROBORATED",
-  "basis": "Date and city agree between an announced schedule/press source and a fan-submitted Concert Archives entry; no eyewitness account found",
+  "basis": "The band's own September 2008 MySpace schedule (S8, S9) and the tour poster listing these six dates (S38); the first three dates are also on Concert Archives (S18)",
   "source_ids": [
    "S9",
    "S8",
-   "S18"
+   "S18",
+   "S38"
   ],
   "source_url": "",
   "archive_url": null,
@@ -382,11 +385,12 @@
   ],
   "headliner": "Brokencyde",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "The band's own September 2008 MySpace schedule (S8, S9) and the tour poster listing these six dates (S38); the first three dates are also on Concert Archives (S18)",
   "source_ids": [
    "S9",
-   "S8"
+   "S8",
+   "S38"
   ],
   "source_url": "",
   "archive_url": null,
@@ -431,11 +435,12 @@
   ],
   "headliner": "Brokencyde",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "The band's own September 2008 MySpace schedule (S8, S9) and the tour poster listing these six dates (S38); the first three dates are also on Concert Archives (S18)",
   "source_ids": [
    "S9",
-   "S8"
+   "S8",
+   "S38"
   ],
   "source_url": "",
   "archive_url": null,
@@ -457,11 +462,12 @@
   ],
   "headliner": "Brokencyde",
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on more than one archived MySpace snapshot; announced, not confirmed as played",
+  "status": "CORROBORATED",
+  "basis": "The band's own September 2008 MySpace schedule (S8, S9) and the tour poster listing these six dates (S38); the first three dates are also on Concert Archives (S18)",
   "source_ids": [
    "S9",
-   "S8"
+   "S8",
+   "S38"
   ],
   "source_url": "",
   "archive_url": null,
@@ -751,6 +757,33 @@
   "notes": "1 fan submission(s) on Concert Archives"
  },
  {
+  "date": "2009-01-30",
+  "time": "6:00P (doors)",
+  "venue": "Troy High School (Miss May I's Last Hometown Show)",
+  "city": "Troy",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [
+   "Miss May I",
+   "The Crimson Armada",
+   "Jump So High",
+   "Wake The Wounded",
+   "Delta Delta",
+   "London Lay Low"
+  ],
+  "headliner": "Miss May I",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Band-archive flyer (S38); the year is not printed and is inferred from the weekday (Friday, January 30 = 2009)",
+  "source_ids": [
+   "S38"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Flyer: '1530 N. Market St., Troy, Ohio 45373', $10, doors 6:00 pm.",
+  "archive_url": null,
+  "source_urls": []
+ },
+ {
   "date": "2009-03-14",
   "time": "",
   "venue": "Plano Centre",
@@ -798,16 +831,17 @@
   ],
   "headliner": null,
   "festival": null,
-  "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives (fan-submitted, single submission); no other source found",
+  "status": "CORROBORATED",
+  "basis": "Concert Archives lists Plano Centre, Plano, on this day; the South By So What flyer (S38) lists Let's Get It the same day but prints the venue as The Garland Special Events Center, Garland",
   "source_ids": [
-   "S18"
+   "S18",
+   "S38"
   ],
   "source_urls": [
    "https://www.concertarchives.org/concerts/the-secret-handshake-hit-enter-shikari-the-devil-wears-prada-a-day-to-remember-sky-eats-airplane-the-wedding-a-skylit-drive-dance-gavin-dance-greeley-estates-iwrestledabearonce-sing-it-loud-morning-light-memphis-may-fire"
   ],
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
+  "confidence": "MEDIUM",
   "notes": "1 fan submission(s) on Concert Archives"
  },
  {
@@ -1458,6 +1492,32 @@
   "notes": "1 fan submission(s) on Concert Archives"
  },
  {
+  "date": "2009-07-24",
+  "time": "7:30P (doors 7:00)",
+  "venue": "The Attic Club (Digital Spaces EP Party)",
+  "city": "Kettering",
+  "state_country": "Ohio, USA",
+  "tour": "Digital Spaces EP release party",
+  "supporting_artists_or_bill": [
+   "Callahan",
+   "Small Scale Epic",
+   "Bazookas Go Bang",
+   "Harmon",
+   "To Kill A Monster"
+  ],
+  "headliner": "Let's Get It",
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "Band-archive flyer (S38); the year is not printed and is inferred from the weekday (Friday, July 24 = 2009, the EP's release year)",
+  "source_ids": [
+   "S38"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Flyer: Fearless Records and The Attic logos, $10 advance / $12 door; a pre-release version advertises the EP pre-order for $5.",
+  "archive_url": null,
+  "source_urls": []
+ },
+ {
   "date": "2009-07-27",
   "time": "",
   "venue": "The Masquerade",
@@ -1563,7 +1623,7 @@
  {
   "date": "2009-07-30",
   "time": "",
-  "venue": "The Orpheum - Old Location",
+  "venue": "The Orpheum",
   "city": "Tampa",
   "state_country": "Florida, USA",
   "tour": "Jeffree Star tour (2009)",
@@ -1586,7 +1646,7 @@
   ],
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: The Orpheum"
+  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: The Orpheum - Old Location"
  },
  {
   "date": "2009-07-31",
@@ -1611,7 +1671,7 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "HIGH",
-  "notes": "High Ground // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: The High Ground",
+  "notes": "High Ground // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: High Ground",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-775c89f8-e305-487f-9c47-75996f2ccdc6",
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-146f63ef-706b-475b-861d-208665558438"
@@ -1668,7 +1728,7 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "HIGH",
-  "notes": "Boney Junes // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Boney Junes",
+  "notes": "Boney Junes // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Boney June's Music Venue",
   "source_urls": [
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-e2ba2da0-739a-4105-bc2b-14488f9b029f",
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-34899fb8-7772-4f5c-aa61-fdb3bbc58e77"
@@ -1726,7 +1786,7 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "HIGH",
-  "notes": "Chameleon Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Chameleon Club",
+  "notes": "Chameleon Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Chameleon",
   "source_urls": [
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-72dbe5f7-754c-43d2-aea1-0bb9f0132b87",
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-085d76d4-35ac-484c-9241-5a31279bdbc2"
@@ -1921,7 +1981,7 @@
   "source_url": "",
   "archive_url": null,
   "confidence": "HIGH",
-  "notes": "The Beaumont Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Beaumont Club",
+  "notes": "The Beaumont Club // w/ Jeffree Star, Artist vs Poet, Watchout! Theres Ghosts | 2 fan submission(s) on Concert Archives; venue also spelled: Beaumont",
   "source_urls": [
    "https://www.concertarchives.org/concerts/watchout-theres-ghosts-jeffree-star-artist-vs-poet-let-s-get-it-904dfeef-5750-41c0-baad-b2dae1bcde30",
    "https://www.concertarchives.org/concerts/jeffree-star-artist-vs-poet-watchout-there-s-ghosts-let-s-get-it-1f7059ff-25a0-4423-90a4-be48c91329b2"

@@ -56,5 +56,32 @@
    "S29"
   ],
   "basis": "Announced on the band's MySpace (S8, S9); band-channel videos titled 'A Lets Get It Show @ THE AFTER Springfield, Ohio' and '\"Do Not Disturb\" THE AFTER Springfield, Ohio' show a set at that venue (the video titles give no date)"
+ },
+ {
+  "id": "O5",
+  "match": {
+   "tour": "The Get Money Tour (with Brokencyde)",
+   "date_from": "2008-09-04",
+   "date_to": "2008-09-10"
+  },
+  "status": "CORROBORATED",
+  "confidence": "MEDIUM",
+  "add_sources": [
+   "S38"
+  ],
+  "basis": "The band's own September 2008 MySpace schedule (S8, S9) and the tour poster listing these six dates (S38); the first three dates are also on Concert Archives (S18)"
+ },
+ {
+  "id": "O6",
+  "match": {
+   "date": "2009-03-14",
+   "city": "Plano"
+  },
+  "status": "CORROBORATED",
+  "confidence": "MEDIUM",
+  "add_sources": [
+   "S38"
+  ],
+  "basis": "Concert Archives lists Plano Centre, Plano, on this day; the South By So What flyer (S38) lists Let's Get It the same day but prints the venue as The Garland Special Events Center, Garland"
  }
 ]

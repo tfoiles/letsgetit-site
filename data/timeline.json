@@ -8,6 +8,14 @@
   "confidence": "HIGH"
  },
  {
+  "date": "2008-06",
+  "event": "Earliest dated live photographs in the band's archive (camera dates, June 2008).",
+  "source_ids": [
+   "S40"
+  ],
+  "confidence": "MEDIUM"
+ },
+ {
   "date": "2008-06-04",
   "event": "MySpace profile 'Lets Get It' created ('Member since 6/4/2008').",
   "source_ids": [
@@ -16,6 +24,22 @@
    "S11"
   ],
   "confidence": "MEDIUM"
+ },
+ {
+  "date": "2008-07-03",
+  "event": "Sponsorship: ZZYZX Snap Jack (Jodavi, Inc.) endorsement agreement, 12 months.",
+  "source_ids": [
+   "S36"
+  ],
+  "confidence": "HIGH"
+ },
+ {
+  "date": "2008-07-05",
+  "event": "Management agreement signed with David Marsh (initial three-year term).",
+  "source_ids": [
+   "S35"
+  ],
+  "confidence": "HIGH"
  },
  {
   "date": "2008-08",
@@ -44,6 +68,23 @@
   "confidence": "LOW-MEDIUM"
  },
  {
+  "date": "2009-01-30",
+  "event": "Miss May I's Last Hometown Show, Troy High School, Troy, Ohio, with Let's Get It (flyer; year inferred from the weekday).",
+  "source_ids": [
+   "S38"
+  ],
+  "confidence": "LOW-MEDIUM"
+ },
+ {
+  "date": "2009-03-14",
+  "event": "South By So What festival flyer lists Let's Get It (Plano or Garland, Texas).",
+  "source_ids": [
+   "S38",
+   "S18"
+  ],
+  "confidence": "MEDIUM"
+ },
+ {
   "date": "2009-03-16 to 2009-04-09",
   "event": "Dates on a bill with Watchout! There's Ghosts across the South and East (fan-submitted, some also on the band's own schedule).",
   "source_ids": [
@@ -67,6 +108,14 @@
    "S6"
   ],
   "confidence": "MEDIUM"
+ },
+ {
+  "date": "2009-07-24",
+  "event": "Digital Spaces EP Party at The Attic Club, Kettering, Ohio (flyer; year inferred from the weekday).",
+  "source_ids": [
+   "S38"
+  ],
+  "confidence": "LOW-MEDIUM"
  },
  {
   "date": "2009-07-27",
@@ -119,12 +168,28 @@
   "confidence": "LOW-MEDIUM"
  },
  {
+  "date": "2009-12-31",
+  "event": "Show at The Attic, Kettering, with Miss May I and London Lay Low (fan listing).",
+  "source_ids": [
+   "S18"
+  ],
+  "confidence": "LOW-MEDIUM"
+ },
+ {
   "date": "2010-02-09 to 2010-03-02",
   "event": "No Checkpoints in the Jungle Tour with Breathe Carolina (fan-submitted listings).",
   "source_ids": [
    "S18"
   ],
   "confidence": "LOW-MEDIUM"
+ },
+ {
+  "date": "2010-03-25",
+  "event": "Facebook page shows 2,411 total fans.",
+  "source_ids": [
+   "S44"
+  ],
+  "confidence": "HIGH"
  },
  {
   "date": "2010-04-28 to 2010-05-15",
@@ -150,6 +215,14 @@
    "S15"
   ],
   "confidence": "MEDIUM"
+ },
+ {
+  "date": "2010-09/10",
+  "event": "Album mixes dated September 27 to October 6, 2010 in the band's files (Keep It Up, Glow in the Dark, I Feel Alive, Tonight Never Ends, Neverending Story, So Hooked, Fade Out, Master of the Universe).",
+  "source_ids": [
+   "S43"
+  ],
+  "confidence": "HIGH"
  },
  {
   "date": "2010-09-25",

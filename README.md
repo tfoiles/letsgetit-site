@@ -6,6 +6,7 @@ on the apex domain **letsgetitband.com**.
 - `index.html` — the whole site (self-contained: inline CSS, no JS). The sections between `<!--GEN:...-->` markers are generated; do not edit them by hand.
 - `data/*.json` — the archive's structured data (sources, members, releases, timeline, tours, press, conflicts, unverified claims). Edit these.
 - `tools/build.py` — renders `data/` into the generated sections of `index.html`. Run `python3 tools/build.py` after editing the data.
+- `img/` — web-size photos, member portraits and flyers (metadata stripped); provenance in `data/photos.json`, `data/member_portraits.json`, `data/ephemera.json`. `python3 tools/export_photos.py` rebuilds them from the (private) band archive using `data/photo_picks.json`.
 - `og.png` — link-preview image (provenance in `data/images.json`).
 - `docs/` — research report and source table (`lets-get-it-research.md`, `lets-get-it-sources.md`).
 - `CNAME` — tells GitHub Pages the custom domain (contents: `letsgetitband.com`)

@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 TOURS = ROOT / "data" / "tours.json"
 BASE = ROOT / "research" / "raw" / "tours_base.json"
 OVERRIDES = ROOT / "data" / "tour_overrides.json"
+EXTRA = ROOT / "data" / "tour_extra.json"
 CA_ROWS = ROOT / "research" / "raw" / "ca_rows.json"
 
 BAND = re.compile(r"let.?s get it", re.I)
@@ -113,6 +114,9 @@ def apply_overrides(events):
 def main():
     events = json.loads(BASE.read_text(encoding="utf-8"))
     ca = json.loads(CA_ROWS.read_text(encoding="utf-8"))
+    for ev in json.loads(EXTRA.read_text(encoding="utf-8")):
+        ev.setdefault("archive_url", None); ev.setdefault("source_urls", [])
+        events.append(ev)
 
     # strip S18 from existing events; drop events that only had S18
     kept = []

@@ -74,14 +74,23 @@ def gen_discography():
         out.append("<h3>Compilation appearances</h3>")
         out.append('<p class="srcnote">Various-artists releases that include a Let\'s Get It track (Discogs, S6).</p>')
         out += [release_html(r) for r in comps]
+    out.append(gen_songs())
     return "\n".join(out)
 
 def gen_members():
+    portraits = {r["caption"]: r for r in load("member_portraits")}
+
+    def pic(m):
+        r = portraits.get(m["name"])
+        if not r:
+            return ""
+        return f'<img class="mp" loading="lazy" src="{e(r["thumb"])}" width="{r["width"]}" height="{r["height"]}" alt="Portrait of {e(m["name"])}">'
+
     items = "".join(
-        f'<li>{e(m["name"])} <span class="role">{e(m["role"])} {cites(m["sources"])} {conf_tag(m["confidence"])}'
+        f'<li>{pic(m)}<div class="mtxt">{e(m["name"])} <span class="role">{e(m["role"])} {cites(m["sources"])} {conf_tag(m["confidence"])}'
         f'<br><span class="srcnote">{e(m["years"])}</span>'
         + (f'<br><span class="srcnote">{e(m["notes"])}</span>' if m["notes"] else "")
-        + "</span></li>"
+        + "</span></div></li>"
         for m in load("members")
     )
     conflict = next(c for c in load("conflicts") if c["id"] == "C1")
@@ -91,7 +100,7 @@ def gen_members():
             now_items.append(f'<li><strong>{e(n["name"])}.</strong> {e(n["text"])} {cites(n["source_ids"])} {conf_tag(n["confidence"])}</li>')
     pending = ", ".join(n["name"] for n in load("members_now") if not n["text"])
     return (
-        f'<ul class="plain">{items}</ul>\n'
+        f'<ul class="plain memberlist">{items}</ul>\n'
         f'<p class="srcnote"><strong>Lineup:</strong> confirmed by a band member (S22): five members from 2008 to 2012, with no former or touring members. '
         f'Roles also match Discogs (S6), a 2010 press release repost (S15) and a community wiki (S17).</p>\n'
         f'<div class="conflict"><span class="label">NOTE — CORRECTED BY A BAND MEMBER</span>{e(conflict["summary"])} {cites(conflict["source_ids"])}</div>\n'
@@ -230,6 +239,57 @@ def gen_media():
     )
 
 
+PHOTO_STATUS = "Published with the band owner's authorization (S22); removal on request"
+
+
+def figure(r, credit_key="photographer", extra=""):
+    date = f' · {e(r["date"])}' if r.get("date") else ""
+    return (
+        f'<figure class="ph"><a href="{e(r["image"])}"><img loading="lazy" src="{e(r["thumb"])}" '
+        f'width="{r["width"]}" height="{r["height"]}" alt="{e(r["caption"])}"></a>'
+        f'<figcaption>{e(r["caption"])}<br><span class="src">{e(r[credit_key])}{date}{extra}</span></figcaption></figure>'
+    )
+
+
+def gen_photos():
+    recs = load("photos")
+    order = ["Portraits and press", "Live", "On tour", "Behind the scenes"]
+    blocks = []
+    for cat in order:
+        items = [r for r in recs if r["category"] == cat]
+        if not items:
+            continue
+        items.sort(key=lambda r: (r.get("date") or "", r["slug"]))
+        blocks.append(f'<h3>{e(cat)} <span class="src">{len(items)}</span></h3><div class="photogrid">' + "".join(figure(r) for r in items) + "</div>")
+    return (
+        '<p>Photographs from the band\'s own archive, chosen from about 1,200. Dates are the camera dates embedded in the files, which can be off; '
+        f'credits come from the camera data and file names {cites(["S40"])}. Location metadata was removed from every image. {e(PHOTO_STATUS)}. '
+        'Tap a photo for the larger version.</p>' + "".join(blocks) +
+        '<div class="needed"><span class="label">ENTRY NEEDED</span>Who is who in each group photo, venues for the live shots, and any photographer credits to correct.</div>'
+    )
+
+
+def gen_ephemera():
+    recs = load("ephemera")
+    cards = []
+    for r in recs:
+        cards.append(
+            f'<figure class="ph flyer"><a href="{e(r["image"])}"><img loading="lazy" src="{e(r["thumb"])}" width="{r["width"]}" height="{r["height"]}" alt="{e(r["caption"])}"></a>'
+            f'<figcaption><strong>{e(r["caption"])}</strong><br><span class="src">{e(r["kind"])} · {e(r["date"])} · {e(r["event"])}</span><br>'
+            f'<span class="srcnote">{e(r["notes"])} Creator: {e(r["creator"])}. {cites(["S38"])}</span></figcaption></figure>'
+        )
+    return '<div class="flyergrid">' + "".join(cards) + '</div>' + (
+        '<div class="needed"><span class="label">ENTRY NEEDED</span>More flyers, tickets, setlists and merchandise catalogs. '
+        'More design files exist in the band archive (PSD files were skipped).</div>'
+    )
+
+
+def gen_songs():
+    d = load("songs_archive")
+    items = "".join(f'<li><strong>{e(g["title"])}.</strong> {e(g["text"])} {cites(g["source_ids"])}</li>' for g in d["groups"])
+    return f'<h3>Demos, mixes and outtakes (from the band\'s files)</h3><p class="srcnote">{e(d["note"])}</p><ul class="plain notes">{items}</ul>'
+
+
 def gen_press():
     items = []
     for p in load("press"):
@@ -291,6 +351,8 @@ BLOCKS = {
     "team": gen_team,
     "tours": gen_tours,
     "media": gen_media,
+    "photos": gen_photos,
+    "ephemera": gen_ephemera,
     "press": gen_press,
     "sources": gen_sources,
     "notes": gen_notes,

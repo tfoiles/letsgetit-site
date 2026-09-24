@@ -3,15 +3,17 @@
   "name": "David Marsh",
   "role": "Manager",
   "org": null,
-  "era": "Listed as management on the band's MySpace in January 2009; other eras not yet documented",
-  "confidence": "MEDIUM",
+  "era": "Management agreement dated July 5, 2008 (initial three-year term); listed as management on the band's MySpace in January 2009; appears in a 2013 band-channel video",
+  "confidence": "HIGH",
   "source_ids": [
    "S10",
    "S22",
-   "S29"
+   "S29",
+   "S35",
+   "S39"
   ],
-  "status": "Role per band owner; the 2009 listing corroborates the earlier era only",
-  "notes": "A band-channel video published 2013-02-10 is titled 'All My Life Cover (Studio Video feat. David Marsh)' (S29); it is not confirmed that this is the same person. Third-party contact details on the archived MySpace page are deliberately not reproduced."
+  "status": "Confirmed by the band's own management agreement",
+  "notes": "The band-channel video (2013-02-10) is titled 'All My Life Cover (Studio Video feat. David Marsh)'. Addresses and contact details are deliberately not published."
  },
  {
   "name": "Dave Shapiro",
@@ -29,6 +31,18 @@
   "notes": "Shapiro later co-founded Sound Talent Group in 2018 (per AP). The 2025 report describes him as widely respected in the heavy-music scene."
  },
  {
+  "name": "JJ Cassiere",
+  "role": "Booking agent",
+  "org": null,
+  "era": "Listed as booking agent on an earlier layout of the band's MySpace profile (date not recorded; the January 2009 profile lists Dave Shapiro)",
+  "confidence": "MEDIUM",
+  "source_ids": [
+   "S39"
+  ],
+  "status": "Not in the band owner's list; found in the band's own profile files",
+  "notes": "Contact details in the profile code are deliberately not published."
+ },
+ {
   "name": "Bryan K. Christner",
   "role": "Entertainment attorney",
   "org": "BKChristner, PC",
@@ -37,7 +51,8 @@
   "source_ids": [
    "S10",
    "S22",
-   "S26"
+   "S26",
+   "S39"
   ],
   "status": null,
   "notes": "Firm site states a practice in Entertainment & New Media Law."
@@ -97,13 +112,14 @@
   "role": "Fearless Records A&R",
   "org": "Fearless Records",
   "era": null,
-  "confidence": "LOW-MEDIUM",
+  "confidence": "MEDIUM",
   "source_ids": [
    "S22",
    "S28",
-   "S29"
+   "S29",
+   "S42"
   ],
   "status": "A&R role per band owner; a public profile snippet describes a marketing and promotions role at Fearless, so the title is unresolved",
-  "notes": "A band-channel video titled 'Our A&R Nate wrestling with Chris' (2010-09-25, S29) supports an A&R contact named Nate at the label; it does not give the surname."
+  "notes": "The band's planning notes (S42) say video files went to 'Nate' at Fearless for the label's YouTube channel, and a band-channel video is titled 'Our A&R Nate' (S29). The surname is not given in either; a public profile snippet gives marketing and promotions (S28). He may have handled both."
  }
 ]

@@ -62,9 +62,10 @@
    "Eyes on Me"
   ],
   "credits": [
-   "Recording: announced July 2010 for Hollywood, CA with Ian Kirkpatrick and Mike Green, late August 2010 (per S15; announcement only, final production credits not yet confirmed)"
+   "Recording: announced July 2010 for Hollywood, CA with Ian Kirkpatrick and Mike Green, late August 2010 (per S15; announcement only, final production credits not yet confirmed)",
+   "Cover illustration: Marco Patini Furtado (per the band's artwork notes, S41)"
   ],
-  "artwork_source": null,
+  "artwork_source": "Elephant illustration by Marco Patini Furtado, per the band's artwork notes",
   "links": [
    {
     "label": "Apple Music",
@@ -72,13 +73,14 @@
    }
   ],
   "source_ids": [
+   "S3",
+   "S4",
+   "S6",
    "S14",
    "S15",
    "S21",
-   "S3",
    "S31",
-   "S4",
-   "S6"
+   "S41"
   ],
   "confidence": "HIGH (date, 13 tracks); MEDIUM (production credits)",
   "notes": "Official Fearless list has 13 tracks. MusicBrainz and Discogs list a 14th, 'Fade Out (alternate version)', on the digital edition. Under the Gun Review calls it Power-pop/Dance on Fearless Records. Dying Scene (S31) covers the 'Eyes On Me' lyric video and the free 'We Don't Care' download ahead of the release."

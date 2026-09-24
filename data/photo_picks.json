@@ -1,0 +1,404 @@
+{
+ "photos": [
+  {
+   "slug": "press-early-group",
+   "file": "DSC_5713 copy.jpg",
+   "caption": "Group portrait, early press shoot",
+   "category": "Portraits and press",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "press-2009-group-2",
+   "file": "lgi_july.jpg",
+   "caption": "Group portrait, colour",
+   "category": "Portraits and press",
+   "photographer": "Taylor Foiles (no camera data in the file)"
+  },
+  {
+   "slug": "press-2009-group-3",
+   "file": "_DSC4175.jpg",
+   "caption": "Group portrait",
+   "category": "Portraits and press",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "press-2009-group-4",
+   "file": "_DSC4219.jpg",
+   "caption": "Group portrait",
+   "category": "Portraits and press",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "press-promo",
+   "file": "LGI_Promo_2010.jpg",
+   "caption": "Promo cut-out (file named 2010)",
+   "category": "Portraits and press",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "press-concept",
+   "file": "2010_concept.jpg",
+   "caption": "Concept shoot: shirts, ties and cameras",
+   "category": "Portraits and press",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "single-1",
+   "file": "DSC_5375blk.jpg",
+   "caption": "Individual portrait from the singles set",
+   "category": "Portraits and press",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "single-2",
+   "file": "DSC_5441blk.jpg",
+   "caption": "Individual portrait from the singles set",
+   "category": "Portraits and press",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "single-3",
+   "file": "DSC_5542blk.jpg",
+   "caption": "Individual portrait from the singles set",
+   "category": "Portraits and press",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "single-4",
+   "file": "DSC_5634blk.jpg",
+   "caption": "Individual portrait from the singles set",
+   "category": "Portraits and press",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "live-2008-06-a",
+   "file": "LetsGetIt-rt (10).jpg",
+   "caption": "Live, June 2008",
+   "category": "Live",
+   "photographer": "Rachel (surname not recorded)"
+  },
+  {
+   "slug": "live-2008-06-b",
+   "file": "LetsGetIt-rt (13).jpg",
+   "caption": "Live, June 2008",
+   "category": "Live",
+   "photographer": "Rachel (surname not recorded)"
+  },
+  {
+   "slug": "live-2008-06-c",
+   "file": "LetsGetIt-rt (20).jpg",
+   "caption": "Live, June 2008",
+   "category": "Live",
+   "photographer": "Rachel (surname not recorded)"
+  },
+  {
+   "slug": "live-2008-06-d",
+   "file": "LetsGetIt-rt (24).jpg",
+   "caption": "Live, June 2008",
+   "category": "Live",
+   "photographer": "Rachel (surname not recorded)"
+  },
+  {
+   "slug": "live-2008-06-e",
+   "file": "LetsGetIt-rt (42).jpg",
+   "caption": "Live, June 2008",
+   "category": "Live",
+   "photographer": "Rachel (surname not recorded)"
+  },
+  {
+   "slug": "live-2008-06-f",
+   "file": "LetsGetIt-rt (4).jpg",
+   "caption": "Live, June 2008",
+   "category": "Live",
+   "photographer": "Rachel (surname not recorded)"
+  },
+  {
+   "slug": "live-2008-11-a",
+   "file": "LGI_LIVE_110108__11.jpg",
+   "caption": "Live, file dated 2008-11-01",
+   "category": "Live",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "live-2008-11-b",
+   "file": "LGI_LIVE_110108__12.jpg",
+   "caption": "Live, file dated 2008-11-01",
+   "category": "Live",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "live-2008-11-c",
+   "file": "LGI_LIVE_110108__14.jpg",
+   "caption": "Live, file dated 2008-11-01",
+   "category": "Live",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "live-2008-11-d",
+   "file": "LGI_LIVE_110108__18.jpg",
+   "caption": "Crowd, file dated 2008-11-01",
+   "category": "Live",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "tour-2008-10-swingset",
+   "file": "_DSC2684.jpg",
+   "caption": "Backyard stop on the road",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "tour-2008-10-falls",
+   "file": "_DSC3172.jpg",
+   "caption": "Niagara Falls stop",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "tour-2008-10-falls-2",
+   "file": "_DSC3177.jpg",
+   "caption": "Niagara Falls stop",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "tour-2008-10-fans",
+   "file": "_DSC3195.jpg",
+   "caption": "With fans after a show",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "tour-atticus-1",
+   "file": "lgi_1.jpg",
+   "caption": "Atticus tour, outside the venue",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "tour-atticus-2",
+   "file": "lgi_2.jpg",
+   "caption": "Atticus tour, in the lot",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-ci-01",
+   "file": "LGI ConeyIsland 001.jpg",
+   "caption": "Coney Island, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-ci-02",
+   "file": "LGI ConeyIsland 002.jpg",
+   "caption": "Coney Island, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-ci-04",
+   "file": "LGI ConeyIsland 004.jpg",
+   "caption": "Coney Island, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-ci-09",
+   "file": "LGI ConeyIsland 009.jpg",
+   "caption": "Coney Island, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-ci-12",
+   "file": "LGI ConeyIsland 012.jpg",
+   "caption": "Coney Island, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-ci-20",
+   "file": "LGI ConeyIsland 020.jpg",
+   "caption": "In the sand, Coney Island, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-ci-24",
+   "file": "LGI ConeyIsland 024.jpg",
+   "caption": "Coney Island, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-li-01",
+   "file": "LGI_LI_001.jpg",
+   "caption": "Long Island, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-li-03",
+   "file": "LGI_LI_003.jpg",
+   "caption": "Long Island, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-li-08",
+   "file": "LGI_LI_008.jpg",
+   "caption": "Long Island, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-street-drums",
+   "file": "_DSC0024.jpg",
+   "caption": "Street-corner set-up, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-night-1",
+   "file": "tfoiles_twar_AC_02.jpg",
+   "caption": "Night portrait on tour, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-night-2",
+   "file": "tfoiles_twar_AC_03.jpg",
+   "caption": "Night portrait on tour, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "dww-night-3",
+   "file": "tfoiles_twar_AC_10.jpg",
+   "caption": "Night portrait on tour, July 2010",
+   "category": "On tour",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "bts-practice",
+   "file": "_DSC7717.jpg",
+   "caption": "Rehearsal room",
+   "category": "Behind the scenes",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "bts-drums",
+   "file": "_DSC7724.jpg",
+   "caption": "Drum kit with the band's logo",
+   "category": "Behind the scenes",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "bts-cymbal",
+   "file": "_DSC7729.jpg",
+   "caption": "Signing a cymbal",
+   "category": "Behind the scenes",
+   "photographer": "Taylor Foiles"
+  },
+  {
+   "slug": "bts-couch",
+   "file": "_DSC7739.jpg",
+   "caption": "Laptops on the couch",
+   "category": "Behind the scenes",
+   "photographer": "Taylor Foiles"
+  }
+ ],
+ "members": [
+  {
+   "slug": "member-joe-gilford",
+   "file": "Joe_Gilford_PP.jpg",
+   "caption": "Joe Gilford",
+   "category": "Member portrait",
+   "photographer": "Taylor Foiles",
+   "long_edge": 700,
+   "crop_top_half": true
+  },
+  {
+   "slug": "member-tyler-smyth",
+   "file": "Tyler_Smyth_PP.jpg",
+   "caption": "Tyler Smyth",
+   "category": "Member portrait",
+   "photographer": "Taylor Foiles",
+   "long_edge": 700,
+   "crop_top_half": true
+  },
+  {
+   "slug": "member-taylor-foiles",
+   "file": "Taylor_Foiles_PP.jpg",
+   "caption": "Taylor Foiles",
+   "category": "Member portrait",
+   "photographer": "Taylor Foiles",
+   "long_edge": 700,
+   "crop_top_half": true
+  },
+  {
+   "slug": "member-kevin-hammond",
+   "file": "Kevin_Hammond_PP.jpg",
+   "caption": "Kevin Hammond",
+   "category": "Member portrait",
+   "photographer": "Taylor Foiles",
+   "long_edge": 700,
+   "crop_top_half": true
+  },
+  {
+   "slug": "member-chris-lairmore",
+   "file": "DEEZ_CHRIS.jpg",
+   "caption": "Chris Lairmore",
+   "category": "Member portrait",
+   "photographer": "Taylor Foiles",
+   "long_edge": 700
+  }
+ ],
+ "ephemera": [
+  {
+   "slug": "flyer-get-money-tour",
+   "file": "tfoiles_getmoney_tour.jpg",
+   "caption": "The Get Money Tour poster: Brokencyde, Let's Get It, School Boy Humor and Vogue in the Movement",
+   "creator": "Design: Taylor Foiles (file names tfoiles_getmoney_draft_1 to 4)",
+   "date": "2008-09-04/2008-09-10",
+   "event": "The Get Money Tour (Denver, Salt Lake City, Victorville, Phoenix, Dallas, Tulsa)",
+   "notes": "Lists the dates 9/4 Marquis Theater, Denver; 9/5 Avalon, Salt Lake City; 9/6 Karma, Victorville; 9/7 Chasers, Phoenix; 9/9 The Door, Dallas; 9/10 Pink Eye, Tulsa. The year is not printed; it matches the band's September 2008 MySpace schedule.",
+   "long_edge": 1600,
+   "kind": "Tour poster"
+  },
+  {
+   "slug": "flyer-digital-spaces-party",
+   "file": "1re-show.jpg",
+   "caption": "Digital Spaces EP Party flyer: The Attic Club, Kettering, Ohio",
+   "creator": "Designer not recorded (label and venue logos on the flyer)",
+   "date": "2009-07-24",
+   "event": "Digital Spaces EP release party",
+   "notes": "Friday, July 24. With Callahan, Small Scale Epic, Bazookas Go Bang, Harmon and To Kill A Monster; doors 7 pm, show 7:30 pm. The year is not printed; July 24 fell on a Friday in 2009, the EP's release year. A pre-release version of the flyer (CD pre-order for $5) exists in the band's files.",
+   "long_edge": 1600,
+   "kind": "Show flyer"
+  },
+  {
+   "slug": "flyer-miss-may-i-last-hometown-show",
+   "file": "FlyerMyspace.jpg",
+   "caption": "Miss May I presents their Last Hometown Show, with Let's Get It and The Crimson Armada",
+   "creator": "Promoter or label artwork (designer not recorded)",
+   "date": "2009-01-30",
+   "event": "Miss May I's Last Hometown Show, Troy High School, Troy, Ohio",
+   "notes": "Friday, January 30. Also on the bill: Jump So High, Wake The Wounded, Delta Delta, London Lay Low. Doors 6:00 pm, $10. The year is not printed; January 30 fell on a Friday in 2009.",
+   "long_edge": 1600,
+   "kind": "Show flyer"
+  },
+  {
+   "slug": "flyer-south-by-so-what",
+   "file": "2wgf1jq.jpg",
+   "caption": "South By So What festival flyer (Let's Get It on the bill)",
+   "creator": "Third String Productions (promoter)",
+   "date": "2009-03-14",
+   "event": "South By So What festival, Saturday, March 14",
+   "notes": "Printed venue: The Garland Special Events Center, Garland, Texas; Concert Archives lists the same day at the Plano Centre, Plano, Texas. Big lineup that also includes The Devil Wears Prada, A Day To Remember and many others. The year is not printed; March 14 fell on a Saturday in 2009.",
+   "long_edge": 1600,
+   "kind": "Festival flyer"
+  }
+ ]
+}
