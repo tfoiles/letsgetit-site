@@ -2,15 +2,17 @@
  {
   "name": "David Marsh",
   "role": "Manager",
-  "org": null,
-  "era": "Management agreement dated July 5, 2008 (initial three-year term); listed as management on the band's MySpace in January 2009; appears in a 2013 band-channel video",
+  "org": "The Standard Agency (Artist Development & Management)",
+  "era": "Management agreement dated July 5, 2008 (initial three-year term); listed on the band's MySpace in January 2009; the manager named on the October 2011 one-sheet (with The Standard Agency); appears in a 2013 band-channel video",
   "confidence": "HIGH",
   "source_ids": [
    "S10",
    "S22",
    "S29",
    "S35",
-   "S39"
+   "S39",
+   "S49",
+   "S52"
   ],
   "status": "Confirmed by the band's own management agreement",
   "notes": "The band-channel video (2013-02-10) is titled 'All My Life Cover (Studio Video feat. David Marsh)'. Addresses and contact details are deliberately not published."
@@ -18,14 +20,15 @@
  {
   "name": "Dave Shapiro",
   "role": "Booking agent",
-  "org": "The Agency Group",
-  "era": "Listed as booking on the band's MySpace in January 2009",
+  "org": "The Agency Group (Vice President in 2011-2013 signatures)",
+  "era": "Listed as booking on the band's MySpace in January 2009; emails on tours and ticket links 2010 to 2013",
   "confidence": "HIGH",
   "source_ids": [
    "S10",
    "S22",
    "S23",
-   "S24"
+   "S24",
+   "S51"
   ],
   "status": "Deceased: died May 22, 2025",
   "notes": "Shapiro later co-founded Sound Talent Group in 2018 (per AP). The 2025 report describes him as widely respected in the heavy-music scene."
@@ -33,13 +36,14 @@
  {
   "name": "JJ Cassiere",
   "role": "Booking agent",
-  "org": null,
-  "era": "Listed as booking agent on an earlier layout of the band's MySpace profile (date not recorded; the January 2009 profile lists Dave Shapiro)",
-  "confidence": "MEDIUM",
+  "org": "The Agency Group",
+  "era": "Booking agent at The Agency Group (2010 ticket-link emails); also on an earlier MySpace layout",
+  "confidence": "HIGH",
   "source_ids": [
-   "S39"
+   "S39",
+   "S51"
   ],
-  "status": "Not in the band owner's list; found in the band's own profile files",
+  "status": null,
   "notes": "Contact details in the profile code are deliberately not published."
  },
  {
@@ -61,66 +65,72 @@
   "name": "Chris Allen",
   "role": "Management (The Collective)",
   "org": "The Collective Music Group (thecollective-la.com)",
-  "era": "Joined The Collective as a Partner in July 2008 (company site, archived 2010)",
-  "confidence": "MEDIUM",
+  "era": "Partner at The Collective (company site, 2010); emails with the band in 2011 about business management and radio contacts",
+  "confidence": "HIGH",
   "source_ids": [
    "S22",
-   "S25"
+   "S25",
+   "S52"
   ],
-  "status": "Role and era at Let's Get It per band owner; the company site confirms Allen's position but does not mention the band",
-  "notes": "The company site says Allen 'discovered and managed' The All-American Rejects and Plain White T's; that is the site's own claim."
+  "status": null,
+  "notes": "The Collective's Christian Coffey also worked with the band in 2010 (S52)."
  },
  {
   "name": "Matt Feldman",
-  "role": "Management (Fanagement LLC)",
+  "role": "Manager (Fanagement LLC)",
   "org": "Fanagement LLC",
-  "era": null,
-  "confidence": "LOW",
+  "era": "2009 to 2010 (press release and album emails with Fearless in 2009; the Fanagement website was built in October 2010)",
+  "confidence": "HIGH",
   "source_ids": [
    "S22",
-   "S27"
+   "S27",
+   "S62"
   ],
-  "status": "Per band owner only; no public source found",
-  "notes": "Searches did not link a Matt Feldman to a company named Fanagement. An archived fanagement.com is a music-business blog; the connection is unconfirmed."
+  "status": null,
+  "notes": "Signed emails as 'Matt Feldman, Fanagement LLC'. Contact details are not published."
  },
  {
   "name": "Jamie Irvine",
   "role": "Tour manager",
   "org": null,
-  "era": null,
-  "confidence": "LOW",
+  "era": "2010 to 2011 (named by The Collective in August 2010 and by a band member in October 2011)",
+  "confidence": "HIGH",
   "source_ids": [
-   "S22"
+   "S22",
+   "S52",
+   "S56"
   ],
-  "status": "Per band owner only; no public source found",
-  "notes": "Searches for this name returned unrelated people; none is identified as this tour manager."
+  "status": "Named as the band's tour manager",
+  "notes": null
  },
  {
   "name": "Billy Adams",
   "role": "Touring merchandise",
   "org": null,
   "era": null,
-  "confidence": "LOW",
+  "confidence": "MEDIUM",
   "source_ids": [
-   "S22"
+   "S22",
+   "S46"
   ],
-  "status": "Per band owner only; no public source found",
-  "notes": null
+  "status": "Tyler Smyth's earlier bandmate and 'our now merch guy' per the February 2010 interview answers",
+  "notes": "Earlier band: Me in the Making / Words as Weapons (per S46)."
  },
  {
   "name": "Nate Matzelle",
-  "role": "Fearless Records A&R",
+  "role": "Director of Marketing and Promotions, Fearless Records (the band's day-to-day label contact)",
   "org": "Fearless Records",
   "era": null,
-  "confidence": "MEDIUM",
+  "confidence": "HIGH",
   "source_ids": [
    "S22",
    "S28",
    "S29",
-   "S42"
+   "S42",
+   "S48"
   ],
-  "status": "A&R role per band owner; a public profile snippet describes a marketing and promotions role at Fearless, so the title is unresolved",
-  "notes": "The band's planning notes (S42) say video files went to 'Nate' at Fearless for the label's YouTube channel, and a band-channel video is titled 'Our A&R Nate' (S29). The surname is not given in either; a public profile snippet gives marketing and promotions (S28). He may have handled both."
+  "status": "Title from his 2011 email signature (S48); the band's own video called him 'our A&R Nate' (S29)",
+  "notes": "Resolves the A&R versus marketing question: he handled the label's marketing and promotion for the band."
  },
  {
   "name": "Joey Sturgis",
@@ -170,5 +180,69 @@
   ],
   "status": "Per the band's artwork notes",
   "notes": null
+ },
+ {
+  "name": "Sam James Velde",
+  "role": "Director of Music Licensing, Fearless Records",
+  "org": "Fearless Records",
+  "era": "2011",
+  "confidence": "HIGH",
+  "source_ids": [
+   "S48"
+  ],
+  "status": null,
+  "notes": "Handled the MTV placement paperwork and the Back To School digital sampler."
+ },
+ {
+  "name": "Christian Coffey",
+  "role": "Management team (The Collective): sponsorships, press and promotion",
+  "org": "The Collective Music Group",
+  "era": "2010 to 2011 (sponsors, Ernie Ball deal, interviews, one-sheets, tour posters)",
+  "confidence": "HIGH",
+  "source_ids": [
+   "S52",
+   "S53",
+   "S54",
+   "S56"
+  ],
+  "status": "Emails with the band in September and October 2010, including sponsor and page details",
+  "notes": null
+ },
+ {
+  "name": "Joe Holt",
+  "role": "Booking (Legendary Industries Booking)",
+  "org": "Legendary Industries Booking",
+  "era": "2011 to early 2012",
+  "confidence": "MEDIUM",
+  "source_ids": [
+   "S51"
+  ],
+  "status": "Prospective dates and routing emails in 2011",
+  "notes": null
+ },
+ {
+  "name": "Jenny Reader",
+  "role": "Publicity, Fearless Records",
+  "org": "Fearless Records",
+  "era": "2009 to 2010",
+  "confidence": "MEDIUM",
+  "source_ids": [
+   "S58",
+   "S46"
+  ],
+  "status": null,
+  "notes": "Passed Alternative Press and Box of Mess interview requests to the band."
+ },
+ {
+  "name": "Paige Holbrook",
+  "role": "The Agency Group (itineraries and tour history)",
+  "org": "The Agency Group",
+  "era": "2011",
+  "confidence": "MEDIUM",
+  "source_ids": [
+   "S59"
+  ],
+  "status": null,
+  "notes": "Compiled the band's tour history for it in May 2011."
  }
 ]

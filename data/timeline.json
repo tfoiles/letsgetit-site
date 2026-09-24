@@ -93,21 +93,30 @@
   "confidence": "LOW-MEDIUM"
  },
  {
-  "date": "About 2009",
-  "event": "Signed to Fearless Records 'just after the band's one-year anniversary' (about a year after forming; exact date not stated).",
-  "source_ids": [
-   "S1",
-   "S22"
-  ],
-  "confidence": "HIGH"
- },
- {
   "date": "2009-04-28",
   "event": "'All My Life' appears on the Rockin' Romance compilation (Destiny Worldwide Records).",
   "source_ids": [
    "S6"
   ],
   "confidence": "MEDIUM"
+ },
+ {
+  "date": "2009-05-04",
+  "event": "Signed to Fearless Records 'officially' (per Taylor Foiles' email to Alternative Press via Fearless, November 2009). The label's bio says 'just after the band's one-year anniversary'.",
+  "source_ids": [
+   "S58",
+   "S1",
+   "S22"
+  ],
+  "confidence": "HIGH"
+ },
+ {
+  "date": "2009-06",
+  "event": "Matt Feldman (Fanagement LLC) manages the band; press-release and album emails with Fearless.",
+  "source_ids": [
+   "S62"
+  ],
+  "confidence": "HIGH"
  },
  {
   "date": "2009-06-25",
@@ -117,6 +126,14 @@
    "S29"
   ],
   "confidence": "HIGH"
+ },
+ {
+  "date": "2009-07",
+  "event": "Appears in Alternative Press issue 249 (Hometown Heroes); AP asks for follow-up quotes in November 2009.",
+  "source_ids": [
+   "S58"
+  ],
+  "confidence": "MEDIUM"
  },
  {
   "date": "2009-07-24",
@@ -177,12 +194,28 @@
   "confidence": "LOW-MEDIUM"
  },
  {
+  "date": "2009-11-23",
+  "event": "Band answers Alternative Press's follow-up questions (tours, EP, plans for 2010).",
+  "source_ids": [
+   "S58"
+  ],
+  "confidence": "HIGH"
+ },
+ {
   "date": "2009-12-31",
   "event": "Show at The Attic, Kettering, with Miss May I and London Lay Low (fan listing).",
   "source_ids": [
    "S18"
   ],
   "confidence": "LOW-MEDIUM"
+ },
+ {
+  "date": "2010-02-05",
+  "event": "Band answers a Box of Mess interview (name, formation, Bamboozle, Tap Tap Revenge 3).",
+  "source_ids": [
+   "S46"
+  ],
+  "confidence": "HIGH"
  },
  {
   "date": "2010-02-09 to 2010-03-02",
@@ -210,6 +243,14 @@
   "confidence": "HIGH"
  },
  {
+  "date": "2010-04-19",
+  "event": "Band answers 'For Your Scene' interview questions.",
+  "source_ids": [
+   "S60"
+  ],
+  "confidence": "HIGH"
+ },
+ {
   "date": "2010-04-28 to 2010-05-15",
   "event": "Dates with VersaEmerge and I See Stars (fan-submitted listings).",
   "source_ids": [
@@ -227,12 +268,28 @@
   "confidence": "MEDIUM"
  },
  {
+  "date": "2010-05-08",
+  "event": "The band sends its management a sponsors list: Fender, EV, SJC Drums, Skelanimals, Umbrella, HK Army and others.",
+  "source_ids": [
+   "S53"
+  ],
+  "confidence": "HIGH"
+ },
+ {
   "date": "2010-07-29",
   "event": "Press release: band to record its debut album in Hollywood, CA in late August 2010 with Ian Kirkpatrick and Mike Green.",
   "source_ids": [
    "S15"
   ],
   "confidence": "MEDIUM"
+ },
+ {
+  "date": "2010-08-13",
+  "event": "Ernie Ball endorsement deal arranged through The Collective.",
+  "source_ids": [
+   "S54"
+  ],
+  "confidence": "HIGH"
  },
  {
   "date": "2010-09/10",
@@ -267,6 +324,14 @@
   "confidence": "HIGH"
  },
  {
+  "date": "2011-03-30",
+  "event": "Album credits sent to Fearless: Ian Kirkpatrick and Mike Green recorded and mixed the songs.",
+  "source_ids": [
+   "S50"
+  ],
+  "confidence": "HIGH"
+ },
+ {
   "date": "2011-04-21",
   "event": "'We Don't Care' video and free download released ahead of the album.",
   "source_ids": [
@@ -285,11 +350,27 @@
   "confidence": "HIGH"
  },
  {
+  "date": "2011-05-05",
+  "event": "The Agency Group sends the band a compiled tour history and finals (PDFs).",
+  "source_ids": [
+   "S59"
+  ],
+  "confidence": "HIGH"
+ },
+ {
   "date": "2011-05-24",
   "event": "Masters of the Universe released on Fearless Records.",
   "source_ids": [
    "S21",
    "S3"
+  ],
+  "confidence": "HIGH"
+ },
+ {
+  "date": "2011-05-31",
+  "event": "Fearless offers the band a free spot on its Back To School digital sampler; the band picks 'We Don't Care'.",
+  "source_ids": [
+   "S48"
   ],
   "confidence": "HIGH"
  },
@@ -300,6 +381,22 @@
    "S14"
   ],
   "confidence": "HIGH"
+ },
+ {
+  "date": "2011-07-20",
+  "event": "'Ciroc and Roll' airs on MTV's The Challenge 21: Rivals with an on-screen credit.",
+  "source_ids": [
+   "S48"
+  ],
+  "confidence": "HIGH"
+ },
+ {
+  "date": "2011-10-04",
+  "event": "David Marsh circulates a draft one-sheet listing the band's plays and followers.",
+  "source_ids": [
+   "S49"
+  ],
+  "confidence": "MEDIUM"
  },
  {
   "date": "2011-12-10",

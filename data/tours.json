@@ -2639,7 +2639,7 @@
  {
   "date": "2009-10-26",
   "time": "",
-  "venue": "Paparazzi",
+  "venue": "Sonar",
   "city": "Baltimore",
   "state_country": "Maryland, USA",
   "tour": "Atticus Metal Tour (2009)",
@@ -2661,7 +2661,7 @@
   ],
   "archive_url": null,
   "confidence": "LOW-MEDIUM",
-  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: Sonar"
+  "notes": "2 fan submission(s) on Concert Archives; venue also spelled: Paparazzi"
  },
  {
   "date": "2009-10-27",
@@ -5617,6 +5617,26 @@
   "notes": "1 fan submission(s) on Concert Archives"
  },
  {
+  "date": "2011-06-26",
+  "time": "",
+  "venue": "The Attic",
+  "city": "Kettering",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "A concert-promotion report dated 'June 26th 2011' at The Attic, Kettering (S65); another email refers to 'the Attic show on June 28th'",
+  "source_ids": [
+   "S65"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Two emails give different days; unresolved.",
+  "archive_url": null,
+  "source_urls": []
+ },
+ {
   "date": "2011-12-10",
   "time": "",
   "venue": "Centennial Hall, Fair Park",
@@ -5626,16 +5646,17 @@
   "supporting_artists_or_bill": [],
   "headliner": null,
   "festival": "Unsilent Night 4",
-  "status": "POSSIBLE",
-  "basis": "Listed on Concert Archives (fan-submitted, more than one submission); no other source found",
+  "status": "CORROBORATED",
+  "basis": "Concert Archives lists the Unsilent Night 4 lineup (fan submissions, which conflict on the bill) and an October 2011 email from a band member says 'LGI is playing the event' (S64)",
   "source_ids": [
-   "S18"
+   "S18",
+   "S64"
   ],
   "source_urls": [
    "https://www.concertarchives.org/concerts/unsilent-night-4--3"
   ],
   "archive_url": null,
-  "confidence": "LOW-MEDIUM",
+  "confidence": "MEDIUM",
   "notes": "3 fan submission(s) on Concert Archives; the submissions carry different festival lineups, so no bill is shown"
  },
  {

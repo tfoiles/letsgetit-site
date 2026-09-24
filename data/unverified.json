@@ -1,8 +1,8 @@
 [
  {
   "claim": "Named one of Alternative Press's '100 Bands You Need To Know 2010'",
-  "basis": "Stated only in the 2010 press release repost (S15). The AP 2010 issue page returned 403, and a search summary of the published list did not include the band.",
-  "action": "Check the printed issue #261 (April 2010) or the AP page.",
+  "basis": "The press release repost (S15) says 2010. A band member's own email says the band was in AP issue 249 (Hometown Heroes) (S58); the two are not the same and the 2010 listing is unconfirmed.",
+  "action": "Check AP issue 249 and the 2010 list (NEEDS_FROM_YOU A5).",
   "source_ids": [
    "S15"
   ]
@@ -40,15 +40,6 @@
   ]
  },
  {
-  "claim": "Team roles for Matt Feldman (Fanagement LLC), Jamie Irvine (tour manager) and Billy Adams (touring merch)",
-  "basis": "Given by the band owner (S22); no public source found.",
-  "action": "See NEEDS_FROM_YOU F5 to F7.",
-  "source_ids": [
-   "S22",
-   "S27"
-  ]
- },
- {
   "claim": "Where Joe Gilford, Taylor Foiles, Kevin Hammond and Chris Lairmore are now",
   "basis": "Searches returned nothing that could be tied to these members (results were other people with similar names).",
   "action": "Members supply what they are happy to have public (NEEDS_FROM_YOU B6).",
@@ -57,11 +48,11 @@
   ]
  },
  {
-  "claim": "Exact date the band signed to Fearless Records",
-  "basis": "Only 'just after the band's one-year anniversary' (S1) is documented; the band owner approves that wording (S22). No signing announcement found.",
-  "action": "Band owner supplies the date (NEEDS_FROM_YOU B4).",
+  "claim": "(Resolved) Fearless signing date",
+  "basis": "Taylor Foiles' November 2009 email gives May 4, 2009 (S58).",
+  "action": "Band owner to confirm (NEEDS_FROM_YOU G6).",
   "source_ids": [
-   "S1",
+   "S58",
    "S22"
   ]
  },
@@ -71,6 +62,14 @@
   "action": "Retry the Internet Archive.",
   "source_ids": [
    "S34"
+  ]
+ },
+ {
+  "claim": "Which Gmail attachments (flyers, itineraries, PDFs) exist and are usable",
+  "basis": "Several threads carry attachments (tour history PDFs from The Agency Group, tour posters, one-sheets, an Ernie Ball logo) but the mail tool cannot download attachments.",
+  "action": "The band owner saves them, or a Google Takeout export is processed locally (GMAIL_SEARCH_PLAN.md).",
+  "source_ids": [
+   "S59"
   ]
  }
 ]

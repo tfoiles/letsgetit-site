@@ -47,5 +47,23 @@
   ],
   "confidence": "LOW-MEDIUM",
   "notes": "Flyer: Fearless Records and The Attic logos, $10 advance / $12 door; a pre-release version advertises the EP pre-order for $5."
+ },
+ {
+  "date": "2011-06-26",
+  "time": "",
+  "venue": "The Attic",
+  "city": "Kettering",
+  "state_country": "Ohio, USA",
+  "tour": null,
+  "supporting_artists_or_bill": [],
+  "headliner": null,
+  "festival": null,
+  "status": "POSSIBLE",
+  "basis": "A concert-promotion report dated 'June 26th 2011' at The Attic, Kettering (S65); another email refers to 'the Attic show on June 28th'",
+  "source_ids": [
+   "S65"
+  ],
+  "confidence": "LOW-MEDIUM",
+  "notes": "Two emails give different days; unresolved."
  }
 ]

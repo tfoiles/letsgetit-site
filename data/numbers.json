@@ -70,6 +70,16 @@
    "notes": "As shown on the artist page."
   },
   {
+   "metric": "Figures on the manager's one-sheet (draft)",
+   "value": "MySpace 35,900 friends and 1,482,586 plays; Facebook 25,600 friends and 437,205 plays; YouTube 449,379 plays; PureVolume 364,000 plays and 4,400 fans; Twitter 3,800 followers; Next Big Sound combined fan base 114,519",
+   "as_of": "2011-10-04",
+   "source_ids": [
+    "S49"
+   ],
+   "confidence": "MEDIUM",
+   "notes": "Self-reported figures in a draft written by David Marsh (The Standard Agency)."
+  },
+  {
    "metric": "MySpace profile views",
    "value": "282,295 (Aug 29, 2008) to 1,498,188 (Aug 2, 2009)",
    "as_of": "2009-08-02",
@@ -113,5 +123,5 @@
    "notes": ""
   }
  ],
- "missing": "Record sales, digital sales, SoundScan, Spotify lifetime streams, iTunes and Apple Music figures, chart positions, and the total number of shows actually played."
+ "missing": "Record sales, digital sales, SoundScan and first-week figures (the band asked Fearless for first-week numbers in July 2011), Spotify lifetime streams, iTunes and Apple Music figures, chart positions, and the total number of shows actually played."
 }

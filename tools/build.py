@@ -305,6 +305,27 @@ def gen_numbers():
     )
 
 
+def gen_achievements():
+    items = "".join(
+        f'<li><strong>{e(a["title"])}</strong> <span class="src">{e(a["date"])}</span><br><span class="srcnote">{e(a["detail"])}</span> {cites(a["source_ids"])} {conf_tag(a["confidence"])}</li>'
+        for a in load("achievements")
+    )
+    return f'<h3>Placements and milestones</h3><ul class="plain notes">{items}</ul>'
+
+
+def gen_sponsors():
+    d = load("sponsors")
+    rows = "".join(
+        f'<li><strong>{e(x["name"])}</strong> <span class="src">· {e(x["kind"])} · {e(x["period"])}</span><br><span class="srcnote">{e(x["detail"])}</span> {cites(x["source_ids"])} {conf_tag(x["confidence"])}</li>'
+        for x in d
+    )
+    return (
+        '<p>Companies that supported the band with gear, clothing or deals, as recorded in the band\'s own emails and paperwork. Prices and account details are not published.</p>'
+        f'<ul class="plain notes">{rows}</ul>'
+        '<div class="needed"><span class="label">ENTRY NEEDED</span>Any other sponsors, and the Fender endorsement details (models, who arranged it, dates).</div>'
+    )
+
+
 def gen_press():
     items = []
     for p in load("press"):
@@ -367,6 +388,8 @@ BLOCKS = {
     "tours": gen_tours,
     "media": gen_media,
     "numbers": gen_numbers,
+    "sponsors": gen_sponsors,
+    "achievements": gen_achievements,
     "photos": gen_photos,
     "ephemera": gen_ephemera,
     "press": gen_press,

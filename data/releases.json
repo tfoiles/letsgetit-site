@@ -35,7 +35,7 @@
    "S6"
   ],
   "confidence": "HIGH",
-  "notes": "S11 (Fearless news ticker on the band's MySpace, 2009-07-27) says the EP streams on PureVolume and releases Aug 4, pre-order via SmartPunk, MerchNow, InterPunk; this corroborates the date. Fearless bio: two new songs plus re-recordings of four earlier songs (Do Not Disturb, Duck Duck Grey Goose, Maps, Shoot for Teams). Discogs (S6) gives the catalog number FRL 30126-2 and a CD EP edition."
+  "notes": "S11 (Fearless news ticker on the band's MySpace, 2009-07-27) says the EP streams on PureVolume and releases Aug 4, pre-order via SmartPunk, MerchNow, InterPunk; this corroborates the date. Fearless bio: two new songs plus re-recordings of four earlier songs (Do Not Disturb, Duck Duck Grey Goose, Maps, Shoot for Teams). Discogs (S6) gives the catalog number FRL 30126-2 and a CD EP edition. 'Ciroc and Roll' was later placed in MTV's The Challenge 21: Rivals (July 2011, S48)."
  },
  {
   "title": "Masters of the Universe",
@@ -44,7 +44,7 @@
   "label": "Fearless Records",
   "catalog_number": null,
   "formats": [
-   "Digital album / MP3 (Discogs lists 14 tracks)"
+   "Digital album / MP3 (Discogs lists 14 tracks); no physical CD was pressed by the label (S47)"
   ],
   "tracks": [
    "Audacity of Dope",
@@ -63,7 +63,10 @@
   ],
   "credits": [
    "Recording: announced July 2010 for Hollywood, CA with Ian Kirkpatrick and Mike Green, late August 2010 (per S15; announcement only, final production credits not yet confirmed)",
-   "Cover illustration: Marco Patini Furtado (per the band's artwork notes, S41)"
+   "Cover illustration: Marco Patini Furtado (per the band's artwork notes, S41)",
+   "Ian Kirkpatrick recorded and mixed 'We Don't Care' and 'Eyes On Me' (at his house, Los Angeles)",
+   "Mike Green recorded and mixed 'Keep It Up' and the remaining songs (at his studio, Los Angeles)",
+   "Sessions and credits per the band's April 2011 emails to Fearless (S50)"
   ],
   "artwork_source": "Elephant illustration by Marco Patini Furtado, per the band's artwork notes",
   "links": [
@@ -80,10 +83,12 @@
    "S15",
    "S21",
    "S31",
-   "S41"
+   "S41",
+   "S47",
+   "S50"
   ],
-  "confidence": "HIGH (date, 13 tracks); MEDIUM (production credits)",
-  "notes": "Official Fearless list has 13 tracks. MusicBrainz and Discogs list a 14th, 'Fade Out (alternate version)', on the digital edition. Under the Gun Review calls it Power-pop/Dance on Fearless Records. Dying Scene (S31) covers the 'Eyes On Me' lyric video and the free 'We Don't Care' download ahead of the release."
+  "confidence": "HIGH",
+  "notes": "Official Fearless list has 13 tracks. MusicBrainz and Discogs list a 14th, 'Fade Out (alternate version)', on the digital edition. Under the Gun Review calls it Power-pop/Dance on Fearless Records. Dying Scene (S31) covers the 'Eyes On Me' lyric video and the free 'We Don't Care' download ahead of the release. A band member wrote in February 2012 that the label never printed physical CDs of the album (S47)."
  },
  {
   "title": "Rockin' Romance",

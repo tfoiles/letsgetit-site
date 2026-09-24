@@ -86,24 +86,37 @@
  },
  {
   "id": "C10",
-  "topic": "Nate Matzelle's title",
-  "summary": "The band owner gives A&R (S22); a public profile snippet describes marketing and promotions at Fearless (S28). A band-channel video titled 'Our A&R Nate wrestling with Chris' (2010-09-25, S29) supports an A&R contact named Nate, but does not give the surname. Unresolved; possibly different periods.",
+  "topic": "Nate Matzelle's title (resolved)",
+  "summary": "The band owner gave A&R (S22); a public profile said marketing and promotions (S28). His 2011 Fearless email signature reads 'Director of Marketing' and 'Director of Marketing and Promotions' (S48), and the band's own video called him 'our A&R Nate' (S29). He was the band's day-to-day label contact.",
   "source_ids": [
    "S22",
    "S28",
-   "S29"
-  ]
+   "S29",
+   "S48"
+  ],
+  "resolved": true
  },
  {
   "id": "C11",
-  "topic": "When the band signed to Fearless",
-  "summary": "The Fearless bio (S1) says the band signed 'just after the band's one-year anniversary' (about summer 2009), and the band owner approves that wording (S22). The band's own MySpace called the label 'Unsigned' in August 2008 and January 2009 (S9, S10), yet a draft Fearless recording deal memo in the band's files is headed 'as of January __, 2009' (S37). A draft's 'as of' date is not the signing date, so the actual date remains unknown.",
+  "topic": "When the band signed to Fearless (resolved)",
+  "summary": "Taylor Foiles wrote to Alternative Press in November 2009 that the band 'signed to Fearless Records officially on May 4th, 2009' (S58). The label's bio says 'just after the band's one-year anniversary' (S1) and the band's MySpace read 'Unsigned' in January 2009 (S9, S10); a draft deal memo is headed 'as of January __, 2009' (S37). The draft's 'as of' date is not the signing date, so the archive uses May 4, 2009.",
   "source_ids": [
    "S1",
    "S9",
    "S10",
    "S22",
-   "S37"
+   "S37",
+   "S58"
+  ],
+  "resolved": true
+ },
+ {
+  "id": "C12",
+  "topic": "Alternative Press appearance",
+  "summary": "The 2010 press release repost (S15) says the band was named one of Alternative Press's '100 Bands You Need To Know 2010'. Taylor Foiles wrote in November 2009 that the band appeared in AP issue 249 (Hometown Heroes) (S58). Issue 249 was published in 2009, so the '2010' claim is unconfirmed.",
+  "source_ids": [
+   "S15",
+   "S58"
   ]
  }
 ]

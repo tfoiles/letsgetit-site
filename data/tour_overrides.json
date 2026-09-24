@@ -83,5 +83,17 @@
    "S38"
   ],
   "basis": "Concert Archives lists Plano Centre, Plano, on this day; the South By So What flyer (S38) lists Let's Get It the same day but prints the venue as The Garland Special Events Center, Garland"
+ },
+ {
+  "id": "O7",
+  "match": {
+   "date": "2011-12-10"
+  },
+  "status": "CORROBORATED",
+  "confidence": "MEDIUM",
+  "add_sources": [
+   "S64"
+  ],
+  "basis": "Concert Archives lists the Unsilent Night 4 lineup (fan submissions, which conflict on the bill) and an October 2011 email from a band member says 'LGI is playing the event' (S64)"
  }
 ]
